@@ -1,0 +1,89 @@
+conf: model_config
+
+player:
+  player1:
+    load_from_path: ""
+    type: chatglm
+    config:
+      model_path: /nlp_data/zoo/pretrain/glm_model/6B/
+      max_length: 384
+      do_sample: False
+  player2:
+    type: vicuna
+    load_from_path: ""
+    config:
+      model_path: /nlp_data/zoo/pretrain/huggingface/vicuna/13B/
+      max_length: 384
+      generate_template: "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.###Human: {instruction} ###Assistant:"
+  player3:
+    type: openai
+    load_from_path: ""
+    config:
+      model_name: gpt-3.5-turbo
+      temperature: 0
+      timeout: 120
+  player4:
+    type: nemo
+    load_from_path: ""
+    config:
+      config_path: configs/megatron_gpt_inference.yaml
+      generate_template: "Below is an instruction that describes a task. Write a response that appropriately completes the request. Instruction: {instruction} Response:"
+  player5:
+    type: llama_api
+    load_from_path: ""
+    batchsize: 8
+    config:
+      addr: 10.128.8.193
+      port: 29400
+      max_length: 384
+  player6:
+    type: wenxin
+    load_from_path: ""
+    config:
+      ak: ysilhIsDzOWZ0kHpxmLWG4Gi
+      sk: LwN0z42yDG6GWXyYeeAIM74Qc3Ymmaoz
+  player7:
+    type: moss
+    load_from_path: ""
+    config:
+      model_path: /nlp_data/zoo/pretrain/huggingface/moss/moss-moon-003-sft/
+      gpu_list: 0,1
+      max_length: 384
+      do_sample: False
+  player8:
+    type: shuyan
+    load_from_path: ""
+    config:
+      addr: 123.249.90.208
+      port: 8101
+      max_length: 384
+  player9:
+    type: ziya
+    load_from_path: ""
+    config:
+      model_path: /nlp_data/zoo/pretrain/huggingface/ziya_llama_13B/
+      max_length: 384
+      do_sample: False
+  player10:
+    type: maas
+    load_from_path: ""
+    config:
+      url: "http://10.128.167.214:20225"
+      maasKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJtYWFzQHRlc3QiLCJQYXJlbnRJZCI6ImRlZmF1bHQtc3VwZXIiLCJvcmciOiJydCJ9.yF7bJ1_i-AYACw0Och8VZoICszl3Irzs6Er9na1a4I0"
+  player11:
+    type: maas_engine
+    load_from_path: ""
+    config:
+      url: "http://10.128.2.79:18004"
+      maasKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJtYWFzQHRlc3QiLCJQYXJlbnRJZCI6ImRlZmF1bHQtc3VwZXIiLCJvcmciOiJydCJ9.yF7bJ1_i-AYACw0Och8VZoICszl3Irzs6Er9na1a4I0"
+
+
+reviewer:
+  reviewer1:
+    type: openai
+    worker: 10
+    metric: score
+    rank_flip: False
+    config:
+      model_name: gpt-3.5-turbo ## gpt-3.5-turbo, gpt-4-0314 
+      temperature: 0

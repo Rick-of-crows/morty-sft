@@ -1,0 +1,171 @@
+[
+  {
+    "type": "Anagrams",
+    "lang": "EN",
+    "question_num": 2336,
+    "instruction": "Find the anagram of the input word (output is a single word)aotliibcyauntc",
+    "output": "accountability",
+    "source": "openai"
+  },
+  {
+    "type": "Anagrams",
+    "lang": "EN",
+    "question_num": 2337,
+    "instruction": "Find the anagram of the input word (output is a single word)toetdaicnciar",
+    "output": "accreditation",
+    "source": "openai"
+  },
+  {
+    "type": "Anagrams",
+    "lang": "EN",
+    "question_num": 2338,
+    "instruction": "Find the anagram of the input word (output is a single word)etmsnievahec",
+    "output": "achievements",
+    "source": "openai"
+  },
+  {
+    "type": "Anagrams",
+    "lang": "EN",
+    "question_num": 2339,
+    "instruction": "Find the anagram of the input word (output is a single word)eadlwnekdcog",
+    "output": "acknowledged",
+    "source": "openai"
+  },
+  {
+    "type": "Anagrams",
+    "lang": "EN",
+    "question_num": 2340,
+    "instruction": "Find the anagram of the input word (output is a single word)cnitaiiqouss",
+    "output": "acquisitions",
+    "source": "openai"
+  },
+  {
+    "type": "Anagrams",
+    "lang": "EN",
+    "question_num": 2341,
+    "instruction": "Find the anagram of the input word (output is a single word)iolidnltadya",
+    "output": "additionally",
+    "source": "openai"
+  },
+  {
+    "type": "Anagrams",
+    "lang": "EN",
+    "question_num": 2342,
+    "instruction": "Find the anagram of the input word (output is a single word)mideadetsrni",
+    "output": "administered",
+    "source": "openai"
+  },
+  {
+    "type": "Anagrams",
+    "lang": "EN",
+    "question_num": 2343,
+    "instruction": "Find the anagram of the input word (output is a single word)nidtiamrtsaoin",
+    "output": "administration",
+    "source": "openai"
+  },
+  {
+    "type": "Anagrams",
+    "lang": "EN",
+    "question_num": 2344,
+    "instruction": "Find the anagram of the input word (output is a single word)adniesattmiivr",
+    "output": "administrative",
+    "source": "openai"
+  },
+  {
+    "type": "Anagrams",
+    "lang": "EN",
+    "question_num": 2345,
+    "instruction": "Find the anagram of the input word (output is a single word)moirastidrant",
+    "output": "administrator",
+    "source": "openai"
+  },
+  {
+    "type": "Anagrams",
+    "lang": "EN",
+    "question_num": 2346,
+    "instruction": "Find the anagram of the input word (output is a single word)aianrrmtstsdio",
+    "output": "administrators",
+    "source": "openai"
+  },
+  {
+    "type": "Anagrams",
+    "lang": "EN",
+    "question_num": 2347,
+    "instruction": "Find the anagram of the input word (output is a single word)iemrentatsved",
+    "output": "advertisement",
+    "source": "openai"
+  },
+  {
+    "type": "Anagrams",
+    "lang": "EN",
+    "question_num": 2348,
+    "instruction": "Find the anagram of the input word (output is a single word)dseamvresettni",
+    "output": "advertisements",
+    "source": "openai"
+  },
+  {
+    "type": "Anagrams",
+    "lang": "EN",
+    "question_num": 2349,
+    "instruction": "Find the anagram of the input word (output is a single word)urgrticalalu",
+    "output": "agricultural",
+    "source": "openai"
+  },
+  {
+    "type": "Anagrams",
+    "lang": "EN",
+    "question_num": 2350,
+    "instruction": "Find the anagram of the input word (output is a single word)lbctalaaihpe",
+    "output": "alphabetical",
+    "source": "openai"
+  },
+  {
+    "type": "Anagrams",
+    "lang": "EN",
+    "question_num": 2351,
+    "instruction": "Find the anagram of the input word (output is a single word)itlleearvynta",
+    "output": "alternatively",
+    "source": "openai"
+  },
+  {
+    "type": "Anagrams",
+    "lang": "EN",
+    "question_num": 2352,
+    "instruction": "Find the anagram of the input word (output is a single word)aisavteltnre",
+    "output": "alternatives",
+    "source": "openai"
+  },
+  {
+    "type": "Anagrams",
+    "lang": "EN",
+    "question_num": 2353,
+    "instruction": "Find the anagram of the input word (output is a single word)onmuateecnnn",
+    "output": "announcement",
+    "source": "openai"
+  },
+  {
+    "type": "Anagrams",
+    "lang": "EN",
+    "question_num": 2354,
+    "instruction": "Find the anagram of the input word (output is a single word)uctmnnneneaos",
+    "output": "announcements",
+    "source": "openai"
+  },
+  {
+    "type": "Anagrams",
+    "lang": "EN",
+    "question_num": 2355,
+    "instruction": "Find the anagram of the input word (output is a single word)tryolhapoong",
+    "output": "anthropology",
+    "source": "openai"
+  },
+  {
+    "type": "Anagrams",
+    "lang": "EN",
+    "question_num": 2356,
+    "instruction": "Find the anagram of the input word (output is a single word)aoniscipaplt",
+    "output": "applications",
+    "source": "openai"
+  }
+]
+

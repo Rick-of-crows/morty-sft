@@ -1,0 +1,162 @@
+[
+    {
+      "type": "History",
+      "lang": "CN",
+      "question_num": 264474,
+      "instruction": "中国第一位皇帝叫什么名字?",
+      "output": "秦始皇嬴政。",
+      "source": "wangxi"
+    },
+    {
+      "type": "History",
+      "lang": "CN",
+      "question_num": 264475,
+      "instruction": "新中国成立的具体时间是？",
+      "output": "1949年10月1日",
+      "source": "wangxi"
+    },
+    {
+      "type": "History",
+      "lang": "CN",
+      "question_num": 264476,
+      "instruction": "中国近代历史上第一个不平等条约是？",
+      "output": "南京条约",
+      "source": "wangxi"
+    },
+    {
+      "type": "History",
+      "lang": "CN",
+      "question_num": 264477,
+      "instruction": "杜甫诗句“功盖三分国，名成八阵图”所说的政治家是？",
+      "output": "诸葛亮",
+      "source": "wangxi"
+    },
+    {
+      "type": "History",
+      "lang": "CN",
+      "question_num": 264477,
+      "instruction": "中国历史上被誉为“药王“的是？",
+      "output": "孙思邈",
+      "source": "wangxi"
+    },
+    {
+      "type": "History",
+      "lang": "CN",
+      "question_num": 264477,
+      "instruction": "陕西省一块著名的“无字碑”，它与哪位皇帝有关？",
+      "output": "武则天",
+      "source": "wangxi"
+    },
+    {
+      "type": "History",
+      "lang": "CN",
+      "question_num": 264478,
+      "instruction": "中国历史上著名战役“长平之战”交战双方是谁？",
+      "output": "秦国、赵国",
+      "source": "wangxi"
+    },
+    {
+      "type": "History",
+      "lang": "CN",
+      "question_num": 264479,
+      "instruction": "典故“霸王别姬”是说的哪两位历史人物的故事？",
+      "output": "项羽、虞姬",
+      "source": "wangxi"
+    },
+    {
+      "type": "History",
+      "lang": "CN",
+      "question_num": 264480,
+      "instruction": "商鞅变法发生在中国历史的哪个时期？",
+      "output": "战国时期",
+      "source": "wangxi"
+    },
+    {
+      "type": "History",
+      "lang": "CN",
+      "question_num": 264481,
+      "instruction": "典故“烽火戏诸侯”说的是哪一位帝王？",
+      "output": "周幽王",
+      "source": "wangxi"
+    },
+    {
+      "type": "History",
+      "lang": "CN",
+      "question_num": 264482,
+      "instruction": "典故“卧薪尝胆”说的是哪位历史人物的故事？",
+      "output": "越王勾践",
+      "source": "wangxi"
+    },
+    {
+      "type": "History",
+      "lang": "CN",
+      "question_num": 264483,
+      "instruction": "辛亥革命后被推翻的最后一位皇帝是？",
+      "output": "溥仪",
+      "source": "wangxi"
+    },
+    {
+      "type": "History",
+      "lang": "CN",
+      "question_num": 264484,
+      "instruction": "中国历史上第一次农民起义是？",
+      "output": "大泽乡起义，又称陈胜吴广起义。",
+      "source": "wangxi"
+    },
+    {
+      "type": "History",
+      "lang": "CN",
+      "question_num": 264485,
+      "instruction": "我国历史上第二个王朝是？",
+      "output": "商朝",
+      "source": "wangxi"
+    },
+    {
+      "type": "History",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "哪个朝代奠定了现在我国疆域的基础。",
+      "output": "清朝",
+      "source": "wangxi"
+    },
+    {
+      "type": "History",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "君主专制中央集权的制度开创于哪个朝代？",
+      "output": "秦朝",
+      "source": "wangxi"
+    },
+    {
+      "type": "History",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "三国鼎立是哪三个国家？",
+      "output": "魏国，蜀国，吴国。",
+      "source": "wangxi"
+    },
+    {
+      "type": "History",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "成语“退避三舍”发生在中国历史的什么时期？",
+      "output": "春秋时期",
+      "source": "wangxi"
+    },
+    {
+      "type": "History",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "第二次世界大战结束的标志是什么？",
+      "output": "日本正式签署投降书。",
+      "source": "wangxi"
+    },
+    {
+      "type": "History",
+      "lang": "CN",
+      "question_num": 264488,
+      "instruction": "中国历史上哪个朝代的国土面积最大？",
+      "output": "元朝",
+      "source": "wangxi"
+    }
+  ]

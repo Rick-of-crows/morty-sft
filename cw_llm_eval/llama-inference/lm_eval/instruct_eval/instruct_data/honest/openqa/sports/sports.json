@@ -1,0 +1,106 @@
+[
+    {
+      "type": "Sports",
+      "lang": "CN",
+      "question_num": 264474,
+      "instruction": "体育项目中，使用裁判最多的比赛项目是什么？",
+      "output": "羽毛球",
+      "source": "wangxi"
+    },
+    {
+      "type": "Sports",
+      "lang": "CN",
+      "question_num": 264475,
+      "instruction": "被称为“足球王国”的是哪个国家？",
+      "output": "巴西",
+      "source": "wangxi"
+    },
+    {
+      "type": "Sports",
+      "lang": "CN",
+      "question_num": 264476,
+      "instruction": "2010年世界杯亚军是哪个国家？",
+      "output": "荷兰",
+      "source": "wangxi"
+    },
+    {
+      "type": "Sports",
+      "lang": "CN",
+      "question_num": 264477,
+      "instruction": "在标准中国象棋中一共有多少个棋子？",
+      "output": "32",
+      "source": "wangxi"
+    },
+    {
+      "type": "Sports",
+      "lang": "CN",
+      "question_num": 264483,
+      "instruction": "我国“国球”的体育运动项目是什么？",
+      "output": "乒乓球",
+      "source": "wangxi"
+    },
+    {
+      "type": "Sports",
+      "lang": "CN",
+      "question_num": 264484,
+      "instruction": "奥运会几年举办一次？",
+      "output": "4年",
+      "source": "wangxi"
+    },
+    {
+      "type": "Sports",
+      "lang": "CN",
+      "question_num": 264485,
+      "instruction": "北京第一次举办奥运会是在哪一年？",
+      "output": "2008年",
+      "source": "wangxi"
+    },
+    {
+      "type": "Sports",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "中国第一块奥运会金牌获得者是谁？",
+      "output": "许海峰",
+      "source": "wangxi"
+    },
+    {
+      "type": "Sports",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "2004年欧洲杯在哪个国家举行？",
+      "output": "葡萄牙",
+      "source": "wangxi"
+    },
+    {
+      "type": "Sports",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "乒乓球起源于哪个国家？",
+      "output": "英国",
+      "source": "wangxi"
+    },
+    {
+      "type": "Sports",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "号称“世界第一运动”的体育项目是什么？",
+      "output": "足球。",
+      "source": "wangxi"
+    },
+    {
+      "type": "Sports",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "北京2008年奥运会口号是什么?",
+      "output": "同一个世界，同一个梦想",
+      "source": "wangxi"
+    },
+    {
+      "type": "Sports",
+      "lang": "CN",
+      "question_num": 264488,
+      "instruction": "在雅典奥运会上获得男子110米栏冠军，并打破记录的亚洲飞人是谁？",
+      "output": "刘翔",
+      "source": "wangxi"
+    }
+]

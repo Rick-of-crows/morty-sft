@@ -1,0 +1,82 @@
+[
+  {
+    "instruction": "根据以下文章回答下面问题：零跑公司的毛利率是什么情况？ 文章内容\n造车新势力二梯队中，唯一成功上市的零跑汽车，发布了2022年财务业绩。零跑的年收入从2021年的31亿元，翻三倍至124亿元，但同时净亏损也从29亿元扩大至51亿元。公司的毛利率依然是负数，短期内赚钱不太现实，不过相比之前已经有很大程度改善。截至去年底，零跑公司的账上有88亿元现金，数量不算多，但也够它再跑一段时间了。在香港上市以来，零跑的股价在挂牌首日即跌破发行价，大跌33.5%，至今半年累计跌去37.5%，市值350亿港元。",
+    "lang": "CN",
+    "output": "零跑公司的毛利率依然是负数。",
+    "question_num": 396,
+    "source": "BELLE",
+    "type": "ClosedQA"
+  },
+  {
+    "instruction": "根据以下文本，回答问题“纽约大都会博物馆的开放时间是什么时候？”:纽约大都会博物馆开放时间，10:00-17:30。周五和周六会延长到晚上21:00,18:00以后游客会特别少，特别安静。",
+    "lang": "CN",
+    "output": "纽约大都会博物馆的开放时间是10:00-17:30，周五和周六会延长到晚上21:00。",
+    "question_num": 393,
+    "source": "BELLE",
+    "type": "ClosedQA"
+  },
+  {
+    "instruction": "请根据以下文本回答问题“为什么人们应该多吃水果和蔬菜？”:研究表明，水果和蔬菜富含维生素、矿物质和其他营养物质，这些营养物质对身体健康非常重要。",
+    "lang": "CN",
+    "output": "人们应该多吃水果和蔬菜，因为它们富含维生素、矿物质和其他营养物质，这些营养物质对身体健康非常重要。",
+    "question_num": 397,
+    "source": "BELLE",
+    "type": "ClosedQA"
+  },
+  {
+    "instruction": "请从以下选项中选择最适合的单词填空:这个盒子太____，我们无法把它抬起来。选项大、重、宽、高。",
+    "lang": "CN",
+    "output": "重",
+    "question_num": 397,
+    "source": "BELLE",
+    "type": "ClosedQA"
+  },
+  {
+    "instruction": "Please choose the correct part of speech from the following options to fill in the blanks:“The cat ________ the mouse.” (a. chased b. was chased by c. was chased to d. chasing)",
+    "lang": "EN",
+    "output": "\na. chased",
+    "question_num": 392,
+    "source": "BELLE",
+    "type": "ClosedQA"
+  },
+  {
+    "instruction": "Answer the following question: Who is the founder of Apple inc?\n A) Bill Gates \n B) Elon Masks \n C) Steve Jobs \n D) Jeff Bezos",
+    "lang": "EN",
+    "output": "\n C) Steve Jobs",
+    "question_num": 43,
+    "source": "human|YanChao",
+    "type": "ClosedQA"
+  },
+  {
+    "instruction": "Please choose one of the following words to fill in the blank:\"I _____ my keys at home this morning.\",\"left, lost, forgot, found\",",
+    "lang": "EN",
+    "output": "\n\"I forgot my keys at home this morning.\"",
+    "question_num": 398,
+    "source": "BELLE",
+    "type": "ClosedQA"
+  },
+  {
+    "instruction": "请从以下选项中选择正确的单词填入空格中，使得句子语法正确:我 __ 看过这个电影。选项a.已经 b.很少 c.经常 d.从不。",
+    "lang": "CN",
+    "output": "\na.已经。",
+    "question_num": 394,
+    "source": "BELLE",
+    "type": "ClosedQA"
+  },
+  {
+    "instruction": "根据以下文章回答下面问题：为什么其他厂商不能使用第一代N3工艺？\n文章内容\n台积电去年底量产了3nm工艺，不过第一代3nm工艺N3成本实在太高，产能也少，所以只有财大气粗的苹果才会首发使用，其他厂商要到明年的第二代N3E工艺才会使用3nm工艺。",
+    "lang": "CN",
+    "output": "答：第一代N3工艺成本太高，产能也少，因此只有财大气粗的苹果才能承受。",
+    "question_num": 392,
+    "source": "BELLE",
+    "type": "ClosedQA"
+  },
+  {
+    "instruction": "根据以下句子回答问题“他们去了哪里？”:今天早上，小明和他的家人开车出门去了",
+    "lang": "CN",
+    "output": "他们去了外面，具体地点不确定。",
+    "question_num": 395,
+    "source": "BELLE",
+    "type": "ClosedQA"
+  }
+]

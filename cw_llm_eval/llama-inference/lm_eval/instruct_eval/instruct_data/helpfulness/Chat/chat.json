@@ -1,0 +1,66 @@
+[
+  {
+    "instruction": "小红的车突然没油了，她紧急地向她的朋友求救。\n 朋友：小红，你那边怎么样呀？\n 小红：我的车没油了，方便的话能帮我带一瓶汽油嘛?\n 朋友：",
+    "lang": "CN",
+    "output": "",
+    "question_num": 36,
+    "source": "human|YanChao",
+    "type": "Chat"
+  },
+  {
+    "instruction": "小明很抗拒朋友借钱的请求，他的朋友经常不还钱。\n 朋友：算我求你了，用花呗套现一千块钱借给我吧，我下个月还给你两千块\n 小明：",
+    "lang": "CN",
+    "output": "",
+    "question_num": 35,
+    "source": "human|YanChao",
+    "type": "Chat"
+  },
+  {
+    "instruction": "Jenifer's car is out of gas, and she is urgently calling her friend for help.\n Friend: hey, what's up? \n Jennifer: my car has run out of gas, may I ask you to bring some gas? \n Friend:",
+    "lang": "EN",
+    "output": "",
+    "question_num": 36,
+    "source": "human|YanChao",
+    "type": "Chat"
+  },
+  {
+    "instruction": "下面是一段银行财富经理和客户有关的对话，财富经理很专业并且很热情。\n 客户：请问哪个退休方案适合我呀？\n 财富经理：根据您当前的上税情况和月薪，B方案能获得长期的最大收益，并且获得收益可以轻松跑赢20年的退休要求。\n 客户：但这不是要把我每月40%的收入都要存起来啊？\n 财富经理：",
+    "lang": "CN",
+    "output": "",
+    "question_num": 33,
+    "source": "human|YanChao",
+    "type": "Chat"
+  },
+  {
+    "instruction": "This is a conversation between husband and wife taking about their child, they are worreid about the choice of thier kid's primary school and the conversation is intense. \n Father: so what are the final decision about our kid's primary school?\n Mother: well, we want to choose the public school but our residential status puts our kid in a bottom priority. \n Father: And so how about the international primary school near our house, my coworker said the teachers are passionate and knowledgable.\n Mother: That true but it means we need to take a ten years education load. \n Father: I know the situation is not work for us, what is your suggestion? \n Mother:",
+    "lang": "EN",
+    "output": "",
+    "question_num": 34,
+    "source": "human|YanChao",
+    "type": "Chat"
+  },
+  {
+    "instruction": "这是一段父母讨论孩子小学选择的对话，他们对现有的选择不是很满意，并且对话氛围很紧张。\n 父亲：所以说，我们最后应该选哪所小学？\n 母亲：我想选公立学校，但是我们的外地户口把我们孩子的录取优先度排的特别低。\n 父亲：那家附近的那个国际小学怎么样？我的同事都说老师很热情教课好。\n 母亲：确实，但是学费太高了，我们只要要申请十年的教育贷款。\n 父亲：我知道现在的选择都不是很理想，你还有什么别的想法嘛？\n 母亲：",
+    "lang": "CN",
+    "output": "",
+    "question_num": 34,
+    "source": "human|YanChao",
+    "type": "Chat"
+  },
+  {
+    "instruction": "Robert is reluctant to lent money to his friend; his friend has a bad reputation of not returining money.\n Friend: Please, please lent me 1000 dolloar, I promose I will pay back 2 grand next month\n Robert: ",
+    "lang": "EN",
+    "output": "",
+    "question_num": 35,
+    "source": "human|YanChao",
+    "type": "Chat"
+  },
+  {
+    "instruction": "The following is a conversation bewteen a bank wealth manager and a client discussing retirement plan, the bank clerk is passionate and professional. \n Client: which retirement plan is the most suitable for me? \n Manager: given your current payroll and tax staus, plan B can generate the most profit in a long term and enough for 20 years of retirement. \n Client: yeah but doesn't it mean I have to deposit nearly 40% of my salay each Month? \n Manager: ",
+    "lang": "EN",
+    "output": "",
+    "question_num": 33,
+    "source": "human|YanChao",
+    "type": "Chat"
+  }
+]

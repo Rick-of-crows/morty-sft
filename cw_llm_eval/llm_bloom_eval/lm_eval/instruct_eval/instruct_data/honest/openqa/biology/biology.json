@@ -1,0 +1,107 @@
+[
+  {
+    "type": "Biology",
+    "lang": "CN",
+    "question_num": 264474,
+    "instruction": "会飞的蝙蝠是属于鸟类还是哺乳动物？",
+    "output": "哺乳动物。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Biology",
+    "lang": "CN",
+    "question_num": 264475,
+    "instruction": "青蛙的幼体叫什么？",
+    "output": "蝌蚪。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Biology",
+    "lang": "CN",
+    "question_num": 264476,
+    "instruction": "潜水艇是模仿哪一种生物来制造的？",
+    "output": "鱼。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Biology",
+    "lang": "CN",
+    "question_num": 264483,
+    "instruction": "植物进行光合作用，靠的是叶子中的什么成分？",
+    "output": "叶绿素。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Biology",
+    "lang": "CN",
+    "question_num": 264484,
+    "instruction": "一个普通的成年人身上的骨骼共有多少块？",
+    "output": "206块。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Biology",
+    "instruction": "为什么酒精可以杀死细菌？",
+    "lang": "CN",
+    "output": "酒精可以杀死细菌的原因是它可以破坏细菌细胞膜和蛋白质，从而导致细胞死亡。酒精能够穿透细菌细胞膜，进入细胞内部，破坏细胞膜结构和蛋白质，使得细菌失去生命力。此外，酒精也可以抑制细菌的生长和繁殖，从而达到杀菌的效果。酒精对细菌的杀菌作用取决于浓度和接触时间，通常需要一定浓度和一定时间才能有效杀灭细菌。",
+    "question_num": 329,
+    "source": "BELLE"
+  },
+  {
+    "type": "Biology",
+    "lang": "CN",
+    "question_num": 264485,
+    "instruction": "地球上最大的动物是什么？",
+    "output": "蓝鲸。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Biology",
+    "lang": "CN",
+    "question_num": 264486,
+    "instruction": "企鹅主要生活在七大洲中的哪一洲？",
+    "output": "南极洲。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Biology",
+    "lang": "CN",
+    "question_num": 264486,
+    "instruction": "巧克力的原材料是什么？",
+    "output": "可可豆，即可可树上果实里的种子。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Biology",
+    "lang": "CN",
+    "question_num": 264486,
+    "instruction": "鸟类的祖先是什么鸟？",
+    "output": "始祖鸟。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Biology",
+    "lang": "CN",
+    "question_num": 264486,
+    "instruction": "驰名全国的三大饮料是哪三样？",
+    "output": "茶叶、可可、咖啡。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Biology",
+    "lang": "CN",
+    "question_num": 264486,
+    "instruction": "超声波是人们受到什么动物的启发而发现的？",
+    "output": "蝙蝠。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Biology",
+    "lang": "CN",
+    "question_num": 264488,
+    "instruction": "代表着和平的植物是什么？",
+    "output": "橄榄枝。",
+    "source": "wangxi"
+  }
+]
+

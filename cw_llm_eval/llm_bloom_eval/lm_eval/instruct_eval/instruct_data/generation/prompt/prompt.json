@@ -1,0 +1,42 @@
+[
+    {
+      "instruction": "现在有一个大学学生管理系统后台数据库，表结构如下：\n**1.学生信息表 students**\n| 字段名      | 数据类型           | 描述         |\n|:-----------|:----------------|:------------|\n| student_id | INT AUTO_INCREMENT   | 学生 ID，主键 |\n| name       | VARCHAR(100)    | 学生姓名     |\n| gender     | VARCHAR(10)     | 性别         |\n| dob        | DATE            | 出生日期     |\n| dept_id    | INT            | 所属系院id  |\n**2.教师信息表 teachers**\n| 字段名      | 数据类型           | 描述         |\n|:-----------|:----------------|:------------|\n| teacher_id | INT AUTO_INCREMENT   | 教师 ID，主键 |\n| name       | VARCHAR(100)    | 教师姓名     |\n| gender     | VARCHAR(10)     | 性别         |\n| dob        | DATE            | 出生日期     |\n| dept_id    | INT            | 所属系院id  |\n\n**3.课程信息表 courses**\n\n| 字段名      | 数据类型            | 描述         |\n|:-----------|:-----------------|:------------|\n| course_id  | INT AUTO_INCREMENT    | 课程 ID，主键  |\n| course_name| VARCHAR(100)     | 课程名称      |\n| teacher_id | INT               | 教课教师ID   |\n| credit     | INT               | 学分        |\n\n**4.班级信息表 classes**\n\n| 字段名      | 数据类型           | 描述         |\n|:-----------|:----------------|:------------|\n| class_id   | INT AUTO_INCREMENT  | 类 ID，主键 |\n| class_name | VARCHAR(100)    | 类名称       |\n| dept_id    | INT            | 该班级所属系院id |\n\n**5.选课信息表 class_enrollments**\n\n| 字段名        | 数据类型       | 描述                    |\n|:--------------|:--------------|:----------------------|\n| student_id    | INT           | 学生 ID                |\n| course_id     | INT           | 课程 ID                |\n| class_id      | INT           | 上课班级 ID            |\n| enrolment_date| DATE          | 选课日期              |\n\n这个表的主键是`(student_id, course_id)`，这样可以确保同一学生不能重复选择同一课程。\n\n**6.分数信息表 scores**\n\n| 字段名       | 数据类型       | 描述  |\n|:------------|:--------------|:---------------------|\n| student_id  | INT           | 学生 ID               |\n| course_id   | INT           | 课程 ID               |\n| score       | INT           | 分数                  |\n| exam_date   | DATE          | 考试日期             |\n\n这个表的主键是`(student_id, course_id)`。\n\n**7.系院信息表 departments**\n\n| 字段名     | 数据类型        | 描述 |\n|:----------|:--------------|:----------|\n| dept_id   | INT AUTO_INCREMENT   | 系院ID，主键 |\n| dept_name | VARCHAR(100)   | 系院名称  |\n\n我想查询学院A的学生中选修课程B的，但是分数没及格（60）的人的名单，帮我写一个 SQL 查询语句。",
+      "lang": "CN",
+      "output": "要查询学院A的学生中选修课程B的、但分数不及格的人的名单，你需要连接几个表进行查询。以下是实现这种查询的 SQL 代码：\n\n```sql\nSELECT s.name AS student_name\nFROM students s\nINNER JOIN departments d ON s.dept_id = d.dept_id\nINNER JOIN class_enrollments ce ON s.student_id = ce.student_id\nINNER JOIN courses c ON ce.course_id = c.course_id\nINNER JOIN scores sc ON s.student_id = sc.student_id AND c.course_id=sc.course_id\nWHERE d.dept_name = '学院A' \n  AND c.course_name = '课程B' \n  AND sc.score < 60;\n```\n\n上述查询分别连接了学生信息表、系院信息表、选课信息表、课程信息表和分数信息表以从多个维度满足我们的查询需求。将常量 '学院A' 和 '课程B' 替换为你想查询的具体学院和课程名称。这样，你就可以获取满足条件的学生名单了。",
+      "question_num": 426,
+      "source": "human",
+      "type": "Code"
+    },
+    {
+      "instruction": "生成一个让LLM改写《三国演义》的提示词，需要生成的故事不要涉及简单、通俗的情节，应该与原著的情节有紧密联系，所谓的改写即对原著的一个或几个事实进行修改后，让LLM进行生成。",
+      "lang": "CN",
+      "output": "请改写《三国演义》，在《诸葛亮火烧上方谷》的相关章节中，诸葛用计将司马懿的军队引入上方谷。当司马懿等人追进上方谷中，只听一声炮响，山上的士兵投下无数的木头、石块堵塞了谷口，接着，丢下无数根火把，引燃了谷内的干柴。刹那间，上方谷硝烟弥漫，火海一片，司马懿父子当场葬身火海，请改写之后的魏蜀之争。",
+      "question_num": 409,
+      "source": "human",
+      "type": "Prompt"
+    },
+    {
+      "instruction": "构造一个大模型工程师招聘的提示词，让LLM生成招聘文案，该招聘文案要很复杂，以此测试模型能力。",
+      "lang": "CN",
+      "output": "请撰写一个大模型算法工程师的招聘文案：招聘文案的要点如下：\n1.需要有具体的个人成果要求。\n2.团结团队、友好同事不要写入招聘条件中。\n3.需要有优先招聘条件。\n4.招聘的而是团队主管。\n5.公司所涉及的是互联网电商的业务。",
+      "question_num": 409,
+      "source": "human",
+      "type": "Prompt"
+    },
+    {
+      "instruction": "写十条检索五角大楼（Pentagon）相关的查询语句，中英文皆可",
+      "lang": "CN",
+      "output": "1. \"五角大楼的历史背景是什么？\" (\"What is the historical background of the Pentagon?\")\n2. \"五角大楼在哪个城市？\" (\"In which city is the Pentagon located?\")\n3. \"五角大楼的建筑风格是什么？\" (\"What is the architectural style of the Pentagon?\")\n4. \"五角大楼的设计者是谁？\" (\"Who is the designer of the Pentagon?\")\n5. \"五角大楼在911事件中的角色是什么？\" (\"What was the role of the Pentagon in the 9/11 attacks?\")\n6. \"五角大楼的具体尺寸是多少？\" (\"What are the exact dimensions of the Pentagon?\")\n7. \"五角大楼现在有多少员工？\" (\"How many employees does the Pentagon have now?\")\n8. \"五角大楼的每日运营成本是多少？\" (\"What is the daily operating cost of the Pentagon?\")\n9. \"五角大楼有哪些重要的历史事件？\" (\"What are some significant historical events at the Pentagon?\")\n10. \"五角大楼的访问规定是什么？\" (\"What are the visitation rules of the Pentagon?\")",
+      "question_num": 409,
+      "source": "human",
+      "type": "Prompt"
+    },
+    {
+      "instruction": "我想查询苏轼中年的词作，生成5个查询语句",
+      "lang": "CN",
+      "output": "1. \"苏轼中年时期的词作有哪些？\"\n2. \"苏轼在中年阶段创作的代表性词是什么？\"\n3. \"能否列举一些苏轼中年创作的词？\"\n4. \"苏轼中年的词作主题是什么？\"\n5. \"苏轼在中年阶段的词作风格如何？\"",
+      "question_num": 409,
+      "source": "human",
+      "type": "Prompt"
+    }
+]

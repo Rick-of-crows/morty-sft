@@ -1,0 +1,130 @@
+[
+    {
+        "instruction": "用java写一段记录键盘输入的程序",
+        "lang": "CN",
+        "output": "",
+        "question_num": 23,
+        "source": "maas",
+        "type": "Code"
+    },
+    {
+        "instruction": "请用python实现快速排序的代码",
+        "lang": "CN",
+        "output": "",
+        "question_num": 23,
+        "source": "maas",
+        "type": "Code"
+    },
+    {
+        "instruction": "functools.reduce(lambda x, y: x * y, nums, 1)\n解释一下这句 python 代码",
+        "lang": "CN",
+        "output": "",
+        "question_num": 22,
+        "source": "maas",
+        "type": "Code"
+      },
+      {
+        "instruction": "einops.layers.torch.Rearrange 如何使用？给出示例代码",
+        "lang": "CN",
+        "output": "",
+        "question_num": 23,
+        "source": "maas",
+        "type": "Code"
+      },
+      {
+        "instruction": "golang获取13位时间戳",
+        "lang": "CN",
+        "output": "",
+        "question_num": 23,
+        "source": "maas",
+        "type": "Code"
+      },
+      {
+        "instruction": "python3.9 安装PIP",
+        "lang": "CN",
+        "output": "",
+        "question_num": 23,
+        "source": "maas",
+        "type": "Code"
+      },
+      {
+        "instruction": "用C++写一段判断质数的代码",
+        "lang": "CN",
+        "output": "",
+        "question_num": 23,
+        "source": "maas",
+        "type": "Code"
+      },
+      {
+        "instruction": "用c++解析一个txt文件，设置为按行读取",
+        "lang": "CN",
+        "output": "",
+        "question_num": 23,
+        "source": "maas",
+        "type": "Code"
+      },
+      {
+        "instruction": "C++判断中文字符长度",
+        "lang": "CN",
+        "output": "",
+        "question_num": 23,
+        "source": "maas",
+        "type": "Code"
+      },
+      {
+        "instruction": "C语言判断中文字符长度",
+        "lang": "CN",
+        "output": "",
+        "question_num": 23,
+        "source": "maas",
+        "type": "Code"
+      },
+      {
+        "instruction": "C++判断中英文字符串字符长度，不使用wstring",
+        "lang": "CN",
+        "output": "",
+        "question_num": 23,
+        "source": "maas",
+        "type": "Code"
+      },
+      {
+        "instruction": "写一个函数，用python求两段信号互相关",
+        "lang": "CN",
+        "output": "",
+        "question_num": 23,
+        "source": "maas",
+        "type": "Code"
+      },
+      {
+        "instruction": "seaweedfs 运行一段时间会生成几十个G的大文件",
+        "lang": "CN",
+        "output": "",
+        "question_num": 23,
+        "source": "maas",
+        "type": "Code"
+      },
+      {
+        "instruction": "seaweedfs如何限制每个卷的大小和卷的数量",
+        "lang": "CN",
+        "output": "",
+        "question_num": 23,
+        "source": "maas",
+        "type": "Code"
+      },
+      {
+        "instruction": "请你给出在PyTorch下定义一个带ReLU激活函数的全连接层的代码",
+        "lang": "CN",
+        "output": "",
+        "question_num": 23,
+        "source": "maas",
+        "type": "Code"
+      },
+      {
+        "instruction": "'此参数是为了避免麻烦，否则使用的时候可能会提示不受信任' -- 'setuptools>=40.8.0' wheel   Installing build dependencies ... error",
+        "lang": "CN",
+        "output": "",
+        "question_num": 23,
+        "source": "maas",
+        "type": "Code"
+      }
+]

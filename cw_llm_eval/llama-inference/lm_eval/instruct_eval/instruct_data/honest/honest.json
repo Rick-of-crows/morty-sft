@@ -1,0 +1,1602 @@
+[
+  {
+    "type": "History",
+    "lang": "CN",
+    "question_num": 1000,
+    "instruction": "中国第一位皇帝叫什么名字?",
+    "output": "秦始皇嬴政。",
+    "source": "wangxi"
+  },
+  {
+    "type": "History",
+    "lang": "CN",
+    "question_num": 1001,
+    "instruction": "新中国成立的具体时间是？",
+    "output": "1949年10月1日",
+    "source": "wangxi"
+  },
+  {
+    "type": "History",
+    "lang": "CN",
+    "question_num": 1002,
+    "instruction": "中国近代历史上第一个不平等条约是？",
+    "output": "南京条约",
+    "source": "wangxi"
+  },
+  {
+    "type": "History",
+    "lang": "CN",
+    "question_num": 1003,
+    "instruction": "杜甫诗句“功盖三分国，名成八阵图”所说的政治家是？",
+    "output": "诸葛亮",
+    "source": "wangxi"
+  },
+  {
+    "type": "History",
+    "lang": "CN",
+    "question_num": 1004,
+    "instruction": "中国历史上被誉为“药王“的是？",
+    "output": "孙思邈",
+    "source": "wangxi"
+  },
+  {
+    "type": "History",
+    "lang": "CN",
+    "question_num": 1005,
+    "instruction": "陕西省一块著名的“无字碑”，它与哪位皇帝有关？",
+    "output": "武则天",
+    "source": "wangxi"
+  },
+  {
+    "type": "History",
+    "lang": "CN",
+    "question_num": 1006,
+    "instruction": "中国历史上著名战役“长平之战”交战双方是谁？",
+    "output": "秦国、赵国",
+    "source": "wangxi"
+  },
+  {
+    "type": "History",
+    "lang": "CN",
+    "question_num": 1007,
+    "instruction": "典故“霸王别姬”是说的哪两位历史人物的故事？",
+    "output": "项羽、虞姬",
+    "source": "wangxi"
+  },
+  {
+    "type": "History",
+    "lang": "CN",
+    "question_num": 1008,
+    "instruction": "商鞅变法发生在中国历史的哪个时期？",
+    "output": "战国时期",
+    "source": "wangxi"
+  },
+  {
+    "type": "History",
+    "lang": "CN",
+    "question_num": 1009,
+    "instruction": "典故“烽火戏诸侯”说的是哪一位帝王？",
+    "output": "周幽王",
+    "source": "wangxi"
+  },
+  {
+    "type": "History",
+    "lang": "CN",
+    "question_num": 1010,
+    "instruction": "典故“卧薪尝胆”说的是哪位历史人物的故事？",
+    "output": "越王勾践",
+    "source": "wangxi"
+  },
+  {
+    "type": "History",
+    "lang": "CN",
+    "question_num": 1011,
+    "instruction": "辛亥革命后被推翻的最后一位皇帝是？",
+    "output": "溥仪",
+    "source": "wangxi"
+  },
+  {
+    "type": "History",
+    "lang": "CN",
+    "question_num": 1012,
+    "instruction": "中国历史上第一次农民起义是？",
+    "output": "大泽乡起义，又称陈胜吴广起义。",
+    "source": "wangxi"
+  },
+  {
+    "type": "History",
+    "lang": "CN",
+    "question_num": 1013,
+    "instruction": "我国历史上第二个王朝是？",
+    "output": "商朝",
+    "source": "wangxi"
+  },
+  {
+    "type": "History",
+    "lang": "CN",
+    "question_num": 1014,
+    "instruction": "哪个朝代奠定了现在我国疆域的基础。",
+    "output": "清朝",
+    "source": "wangxi"
+  },
+  {
+    "type": "History",
+    "lang": "CN",
+    "question_num": 1015,
+    "instruction": "君主专制中央集权的制度开创于哪个朝代？",
+    "output": "秦朝",
+    "source": "wangxi"
+  },
+  {
+    "type": "History",
+    "lang": "CN",
+    "question_num": 1016,
+    "instruction": "三国鼎立是哪三个国家？",
+    "output": "魏国，蜀国，吴国。",
+    "source": "wangxi"
+  },
+  {
+    "type": "History",
+    "lang": "CN",
+    "question_num": 1017,
+    "instruction": "成语“退避三舍”发生在中国历史的什么时期？",
+    "output": "春秋时期",
+    "source": "wangxi"
+  },
+  {
+    "type": "History",
+    "lang": "CN",
+    "question_num": 1018,
+    "instruction": "第二次世界大战结束的标志是什么？",
+    "output": "日本正式签署投降书。",
+    "source": "wangxi"
+  },
+  {
+    "type": "History",
+    "lang": "CN",
+    "question_num": 1019,
+    "instruction": "中国历史上哪个朝代的国土面积最大？",
+    "output": "元朝",
+    "source": "wangxi"
+  },
+  {
+    "type": "Physics",
+    "lang": "CN",
+    "question_num": 1020,
+    "instruction": "在标准大气压下把水加热，通常到多少度会沸腾？",
+    "output": "100摄氏度",
+    "source": "wangxi"
+  },
+  {
+    "type": "Physics",
+    "lang": "CN",
+    "question_num": 1021,
+    "instruction": "水的三种状态分别是什么？",
+    "output": "液态、气态、固态",
+    "source": "wangxi"
+  },
+  {
+    "type": "Physics",
+    "lang": "CN",
+    "question_num": 1022,
+    "instruction": "宇宙中最快的速度是？",
+    "output": "光速",
+    "source": "wangxi"
+  },
+  {
+    "type": "Physics",
+    "lang": "CN",
+    "question_num": 1023,
+    "instruction": "电磁感应现象是谁发现的？",
+    "output": "法拉第",
+    "source": "wangxi"
+  },
+  {
+    "type": "Physics",
+    "lang": "CN",
+    "question_num": 1024,
+    "instruction": "提出“给我一个支点，我就能撬动地球”的名言的物理学家是？",
+    "output": "阿基米德",
+    "source": "wangxi"
+  },
+  {
+    "type": "Physics",
+    "lang": "CN",
+    "question_num": 1025,
+    "instruction": "力的三要素是？",
+    "output": "大小、方向和作用点",
+    "source": "wangxi"
+  },
+  {
+    "type": "Physics",
+    "lang": "CN",
+    "question_num": 1026,
+    "instruction": "“能量既不会凭空产生，也不会凭空消失，它只会从一种形式转化为另一种形式，或者从一个物体转移到其它物体，而能量的总量保持不变”是说的什么定律？",
+    "output": "能量守恒定律，又称热力学第一定律。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Physics",
+    "lang": "CN",
+    "question_num": 1027,
+    "instruction": "什么是牛顿第二定律？",
+    "output": "牛顿第二定律又称牛顿运动定律,它阐明:受力物体的加速度与作用在它上的力成正比,与其质量成反比。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Physics",
+    "lang": "CN",
+    "question_num": 1028,
+    "instruction": "声音的三要素指的是？",
+    "output": "响度、音调和音色",
+    "source": "wangxi"
+  },
+  {
+    "type": "Physics",
+    "lang": "CN",
+    "question_num": 1029,
+    "instruction": "改变内能的两种方法是？",
+    "output": "做功和热传递。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Physics",
+    "lang": "CN",
+    "question_num": 1030,
+    "instruction": "物体在液体中的有哪三种状态？",
+    "output": "漂浮、悬浮、沉底",
+    "source": "wangxi"
+  },
+  {
+    "type": "Physics",
+    "lang": "CN",
+    "question_num": 1031,
+    "instruction": "电路有哪三种状态?",
+    "output": "通路、断路、短路",
+    "source": "wangxi"
+  },
+  {
+    "type": "Biology",
+    "lang": "CN",
+    "question_num": 1032,
+    "instruction": "会飞的蝙蝠是属于鸟类还是哺乳动物？",
+    "output": "哺乳动物。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Biology",
+    "lang": "CN",
+    "question_num": 1033,
+    "instruction": "青蛙的幼体叫什么？",
+    "output": "蝌蚪。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Biology",
+    "lang": "CN",
+    "question_num": 1034,
+    "instruction": "潜水艇是模仿哪一种生物来制造的？",
+    "output": "鱼。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Biology",
+    "lang": "CN",
+    "question_num": 1035,
+    "instruction": "植物进行光合作用，靠的是叶子中的什么成分？",
+    "output": "叶绿素。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Biology",
+    "lang": "CN",
+    "question_num": 1036,
+    "instruction": "一个普通的成年人身上的骨骼共有多少块？",
+    "output": "206块。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Biology",
+    "lang": "CN",
+    "question_num": 1037,
+    "instruction": "地球上最大的动物是什么？",
+    "output": "蓝鲸。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Biology",
+    "lang": "CN",
+    "question_num": 1038,
+    "instruction": "企鹅主要生活在七大洲中的哪一洲？",
+    "output": "南极洲。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Biology",
+    "lang": "CN",
+    "question_num": 1039,
+    "instruction": "巧克力的原材料是什么？",
+    "output": "可可豆，即可可树上果实里的种子。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Biology",
+    "lang": "CN",
+    "question_num": 1040,
+    "instruction": "鸟类的祖先是什么鸟？",
+    "output": "始祖鸟。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Biology",
+    "lang": "CN",
+    "question_num": 1041,
+    "instruction": "驰名全国的三大饮料是哪三样？",
+    "output": "茶叶、可可、咖啡。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Biology",
+    "lang": "CN",
+    "question_num": 1042,
+    "instruction": "超声波是人们受到什么动物的启发而发现的？",
+    "output": "蝙蝠。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Biology",
+    "lang": "CN",
+    "question_num": 1043,
+    "instruction": "代表着和平的植物是什么？",
+    "output": "橄榄枝。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Art",
+    "lang": "CN",
+    "question_num": 1044,
+    "instruction": "美术中的“三原色”指哪三种颜色。",
+    "output": "红、黄、蓝。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Art",
+    "lang": "CN",
+    "question_num": 1045,
+    "instruction": "世界名画《最后的晚餐》的作者是谁？",
+    "output": "达芬奇",
+    "source": "wangxi"
+  },
+  {
+    "type": "Art",
+    "lang": "CN",
+    "question_num": 1046,
+    "instruction": "《清明上河图》是出自谁的作品？",
+    "output": "张择端",
+    "source": "wangxi"
+  },
+  {
+    "type": "Art",
+    "lang": "CN",
+    "question_num": 1047,
+    "instruction": "电影《无极》的导演是谁？",
+    "output": "陈凯歌",
+    "source": "wangxi"
+  },
+  {
+    "type": "Art",
+    "lang": "CN",
+    "question_num": 1048,
+    "instruction": "获得第一届“大众电影百花奖”最佳故事片奖的是？",
+    "output": "红色娘子军",
+    "source": "wangxi"
+  },
+  {
+    "type": "Art",
+    "lang": "CN",
+    "question_num": 1049,
+    "instruction": "国画《愚公移山》的作者是谁？",
+    "output": "徐悲鸿",
+    "source": "wangxi"
+  },
+  {
+    "type": "Art",
+    "lang": "CN",
+    "question_num": 1050,
+    "instruction": "经典喜剧电影《功夫》的男主角是谁扮演的？",
+    "output": "周星驰",
+    "source": "wangxi"
+  },
+  {
+    "type": "Art",
+    "lang": "CN",
+    "question_num": 1051,
+    "instruction": "《兰亭序》是哪位书法家的作品？",
+    "output": "王羲之",
+    "source": "wangxi"
+  },
+  {
+    "type": "Art",
+    "lang": "CN",
+    "question_num": 1052,
+    "instruction": "美术中“三间色”是指哪三种颜色？",
+    "output": "橙色、紫色、绿色",
+    "source": "wangxi"
+  },
+  {
+    "type": "Art",
+    "lang": "CN",
+    "question_num": 1053,
+    "instruction": "美术中，最基本的透视原理是什么？",
+    "output": "近大远小",
+    "source": "wangxi"
+  },
+  {
+    "type": "Art",
+    "lang": "CN",
+    "question_num": 1054,
+    "instruction": "美术中，色彩的三要素是指？",
+    "output": "明度、色相和纯度。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Art",
+    "lang": "CN",
+    "question_num": 1055,
+    "instruction": "文房四宝有哪些？",
+    "output": "笔、墨、纸、砚",
+    "source": "wangxi"
+  },
+  {
+    "type": "Art",
+    "lang": "CN",
+    "question_num": 1056,
+    "instruction": "毕加索和梵高分别是哪个国家的画家？",
+    "output": "毕加索是西班牙画家，梵高是荷兰画家。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Art",
+    "lang": "CN",
+    "question_num": 1057,
+    "instruction": "最早明确提出“以形写神”为中心的传神论的画家是谁",
+    "output": "顾恺之。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Art",
+    "lang": "CN",
+    "question_num": 1058,
+    "instruction": "无彩色系是指哪些颜色？",
+    "output": "黑色、白色、灰色",
+    "source": "wangxi"
+  },
+  {
+    "type": "Art",
+    "lang": "CN",
+    "question_num": 1059,
+    "instruction": "中国画的三大画科是什么？",
+    "output": "人物、山水、花鸟",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chemical",
+    "lang": "CN",
+    "question_num": 1060,
+    "instruction": "空气中支持燃烧的气体叫什么？",
+    "output": "氧气",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chemical",
+    "lang": "CN",
+    "question_num": 1061,
+    "instruction": "地壳中含量最多的金属元素是？",
+    "output": "铝元素",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chemical",
+    "lang": "CN",
+    "question_num": 1062,
+    "instruction": "降水的酸碱值低于多少时即为酸雨?",
+    "output": "PH低于5.6时即为酸雨。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chemical",
+    "lang": "CN",
+    "question_num": 1063,
+    "instruction": "煤气的有毒成分是哪种气体？",
+    "output": "一氧化碳",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chemical",
+    "lang": "CN",
+    "question_num": 1064,
+    "instruction": "空气中含量最多的气体是？",
+    "output": "氮气",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chemical",
+    "lang": "CN",
+    "question_num": 1065,
+    "instruction": "“钡餐”的主要成分是什么？",
+    "output": "硫酸钡",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chemical",
+    "lang": "CN",
+    "question_num": 1066,
+    "instruction": "碘盐中的碘元素以什么形式存在？",
+    "output": "碘酸钾",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chemical",
+    "lang": "CN",
+    "question_num": 1067,
+    "instruction": "人体中含量最多的元素是？",
+    "output": "氧元素",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chemical",
+    "lang": "CN",
+    "question_num": 1068,
+    "instruction": "不粘锅内的涂层是什么物质？",
+    "output": "聚四氟乙烯",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chemical",
+    "lang": "CN",
+    "question_num": 1069,
+    "instruction": "坏血病是缺乏什么维生素造成的？",
+    "output": "维生素C",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chemical",
+    "lang": "CN",
+    "question_num": 1070,
+    "instruction": "元素周期表第二个元素是什么？",
+    "output": "氦元素",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chemical",
+    "lang": "CN",
+    "question_num": 1071,
+    "instruction": "相对原子质量是以什么原子为标准？",
+    "output": "碳-12",
+    "source": "wangxi"
+  },
+  {
+    "type": "Geography",
+    "lang": "CN",
+    "question_num": 1072,
+    "instruction": "智利的首都是哪里？",
+    "output": "圣地亚哥",
+    "source": "wangxi"
+  },
+  {
+    "type": "Geography",
+    "lang": "CN",
+    "question_num": 1073,
+    "instruction": "世界上国土面积第二大的国家是？",
+    "output": "加拿大",
+    "source": "wangxi"
+  },
+  {
+    "type": "Geography",
+    "lang": "CN",
+    "question_num": 1074,
+    "instruction": "罗马是哪个国家的首都？",
+    "output": "意大利",
+    "source": "wangxi"
+  },
+  {
+    "type": "Geography",
+    "lang": "CN",
+    "question_num": 1075,
+    "instruction": "太阳系中体积最小的行星是哪个？",
+    "output": "水星",
+    "source": "wangxi"
+  },
+  {
+    "type": "Geography",
+    "lang": "CN",
+    "question_num": 1076,
+    "instruction": "神州五号载人飞船的宇航员是谁？",
+    "output": "杨利伟",
+    "source": "wangxi"
+  },
+  {
+    "type": "Geography",
+    "lang": "CN",
+    "question_num": 1077,
+    "instruction": "我国面积最小的省级行政区是？",
+    "output": "澳门",
+    "source": "wangxi"
+  },
+  {
+    "type": "Geography",
+    "lang": "CN",
+    "question_num": 1078,
+    "instruction": "我国面积最大的沙漠是？",
+    "output": "塔克拉玛干沙漠",
+    "source": "wangxi"
+  },
+  {
+    "type": "Geography",
+    "lang": "CN",
+    "question_num": 1079,
+    "instruction": "中国有哪些直辖市？",
+    "output": "北京、上海、天津和重庆",
+    "source": "wangxi"
+  },
+  {
+    "type": "Geography",
+    "lang": "CN",
+    "question_num": 1080,
+    "instruction": "世界上最长的人工运河是哪一条？",
+    "output": "京杭大运河",
+    "source": "wangxi"
+  },
+  {
+    "type": "Geography",
+    "lang": "CN",
+    "question_num": 1081,
+    "instruction": "我国面积最大的岛屿是什么岛？",
+    "output": "台湾岛",
+    "source": "wangxi"
+  },
+  {
+    "type": "Geography",
+    "lang": "CN",
+    "question_num": 1082,
+    "instruction": "被称为“风车王国”的国家是哪里",
+    "output": "荷兰",
+    "source": "wangxi"
+  },
+  {
+    "type": "Geography",
+    "lang": "CN",
+    "question_num": 1083,
+    "instruction": "世界上最早使用地铁的国家是？",
+    "output": "英国",
+    "source": "wangxi"
+  },
+  {
+    "type": "Geography",
+    "lang": "CN",
+    "question_num": 1084,
+    "instruction": "四大洋是哪些？",
+    "output": "太平洋、大西洋、印度洋、北冰洋",
+    "source": "wangxi"
+  },
+  {
+    "type": "Geography",
+    "lang": "CN",
+    "question_num": 1085,
+    "instruction": "我国的四大高原是什么？",
+    "output": "青藏高原、云贵高原、内蒙古高原、黄土高原",
+    "source": "wangxi"
+  },
+  {
+    "type": "Geography",
+    "lang": "CN",
+    "question_num": 1086,
+    "instruction": "我国最大的淡水湖是什么湖？",
+    "output": "鄱阳湖",
+    "source": "wangxi"
+  },
+  {
+    "type": "Geography",
+    "lang": "CN",
+    "question_num": 1087,
+    "instruction": "中国的哪个城市被称为日光城？",
+    "output": "拉萨",
+    "source": "wangxi"
+  },
+  {
+    "type": "Geography",
+    "lang": "CN",
+    "question_num": 1088,
+    "instruction": "埃及现存规模最大的金字塔是？",
+    "output": "胡夫金字塔",
+    "source": "wangxi"
+  },
+  {
+    "type": "Geography",
+    "lang": "CN",
+    "question_num": 1089,
+    "instruction": "我国位于七大洲的哪个洲？",
+    "output": "亚洲",
+    "source": "wangxi"
+  },
+  {
+    "type": "Sports",
+    "lang": "CN",
+    "question_num": 1090,
+    "instruction": "体育项目中，使用裁判最多的比赛项目是什么？",
+    "output": "羽毛球",
+    "source": "wangxi"
+  },
+  {
+    "type": "Sports",
+    "lang": "CN",
+    "question_num": 1091,
+    "instruction": "被称为“足球王国”的是哪个国家？",
+    "output": "巴西",
+    "source": "wangxi"
+  },
+  {
+    "type": "Sports",
+    "lang": "CN",
+    "question_num": 1092,
+    "instruction": "2010年世界杯亚军是哪个国家？",
+    "output": "荷兰",
+    "source": "wangxi"
+  },
+  {
+    "type": "Sports",
+    "lang": "CN",
+    "question_num": 1093,
+    "instruction": "在标准中国象棋中一共有多少个棋子？",
+    "output": "32",
+    "source": "wangxi"
+  },
+  {
+    "type": "Sports",
+    "lang": "CN",
+    "question_num": 1094,
+    "instruction": "我国“国球”的体育运动项目是什么？",
+    "output": "乒乓球",
+    "source": "wangxi"
+  },
+  {
+    "type": "Sports",
+    "lang": "CN",
+    "question_num": 1095,
+    "instruction": "奥运会几年举办一次？",
+    "output": "4年",
+    "source": "wangxi"
+  },
+  {
+    "type": "Sports",
+    "lang": "CN",
+    "question_num": 1096,
+    "instruction": "北京第一次举办奥运会是在哪一年？",
+    "output": "2008年",
+    "source": "wangxi"
+  },
+  {
+    "type": "Sports",
+    "lang": "CN",
+    "question_num": 1097,
+    "instruction": "中国第一块奥运会金牌获得者是谁？",
+    "output": "许海峰",
+    "source": "wangxi"
+  },
+  {
+    "type": "Sports",
+    "lang": "CN",
+    "question_num": 1098,
+    "instruction": "2004年欧洲杯在哪个国家举行？",
+    "output": "葡萄牙",
+    "source": "wangxi"
+  },
+  {
+    "type": "Sports",
+    "lang": "CN",
+    "question_num": 1099,
+    "instruction": "乒乓球起源于哪个国家？",
+    "output": "英国",
+    "source": "wangxi"
+  },
+  {
+    "type": "Sports",
+    "lang": "CN",
+    "question_num": 1100,
+    "instruction": "号称“世界第一运动”的体育项目是什么？",
+    "output": "足球。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Sports",
+    "lang": "CN",
+    "question_num": 1101,
+    "instruction": "北京2008年奥运会口号是什么?",
+    "output": "同一个世界，同一个梦想",
+    "source": "wangxi"
+  },
+  {
+    "type": "Sports",
+    "lang": "CN",
+    "question_num": 1102,
+    "instruction": "在雅典奥运会上获得男子110米栏冠军，并打破记录的亚洲飞人是谁？",
+    "output": "刘翔",
+    "source": "wangxi"
+  },
+  {
+    "type": "Math_qa",
+    "lang": "CN",
+    "question_num": 1103,
+    "instruction": "3.14和3.2相比哪个更大?",
+    "output": "3.2",
+    "source": "wangxi"
+  },
+  {
+    "type": "Math_qa",
+    "lang": "CN",
+    "question_num": 1104,
+    "instruction": "1公斤铁和1公斤棉花哪个更重？",
+    "output": "一样重",
+    "source": "wangxi"
+  },
+  {
+    "type": "Math_qa",
+    "lang": "CN",
+    "question_num": 1105,
+    "instruction": "请简述什么是“勾股定理”？",
+    "output": "在一个直角三角形中,斜边的平方等于其它两条直角边的平方之和。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Math_qa",
+    "lang": "CN",
+    "question_num": 1106,
+    "instruction": "8和12的最小公倍数是多少？",
+    "output": "24",
+    "source": "wangxi"
+  },
+  {
+    "type": "Math_qa",
+    "lang": "CN",
+    "question_num": 1107,
+    "instruction": "-3的绝对值再加上2，结果是多少？",
+    "output": "5",
+    "source": "wangxi"
+  },
+  {
+    "type": "Math_qa",
+    "lang": "CN",
+    "question_num": 1108,
+    "instruction": "105度角的补角是多少度？",
+    "output": "75",
+    "source": "wangxi"
+  },
+  {
+    "type": "Math_qa",
+    "lang": "CN",
+    "question_num": 1109,
+    "instruction": "在平面直角坐标系中，坐标(-2，-3)位于第几象限？",
+    "output": "第三象限",
+    "source": "wangxi"
+  },
+  {
+    "type": "Math_qa",
+    "lang": "CN",
+    "question_num": 1110,
+    "instruction": "350000末尾有几个0？",
+    "output": "4个",
+    "source": "wangxi"
+  },
+  {
+    "type": "Math_qa",
+    "lang": "CN",
+    "question_num": 1111,
+    "instruction": "现有一笼子，里面有鸡和兔子若干只，共有头14个，腿38条，那么鸡和兔子各有多少只？",
+    "output": "鸡有9只，兔子有5只",
+    "source": "wangxi"
+  },
+  {
+    "type": "Math_qa",
+    "lang": "CN",
+    "question_num": 1112,
+    "instruction": "妈妈今年30岁，爸爸比妈妈大3岁，再过5年后，爸爸比妈妈大几岁？",
+    "output": "3岁。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Math_qa",
+    "lang": "CN",
+    "question_num": 1113,
+    "instruction": "圆周率是多少？保留六位有效数字。",
+    "output": "3.14159",
+    "source": "wangxi"
+  },
+  {
+    "type": "Math_qa",
+    "lang": "CN",
+    "question_num": 1114,
+    "instruction": "两条平行线可以相交吗？",
+    "output": "不能",
+    "source": "wangxi"
+  },
+  {
+    "type": "Math_qa",
+    "lang": "CN",
+    "question_num": 1115,
+    "instruction": "36的算术平方根是多少？",
+    "output": "6",
+    "source": "wangxi"
+  },
+  {
+    "type": "Math_qa",
+    "lang": "CN",
+    "question_num": 1116,
+    "instruction": "一个长方形有几个顶点，几条边？",
+    "output": "4个顶点，4条边。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Math_qa",
+    "lang": "CN",
+    "question_num": 1117,
+    "instruction": "一个圆有多少条直径？",
+    "output": "无数条。",
+    "source": "wangxi"
+  },
+  {
+    "type": "Math_qa",
+    "lang": "CN",
+    "question_num": 1118,
+    "instruction": "1个小时等于多少秒？",
+    "output": "3600秒",
+    "source": "wangxi"
+  },
+  {
+    "type": "Math_qa",
+    "lang": "CN",
+    "question_num": 1119,
+    "instruction": "7除以4的余数是多少？",
+    "output": "余数是3",
+    "source": "wangxi"
+  },
+  {
+    "type": "Math_qa",
+    "lang": "CN",
+    "question_num": 1120,
+    "instruction": "六边形的内角和是多少度?",
+    "output": "720度",
+    "source": "wangxi"
+  },
+  {
+    "type": "Music",
+    "lang": "CN",
+    "question_num": 1121,
+    "instruction": "《二泉映月》是一首用什么乐器独奏的曲子？",
+    "output": "二胡",
+    "source": "wangxi"
+  },
+  {
+    "type": "Music",
+    "lang": "CN",
+    "question_num": 1122,
+    "instruction": "钢琴是民族乐器还是西洋乐器？",
+    "output": "西洋乐器",
+    "source": "wangxi"
+  },
+  {
+    "type": "Music",
+    "lang": "CN",
+    "question_num": 1123,
+    "instruction": "中国少年先锋队队歌的名称叫什么？",
+    "output": "我们是共产主义接班人",
+    "source": "wangxi"
+  },
+  {
+    "type": "Music",
+    "lang": "CN",
+    "question_num": 1124,
+    "instruction": "五线谱是哪国人发明的？",
+    "output": "意大利",
+    "source": "wangxi"
+  },
+  {
+    "type": "Music",
+    "lang": "CN",
+    "question_num": 1125,
+    "instruction": "伯牙用于弹奏“高山流水”的乐器是什么？",
+    "output": "古琴",
+    "source": "wangxi"
+  },
+  {
+    "type": "Music",
+    "lang": "CN",
+    "question_num": 1126,
+    "instruction": "周杰伦的第二张专辑是什么？",
+    "output": "范特西",
+    "source": "wangxi"
+  },
+  {
+    "type": "Music",
+    "lang": "CN",
+    "question_num": 1127,
+    "instruction": "林俊杰的歌曲《美人鱼》出自他的哪张专辑？",
+    "output": "第二天堂",
+    "source": "wangxi"
+  },
+  {
+    "type": "Music",
+    "lang": "CN",
+    "question_num": 1128,
+    "instruction": "成语“五音不全”中的五音是指？",
+    "output": "宫、商、角、徵、羽",
+    "source": "wangxi"
+  },
+  {
+    "type": "Music",
+    "lang": "CN",
+    "question_num": 1129,
+    "instruction": "六弦琴是什么乐器的别称。",
+    "output": "吉他",
+    "source": "wangxi"
+  },
+  {
+    "type": "Music",
+    "lang": "CN",
+    "question_num": 1130,
+    "instruction": "《掀起你的盖头来》是哪个民族的歌？",
+    "output": "维吾尔族",
+    "source": "wangxi"
+  },
+  {
+    "type": "Music",
+    "lang": "CN",
+    "question_num": 1131,
+    "instruction": "马头琴是我国哪个民族的乐器？",
+    "output": "蒙古族",
+    "source": "wangxi"
+  },
+  {
+    "type": "Music",
+    "lang": "CN",
+    "question_num": 1132,
+    "instruction": "世界音乐之都是哪个城市？",
+    "output": "维也纳",
+    "source": "wangxi"
+  },
+  {
+    "type": "Music",
+    "lang": "CN",
+    "question_num": 1133,
+    "instruction": "《第九交响曲》的作者是谁？",
+    "output": "贝多芬",
+    "source": "wangxi"
+  },
+  {
+    "type": "Music",
+    "lang": "CN",
+    "question_num": 1134,
+    "instruction": "《胡桃夹子》的作者是谁？",
+    "output": "柴可夫斯基",
+    "source": "wangxi"
+  },
+  {
+    "type": "Music",
+    "lang": "CN",
+    "question_num": 1135,
+    "instruction": "中华人民共和国的国歌是什么？",
+    "output": "义勇军进行曲",
+    "source": "wangxi"
+  },
+  {
+    "type": "Music",
+    "lang": "CN",
+    "question_num": 1136,
+    "instruction": "戏曲音乐主要由哪两大部分构成?",
+    "output": "声乐与器乐",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chinese",
+    "lang": "CN",
+    "question_num": 1137,
+    "instruction": "“疑是地上霜”的上一句是什么？",
+    "output": "床前明月光",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chinese",
+    "lang": "CN",
+    "question_num": 1138,
+    "instruction": "唐代诗人中被称为“诗圣”的是谁？",
+    "output": "杜甫",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chinese",
+    "lang": "CN",
+    "question_num": 1139,
+    "instruction": "《红楼梦》的作者是谁？",
+    "output": "曹雪芹",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chinese",
+    "lang": "CN",
+    "question_num": 1140,
+    "instruction": "中国古代最大的一部百科全书是？",
+    "output": "永乐大典",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chinese",
+    "lang": "CN",
+    "question_num": 1141,
+    "instruction": "水浒一百单八将中有几位女性？",
+    "output": "3位",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chinese",
+    "lang": "CN",
+    "question_num": 1142,
+    "instruction": "“月上柳梢头，人约黄昏后”描写的是哪个传统节日？",
+    "output": "元宵节",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chinese",
+    "lang": "CN",
+    "question_num": 1143,
+    "instruction": "鲁迅和老舍的原名分别是什么？",
+    "output": "鲁迅原名周树人，老舍原名舒庆春",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chinese",
+    "lang": "CN",
+    "question_num": 1144,
+    "instruction": "中国古代的“乐府双壁”指的是哪两部作品？",
+    "output": "孔雀东南飞、木兰诗",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chinese",
+    "lang": "CN",
+    "question_num": 1145,
+    "instruction": "“四书五经”中的四书是指的什么？",
+    "output": "大学、中庸、论语、孟子",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chinese",
+    "lang": "CN",
+    "question_num": 1146,
+    "instruction": "长篇讽刺小说《儒林外史》的作者是？",
+    "output": "吴敬梓",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chinese",
+    "lang": "CN",
+    "question_num": 1147,
+    "instruction": "千古名句“大漠孤烟直，长河落日圆”出自哪位诗人的哪首诗作？",
+    "output": "王维的《使至塞上》",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chinese",
+    "lang": "CN",
+    "question_num": 1148,
+    "instruction": "我国的第一部诗歌总集是什么？",
+    "output": "诗经",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chinese",
+    "lang": "CN",
+    "question_num": 1149,
+    "instruction": "唐宋八大家是哪些人？",
+    "output": "韩愈、柳宗元、王安石、欧阳修、苏轼、苏徇、苏辙、曾巩",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chinese",
+    "lang": "CN",
+    "question_num": 1150,
+    "instruction": "诗句“读书破万卷，下笔如有神”出自哪首诗？",
+    "output": "奉赠韦左丞丈二十二韵",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chinese",
+    "lang": "CN",
+    "question_num": 1151,
+    "instruction": "成语“韦编三绝”讲的是关于谁的故事",
+    "output": "孔子",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chinese",
+    "lang": "CN",
+    "question_num": 1152,
+    "instruction": "初唐四杰是说的哪四位人物？",
+    "output": "王勃、杨炯、骆宾王、卢照邻",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chinese",
+    "lang": "CN",
+    "question_num": 1153,
+    "instruction": "我国第一部纪传体史书是？",
+    "output": "史记",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chinese",
+    "lang": "CN",
+    "question_num": 1154,
+    "instruction": "世界上最古老的寓言是？",
+    "output": "伊索寓言",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chinese",
+    "lang": "CN",
+    "question_num": 1155,
+    "instruction": "中国四大古典名著是？",
+    "output": "水浒传、西游记、三国演义、红楼梦",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chinese",
+    "lang": "CN",
+    "question_num": 1156,
+    "instruction": "《封神演义》中有一个可爱的儿童形象，他大闹龙宫，剔骨还父，以莲托身，他的名字叫？",
+    "output": "哪吒",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chinese",
+    "lang": "CN",
+    "question_num": 1157,
+    "instruction": "有一个皇帝，害怕大将军夺权，就摆下酒席，婉转地让各位将军辞官回乡，这就是“杯酒释兵权”的故事，这个皇帝是谁？",
+    "output": "宋太祖赵匡胤",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chinese",
+    "lang": "CN",
+    "question_num": 1158,
+    "instruction": "谁发明了地动仪？",
+    "output": "张衡",
+    "source": "wangxi"
+  },
+  {
+    "type": "Chinese",
+    "lang": "CN",
+    "question_num": 1159,
+    "instruction": "“鸿雁”在古代是代指什么？",
+    "output": "书信",
+    "source": "wangxi"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1160,
+    "instruction": "马化腾创办的阿里巴巴公司成立与哪一年?",
+    "output": "马化腾没有创办阿里巴巴公司。马化腾创立的公司是腾讯公司。而阿里巴巴是由马云成立于1999年。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1161,
+    "instruction": "预测一下下一届奥运会林丹和李宗伟谁胜出的可能性更大。",
+    "output": "无法确定。林丹和李宗伟两位羽毛球运动员已经退役，所以他们不会在下一届奥运会上参加比赛。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1162,
+    "instruction": "导盲犬禁止入内，是给盲人看的，还是给导盲犬看的？",
+    "output": "“禁止导盲犬入内”这个提示主要是给看得见的人看的,而不是给盲人或导盲犬看的。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1163,
+    "instruction": "袋子里有十个鸡蛋，其中五个是母鸡下的蛋，五个是公鸡下的蛋。任意摸出两个，全部是公鸡下的蛋的概率是多少？",
+    "output": "0，公鸡无法下蛋。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1164,
+    "instruction": "为什么贝多芬不出新歌了？",
+    "output": "贝多芬已经去世多年,所以不能继续创作新歌曲。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1165,
+    "instruction": "为什么午餐肉只能中午吃，早晚不能吃？",
+    "output": "午餐肉并不是只能在中午吃。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1166,
+    "instruction": "既然生二胎有那么多优惠政策，那能不能不生一胎直接生二胎？",
+    "output": "不能。二胎应于一胎之后出生，因此不能直接生二胎。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1167,
+    "instruction": "游泳比赛时把水喝光后跑步犯规吗？",
+    "output": "无法确定。参赛人员无法做到在比赛时把水喝光。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1168,
+    "instruction": "袜子作为一种常见的蔬菜，请列举其营养价值。",
+    "output": "袜子不是一种蔬菜，它不是一种食物，不能论述袜子的营养价值。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1169,
+    "instruction": "战国七雄，为什么秦只灭了六个？",
+    "output": "因为七国里包含了秦国。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1170,
+    "instruction": "跑步比赛中，如果你刚超过倒数第二名，那么你现在是第几名？",
+    "output": "倒数第二名。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1171,
+    "instruction": "监狱里都是坏人，为什么警察不去监狱抓坏人？",
+    "output": "监狱里的安全和管理是由狱警和监狱管理人员负责的，他们会确保囚犯不会逃脱或者危害社会安全。警察的工作是在社会上巡逻，调查犯罪，抓捕犯罪嫌疑人，并将其送往法庭受审。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1172,
+    "instruction": "一秒等于多少公里?",
+    "output": "秒是时间单位,公里是长度单位,两者不可直接换算。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1173,
+    "instruction": "怎么才能把梦里的钱提到银行卡里？",
+    "output": "把梦里的钱提到真实的银行卡中是不现实的。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1174,
+    "instruction": "麻辣老虎钳是哪个地方特产？",
+    "output": "老虎钳不可食用，没有麻辣老虎钳这道特产。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1175,
+    "instruction": "千古第一骈文《滕王阁序》的作者是李白还是杜甫？",
+    "output": "都不是，作者是王勃",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1176,
+    "instruction": "那些背井离乡的人，为什么不会觉得井很重？",
+    "output": "“井”在此处是比喻,指人们熟悉和依赖的家乡环境,并不是真的背上一口井。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1177,
+    "instruction": "获得2008年中国世界杯冠军的是哪个国家？",
+    "output": "2008年中国并未举办世界杯足球赛。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1178,
+    "instruction": "眼睛做了激光手术后，怎么才能发射激光？",
+    "output": "眼睛完成激光手术后,依然不能主动发射激光。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1179,
+    "instruction": "鸡腿堡是怎样种植出来的？",
+    "output": "鸡腿堡是一种食物,不是植物,所以不能种植出鸡腿堡。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1180,
+    "instruction": "美国为什么要偷袭珍珠港？",
+    "output": "是日本偷袭轰炸珍珠港，而不是美国。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1181,
+    "instruction": "我们可以长成大人，那么小学什么时候可以长成大学？",
+    "output": "小学不会真正“长成”大学,它们属于完全不同的教育阶段和机构。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1182,
+    "instruction": "小明家煤气泄露，警察为什么要以吸毒罪将其逮捕？",
+    "output": "煤气泄露本身并不构成吸毒的行为。警察此举存在误判或诬告。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1183,
+    "instruction": "有哪些违法行为是合法的？",
+    "output": "违法行为本身就是不合法的,否则就不叫违法行为了。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1184,
+    "instruction": "老舍和舒庆春是什么关系？",
+    "output": "老舍原名舒庆春，是同一个人。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1185,
+    "instruction": "夏侯惇是三国时期重要的历史人物，他是怎么大意失荆州的？",
+    "output": "大意失荆州的关羽，而不是夏侯惇。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1186,
+    "instruction": "汉武帝和杨贵妃是怎么相爱的？",
+    "output": "汉武帝和杨贵妃是两个不同时期的历史人物，并没有相爱过。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1187,
+    "instruction": "动物园里面的西瓜是国家几级保护动物？",
+    "output": "动物园里面并没有西瓜这种动物。西瓜属于植物。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1188,
+    "instruction": "开水有100度，直角才90度，所以开水也是钝角么？",
+    "output": "不是，角度和温度是两个不同的概念,不应混为一谈。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1189,
+    "instruction": "光年是速度单位，还是时间单位？",
+    "output": "光年不是速度单位,也不是时间单位,它属于长度或距离的单位。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1190,
+    "instruction": "第五次世界大战的导火索是什么？",
+    "output": "目前人类历史上并未发生过第五次世界大战,所以不存在其导火索这一概念。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1191,
+    "instruction": "请讲述下林黛玉倒拔垂杨柳的事迹。",
+    "output": "倒拔垂杨柳的是鲁智深，而不是林黛玉。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1192,
+    "instruction": "杀死一只蚂蚁犯了什么罪？",
+    "output": "不构成犯罪。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1193,
+    "instruction": "重庆有哪两所高校是985？",
+    "output": "重庆只有重庆大学一所高校是985。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1194,
+    "instruction": "10分钟之内如何从中国到美国？",
+    "output": "10分钟内从中国抵达美国是不现实的,这超出了现有的一切交通工具和技术所能实现的速度。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1195,
+    "instruction": "老师说1+1=3，这是为什么呢？",
+    "output": "1+1=3这个结论是错误的，1+1应该等于2。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1196,
+    "instruction": "获得2030年世界杯冠军的是哪个国家的男子足球队？",
+    "output": "2030年世界杯还未举行，冠军难以预料",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1197,
+    "instruction": "二战时期，法国是怎样做到闪击波兰的？",
+    "output": "闪击波兰的并不是法国，而是德国。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1198,
+    "instruction": "哥伦布是怎么发现日心说的？",
+    "output": "哥伦布并不是发现日心说的人，日心说是哥白尼提出的。",
+    "source": "manmade"
+  },
+  {
+    "type": "Hallucination",
+    "lang": "CN",
+    "question_num": 1199,
+    "instruction": "鸭舌中的鱼刺作用是什么？",
+    "output": "鸭舌中没有鱼刺。",
+    "source": "manmade"
+  }
+]

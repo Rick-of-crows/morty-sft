@@ -1,0 +1,74 @@
+[
+    {
+        "instruction": "我大舅去二舅家找三舅说四舅被五舅骗去六舅家偷七舅放在八舅柜子里面的1000元。那么问题来了：究竟谁是小偷？谁被偷？",
+        "lang": "CN",
+        "output": "根据你的描述，这是一个关于家庭关系和行为的问题。让我们一步一步地分析：\n\n- **谁是小偷？** 四舅是小偷，因为他被五舅骗去六舅家偷东西。\n- **谁被偷？** 七舅被偷，因为被偷的1000元是七舅放在八舅柜子里的。",
+        "question_num": 35,
+        "source": "human",
+        "type": "mrc_other"
+    },
+    {
+        "instruction": "“羊毛衫大减价了啊，件件10元，样样10元，全部十元了啊！”\n问：“什么东西10元？”\n\nA、件件；B、样样；C、全部；D、羊毛衫",
+        "lang": "CN",
+        "output": "根据描述，\"羊毛衫大减价了啊，件件10元，样样10元，全部十元了啊！\" 这句话的意思是每一件羊毛衫，每一样羊毛衫，都是10元。所以，\"什么东西10元？\"的答案是：\n\n**D、羊毛衫**",
+        "question_num": 35,
+        "source": "human",
+        "type": "mrc_other"
+    },
+    {
+        "instruction": "客服小姐：小明你是要几等座？ 小明：你们一共有几等？ 客服小姐：特等，一等，二等，等等，二等要多等一等。小明：我看下，等一等。客服小姐：别等了，再等一等也没了。小明：那不等了就这个吧。\n\n请问小明最终买了几等座？\n\nA特等 B一等 C二等 D等等 E等一等 F再等一等 G别等 H不等",
+        "lang": "CN",
+        "output": "根据对话内容，小明最后说的是\"那不等了就这个吧\"。这句话的含义有些模糊，因为他并没有明确指出他选择的是哪一等座位。然而，从语境上看，\"不等了\"可能意味着他不再等待，选择了当前的选项。在这种情况下，他可能选择的是客服小姐最后提到的座位等级。\n\n所以，小明最终可能买的是：\n\n**B、一等**座位。",
+        "question_num": 35,
+        "source": "human",
+        "type": "mrc_other"
+    },
+    {
+        "instruction": "“小红，你的睫毛好漂亮，真的假的？”\n“假的。”\n“真的么？”\n“真的。”\n\n问：小红的睫毛是﹍﹍﹍（真的 / 假的）",
+        "lang": "CN",
+        "output": "根据对话内容，当被问到“你的睫毛好漂亮，真的假的？”时，小红回答“假的”。然后当被问到“真的么？”时，小红回答“真的”。这里的“真的”是确认她之前的回答，也就是她的睫毛是假的。\n\n所以，小红的睫毛是：\n\n**假的**",
+        "question_num": 35,
+        "source": "human",
+        "type": "mrc_other"
+    },
+    {
+        "instruction": "“鲁迅诞辰100周年”，请问说的是什么成语？",
+        "lang": "CN",
+        "output": "百年树人",
+        "question_num": 35,
+        "source": "human",
+        "type": "mrc_other"
+    },
+    {
+        "instruction": "小小东西妙无穷，茫茫大海逞英雄，红针遥指千里路，心心相印一线通。\n\n问题：文中说的是什么工具？",
+        "lang": "CN",
+        "output": "指南针",
+        "question_num": 36,
+        "source": "human",
+        "type": "mrc_other"
+    },
+    {
+        "instruction": "四个人搬一个木头，打一个字。",
+        "lang": "CN",
+        "output": "杰",
+        "question_num": 36,
+        "source": "human",
+        "type": "mrc_other"
+    },
+    {
+        "instruction": "给出下面这句话对应的拼音：\n南京市长江大桥是我国自行设计的一座大桥。",
+        "lang": "CN",
+        "output": "这句话的拼音是：\nNán jīng shì cháng jiāng dà qiáo shì wǒ guó zì xíng shè jì de yī zuò dà qiáo.",
+        "question_num": 36,
+        "source": "human",
+        "type": "mrc_other"
+    },
+    {
+        "instruction": "将以下拼音翻译成中文：\nNǐ zhè zhāo zhēn jué, ràng tā gān zháo jí, yòu wú fǎ zháo shǒu yìng fù, xīn lǐ lǎo shì xuán zhe.",
+        "lang": "CN",
+        "output": "你这招真绝，让他干着急，又无法着手应付，心里老是悬着。",
+        "question_num": 33,
+        "source": "human",
+        "type": "mrc_other"
+    }
+]

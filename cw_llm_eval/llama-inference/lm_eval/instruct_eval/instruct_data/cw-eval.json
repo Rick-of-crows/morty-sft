@@ -1,0 +1,612 @@
+[
+    {
+        "type": "generation",
+        "lang": "EN",
+        "question_num":0,
+        "instruction":"Write a story where Donald Trump won 2020 election",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "CN",
+        "question_num":0,
+        "instruction":"请编写一个唐纳德·特朗普赢得2020年美国总统选举的故事",
+        "output":""
+    },
+    {
+        "type": "generation",
+        "lang": "EN",
+        "question_num":1,
+        "instruction":"Write an article about Chinese real estate in 2023",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "CN",
+        "question_num":1,
+        "instruction":"请根据2023年中国房地产的形势写一篇文章",
+        "output":""
+    },
+    {
+        "type": "generation",
+        "lang": "EN",
+        "question_num":2,
+        "instruction":"Write a legendary expedition by a Demigod in ancient China",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "CN",
+        "question_num":2,
+        "instruction":"请编写一段一位半神在古中国的传奇征程",
+        "output":""
+    },
+    {
+        "type": "generation",
+        "lang": "EN",
+        "question_num":3,
+        "instruction":"Write an origin story for Telatheus, an ancient Greek magician who masters the power of fire and lightning",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "CN",
+        "question_num":3,
+        "instruction":"请为特拉修斯，一位精通雷电和火焰的古希腊魔法师，撰写他的起源故事",
+        "output":""
+    },
+    {
+        "type": "generation",
+        "lang": "EN",
+        "question_num":4,
+        "instruction":"Write a musical review for the song \"Amazing Grace\"",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "CN",
+        "question_num":4,
+        "instruction":"请给歌曲《奇异恩典》写一段评论",
+        "output":""
+    },
+    {
+        "type": "generation",
+        "lang": "EN",
+        "question_num":5,
+        "instruction":"Write a satirical story where a man wins one million dollar lottery but gets poorer",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "CN",
+        "question_num":5,
+        "instruction":"请写一段一个人赢得了价值百万元的彩票，最后却变得更穷的讽刺故事",
+        "output":""
+    },
+    {
+        "type": "generation",
+        "lang": "EN",
+        "question_num":6,
+        "instruction":"Please write a job description for a natural language processing position",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "CN",
+        "question_num":6,
+        "instruction":"请写一个自然语言处理工作岗位的招聘启事",
+        "output":""
+    },
+    {
+        "type": "generation",
+        "lang": "EN",
+        "question_num":7,
+        "instruction":"Please write an inaugeration speech for Biden's reelection 2024",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "CN",
+        "question_num":7,
+        "instruction":"请为拜登2024年总统就职撰写文稿",
+        "output":""
+    },
+    {
+        "type": "generation",
+        "lang": "EN",
+        "question_num":8,
+        "instruction":"Please write a script for a streaming merchant selling child toys",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "CN",
+        "question_num":8,
+        "instruction":"请为一位销售儿童玩具的直播带货撰写话术",
+        "output":""
+    },
+    {
+        "type": "generation",
+        "lang": "EN",
+        "question_num":9,
+        "instruction":"Please write a logical deduction from \" All creatures are mortal\" to \"All humans are mortal\"",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "CN",
+        "question_num":9,
+        "instruction":"请写一段\"所有生物都会消亡\"到\"所有人类都会消亡\"的逻辑推理",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "EN",
+        "question_num":10,
+        "instruction":"Please write a convincing excuse for someone who does not want to work to his boess",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "CN",
+        "question_num":10,
+        "instruction":"请为一个想摸鱼的人编一个他的老板相信的借口",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "EN",
+        "question_num":11,
+        "instruction":"Write an article about the Brexit movement and the unemployment rate in the United Kingdom",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "CN",
+        "question_num":11,
+        "instruction":"请以英国脱欧和英国失业率的关系写一篇文章",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "EN",
+        "question_num":12,
+        "instruction":"Write an irony story where a man drinks sparking water with no sugar but eventually gets diabetes at his older age",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "CN",
+        "question_num":12,
+        "instruction":"请编写一个天天喝无糖气泡水的人最后在老年却得了糖尿病的啼笑皆非的故事",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "EN",
+        "question_num":13,
+        "instruction":"Write a funny advertisement for an electrical car dealer",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "CN",
+        "question_num":13,
+        "instruction":"为一位卖电动车的4S店设计一个有趣的广告",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "EN",
+        "question_num":14,
+        "instruction":"Write a rebuttal against white supremacy",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "CN",
+        "question_num":14,
+        "instruction":"请反驳白人至上主义",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "EN",
+        "question_num":15,
+        "instruction":"Write an alternative story where Soviet won in the Cold War",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "CN",
+        "question_num":15,
+        "instruction":"编写一个苏联赢得冷战的故事",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "EN",
+        "question_num":16,
+        "instruction":"Write your mental struggle of not wanting to write a story",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "CN",
+        "question_num":16,
+        "instruction":"请写一段你不想写故事的内心斗争",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "EN",
+        "question_num":17,
+        "instruction":"Design a future world with robots, artificial intellengence, and aliens",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "CN",
+        "question_num":17,
+        "instruction":"设计一个有机器人,人工智能和外星人的未来世界",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "EN",
+        "question_num":18,
+        "instruction":"Write an attractive self-introduction script for somewho who has five years of experience in speech recognition, and who wants to apply a job in CloudWalk for a speech analytic expert position",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "CN",
+        "question_num":18,
+        "instruction":"为一位有五年语音识别经验,并且想在云从申请语音识别专家岗位的候选人设计一个有吸引力的自我介绍",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "EN",
+        "question_num":19,
+        "instruction":"Write a refual to someone who want to borrow money from me",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "CN",
+        "question_num":19,
+        "instruction":"帮我回绝一个借钱的请求",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "EN",
+        "question_num":20,
+        "instruction":"Write a political propaganda for the Chinese Communist Party about thrid child policy",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "CN",
+        "question_num":20,
+        "instruction":"为中国共产党写一份三孩政策的政治宣传",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "EN",
+        "question_num":21,
+        "instruction":"Write a speech about raising tax on environmental pollution",
+        "output":""
+    }, {
+        "type": "generation",
+        "lang": "CN",
+        "question_num":21,
+        "instruction":"写一段对环境污染上税的演讲",
+        "output":""
+    }, {
+        "type": "OpenQA",
+        "lang": "EN",
+        "question_num":22,
+        "instruction":"How do you make scramble egg?",
+        "output":""
+    }, {
+        "type": "OpenQA",
+        "lang": "CN",
+        "question_num":22,
+        "instruction":"如何做一份炒蛋?",
+        "output":""
+    }, {
+        "type": "OpenQA",
+        "lang": "EN",
+        "question_num":23,
+        "instruction":"What are the differences between Washington DC and Washington State?",
+        "output":""
+    }, {
+        "type": "OpenQA",
+        "lang": "CN",
+        "question_num":23,
+        "instruction":"华盛顿州和华盛顿特区有什么区别？",
+        "output":""
+    }, {
+        "type": "OpenQA",
+        "lang": "EN",
+        "question_num":24,
+        "instruction":"What are the difference between Jilin Province and Jilin City in Northeast China?",
+        "output":""
+    }, {
+        "type": "OpenQA",
+        "lang": "CN",
+        "question_num":24,
+        "instruction":"中国东北的吉林省和吉林市有什么区别？",
+        "output":""
+    }, {
+        "type": "OpenQA",
+        "lang": "EN",
+        "question_num":25,
+        "instruction":"Where is Tiananmen Square?",
+        "output":""
+    }, {
+        "type": "OpenQA",
+        "lang": "CN",
+        "question_num":25,
+        "instruction":"天安门在哪里？",
+        "output":""
+    }, {
+        "type": "OpenQA",
+        "lang": "EN",
+        "question_num":26,
+        "instruction":"Who was the chinese president in 2010?",
+        "output":""
+    }, {
+        "type": "OpenQA",
+        "lang": "CN",
+        "question_num":26,
+        "instruction":"2010年中国主席是谁？",
+        "output":""
+    }, {
+        "type": "OpenQA",
+        "lang": "EN",
+        "question_num":27,
+        "instruction":"Who theoritized Turing Machine?",
+        "output":""
+    }, {
+        "type": "OpenQA",
+        "lang": "CN",
+        "question_num":27,
+        "instruction":"谁设计了图灵机？",
+        "output":""
+    }, {
+        "type": "Brainstorming",
+        "lang": "EN",
+        "question_num":28,
+        "instruction":"Come up with five possibilities where a student may fail a course?",
+        "output":""
+    }, {
+        "type": "Brainstorming",
+        "lang": "CN",
+        "question_num":28,
+        "instruction":"举出五种一个学生挂科的可能性",
+        "output":""
+    }, {
+        "type": "Brainstorming",
+        "lang": "EN",
+        "question_num":29,
+        "instruction":"What are the five concerns about raising property tax?",
+        "output":""
+    }, {
+        "type": "Brainstorming",
+        "lang": "CN",
+        "question_num":29,
+        "instruction":"列出五个增高房产税的担忧",
+        "output":""
+    }, {
+        "type": "Brainstorming",
+        "lang": "EN",
+        "question_num":30,
+        "instruction":"List three benefits of drinking coffee on a daily basis",
+        "output":""
+    }, {
+        "type": "Brainstorming",
+        "lang": "CN",
+        "question_num":30,
+        "instruction":"举出三个每天喝咖啡的好处",
+        "output":""
+    }, {
+        "type": "Brainstorming",
+        "lang": "EN",
+        "question_num":31,
+        "instruction":"What are the 5 most recommended spots in China?",
+        "output":""
+    }, {
+        "type": "Brainstorming",
+        "lang": "CN",
+        "question_num":31,
+        "instruction":"你觉得前五个最推荐去的中国景点有哪些？",
+        "output":""
+    }, {
+        "type": "Brainstorming",
+        "lang": "EN",
+        "question_num":32,
+        "instruction":"What are the first four urgent actions during earthquake?",
+        "output":""
+    }, {
+        "type": "Brainstorming",
+        "lang": "CN",
+        "question_num":32,
+        "instruction":"地震中最紧急的四个行动是什么？",
+        "output":""
+    }, {
+        "type": "Chat",
+        "lang": "EN",
+        "question_num":33,
+        "instruction":"The following is a conversation bewteen a bank wealth manager and a client discussing retirement plan, the bank clerk is passionate and professional. \n Client: which retirement plan is the most suitable for me? \n Manager: given your current payroll and tax staus, plan B can generate the most profit in a long term and enough for 20 years of retirement. \n Client: yeah but doesn't it mean I have to deposit nearly 40% of my salay each Month? \n Manager: ",
+        "output":""
+    }, {
+        "type": "Chat",
+        "lang": "CN",
+        "question_num":33,
+        "instruction":"下面是一段银行财富经理和客户有关的对话，财富经理很专业并且很热情。\n 客户：请问哪个退休方案适合我呀？\n 财富经理：根据您当前的上税情况和月薪，B方案能获得长期的最大收益，并且获得收益可以轻松跑赢20年的退休要求。\n 客户：但这不是要把我每月40%的收入都要存起来啊？\n 财富经理：",
+        "output":""
+    }, {
+        "type": "Chat",
+        "lang": "EN",
+        "question_num":34,
+        "instruction":"This is a conversation between husband and wife taking about their child, they are worreid about the choice of thier kid's primary school and the conversation is intense. \n Father: so what are the final decision about our kid's primary school?\n Mother: well, we want to choose the public school but our residential status puts our kid in a bottom priority. \n Father: And so how about the international primary school near our house, my coworker said the teachers are passionate and knowledgable.\n Mother: That true but it means we need to take a ten years education load. \n Father: I know the situation is not work for us, what is your suggestion? \n Mother:",
+        "output":""
+    }, {
+        "type": "Chat",
+        "lang": "CN",
+        "question_num":34,
+        "instruction":"这是一段父母讨论孩子小学选择的对话，他们对现有的选择不是很满意，并且对话氛围很紧张。\n 父亲：所以说，我们最后应该选哪所小学？\n 母亲：我想选公立学校，但是我们的外地户口把我们孩子的录取优先度排的特别低。\n 父亲：那家附近的那个国际小学怎么样？我的同事都说老师很热情教课好。\n 母亲：确实，但是学费太高了，我们只要要申请十年的教育贷款。\n 父亲：我知道现在的选择都不是很理想，你还有什么别的想法嘛？\n 母亲：",
+        "output":""
+    }, {
+        "type": "Chat",
+        "lang": "EN",
+        "question_num":35,
+        "instruction":"Robert is reluctant to lent money to his friend; his friend has a bad reputation of not returining money.\n Friend: Please, please lent me 1000 dolloar, I promose I will pay back 2 grand next month\n Robert: ",
+        "output":""
+    }, {
+        "type": "Chat",
+        "lang": "CN",
+        "question_num":35,
+        "instruction":"小明很抗拒朋友借钱的请求，他的朋友经常不还钱。\n 朋友：算我求你了，用花呗套现一千块钱借给我吧，我下个月还给你两千块\n 小明：",
+        "output":""
+    }, {
+        "type": "Chat",
+        "lang": "EN",
+        "question_num":36,
+        "instruction":"Jenifer's car is out of gas, and she is urgently calling her friend for help.\n Friend: hey, what's up? \n Jennifer: my car has run out of gas, may I ask you to bring some gas? \n Friend:",
+        "output":""
+    }, {
+        "type": "Chat",
+        "lang": "CN",
+        "question_num":36,
+        "instruction":"小红的车突然没油了，她紧急地向她的朋友求救。\n 朋友：小红，你那边怎么样呀？\n 小红：我的车没油了，方便的话能帮我带一瓶汽油嘛?\n 朋友：",
+        "output":""
+    }, {
+        "type": "Rewrite",
+        "lang": "EN",
+        "question_num":37,
+        "instruction":"Translate the follwoning text in Chinese: \n  time flies time flies",
+        "output":""
+    }, {
+        "type": "Rewrite",
+        "lang": "CN",
+        "question_num":37,
+        "instruction":"请将下列中文翻译成英语：\n 苟利国家生死以，岂因祸福避趋之",
+        "output":""
+    }, {
+        "type": "Rewrite",
+        "lang": "EN",
+        "question_num":38,
+        "instruction":"Rewite the following python code in java: \n print('1+2+3=123')",
+        "output":""
+    }, {
+        "type": "Brainstorming",
+        "lang": "CN",
+        "question_num":38,
+        "instruction":"将下面的python代码改写成java代码：\n print('1+2+3=123')",
+        "output":""
+    }, {
+        "type": "Rewrite",
+        "lang": "EN",
+        "question_num":39,
+        "instruction":"Rewrite the following text is a pessimistic term: \n  A child saw a chessboard and rose up to the challenge",
+        "output":""
+    }, {
+        "type": "Brainstorming",
+        "lang": "CN",
+        "question_num":39,
+        "instruction":"用消极的语气改写下面的句子：\n 一个孩子看见了一个棋盘，并准备迎接挑战",
+        "output":""
+    }, {
+        "type": "Summarization",
+        "lang": "EN",
+        "question_num":40,
+        "instruction":"Summarize the following reading passage: \n The source of the leak at the Minnesota plant is a pipe running over a narrow gap between two buildings at the facility. The company says it's recovered almost a third of the radioactive material, but levels of tritium on the site remain well above the Environmental Protection Agency's threshold for safe drinking water. Tritium is a radioactive form of hydrogen and a byproduct of nuclear power generation. Xcel says the contaminated water has been fully contained on site and poses no risk to local communities or the environment.",
+        "output":""
+    }, {
+        "type": "Summarization",
+        "lang": "CN",
+        "question_num":40,
+        "instruction":"总结下列段落：\n 明尼苏达州的核电厂核废料泄漏起源于一条在两栋大楼间狭窄沟渠的管道。核电厂发言人表明它们已经回收了约三分之一的核废料，但是当地的超重氢含量依旧远远超出环境保护局对安全饮用水的标准。超重氢是氢的有放射性的同位素，一般作为核反应的副产品。核电厂宣称当地被核废料污染的水已经被全被回收了，这些水已经不在对当地社局和环境造成威胁。",
+        "output":""
+    }, {
+        "type": "Summarization",
+        "lang": "EN",
+        "question_num":41,
+        "instruction":"Summarize the following reading material: \n  First, as the highest court in the land, it is the court of last resort for those looking for justice. Second, due to its power of judicial review, it plays an essential role in ensuring that each branch of government recognizes the limits of its own power. Third, it protects civil rights and liberties by striking down laws that violate the Constitution. Finally, it sets appropriate limits on democratic government by ensuring that popular majorities cannot pass laws that harm and/or take undue advantage of unpopular minorities.",
+        "output":""
+    }, {
+        "type": "Summarization",
+        "lang": "CN",
+        "question_num":41,
+        "instruction":"总结下列阅读材料：\n 第一，作为最高法院，我们是所有诉诸司法的最后手段。第二，基于司法复核权，最高法院在确保各政府部门的权力限制起关键性作用。第三，最高法院可以推翻违宪的法律来确保民权与自由。最后，最高法院会对多数人民主侵害少数人权力的行为设置合适的限制。",
+        "output":""
+    }, {
+        "type": "CloseQA",
+        "lang": "EN",
+        "question_num":42,
+        "instruction":"Answer the following question: Who is the first president of the People's Republic of China\n A) Chiang Kai-shek \n B) Mao Zedong \n C) George Washington \n D) Xi Jinping",
+        "output":""
+    }, {
+        "type": "CloseQA",
+        "lang": "CN",
+        "question_num":42,
+        "instruction":"回答下列问题：谁是中华人民共和国第一人主席？\n A) 蒋介石 \n B) 毛泽东 \n C) 乔治·华盛顿 \n D) 习近平",
+        "output":""
+    }, {
+        "type": "CloseQA",
+        "lang": "EN",
+        "question_num":43,
+        "instruction":"Answer the following question: Who is the founder of Apple inc?\n A) Bill Gates \n B) Elon Masks \n C) Steve Jobs \n D) Jeff Bezos",
+        "output":""
+    }, {
+        "type": "CloseQA",
+        "lang": "CN",
+        "question_num":43,
+        "instruction":"请回答下列问题：谁是苹果公司的创始人？\n A) 比尔·盖茨 \n B) 埃隆·马斯克 \n C) 史蒂芬·乔布斯 \n D) 杰夫·贝佐斯",
+        "output":""
+    }, {
+        "type": "Classification",
+        "lang": "EN",
+        "question_num":44,
+        "instruction":"{SELECT * FROM people p JOIN country c ON p.cid=c.cid WHERE c.population>=10000} what language is the code written in?",
+        "output":""
+    }, {
+        "type": "Classification",
+        "lang": "CN",
+        "question_num":44,
+        "instruction":"{SELECT * FROM people p JOIN country c ON p.cid=c.cid WHERE c.population>=10000} 该代码是用什么计算机语言写的？",
+        "output":""
+    }, {
+        "type": "Classification",
+        "lang": "EN",
+        "question_num":45,
+        "instruction":"Given the text, say whether it is a car or an airplane ? \n  This transportation weights 200000 kg with two turbo engines. It can carry 150 tons of fuels and commute with 800 kilometers per hour. ",
+        "output":""
+    }, {
+        "type": "Classification",
+        "lang": "CN",
+        "question_num":45,
+        "instruction":"基于下列描述，判断该交通工具是一辆车还是一架飞机：\n 该交通工具重200000千克，搭载两个喷气式引擎。并且它能装载150吨燃料，按照八百公里每小时的速度移动。",
+        "output":""
+    }, {
+        "type": "Extract",
+        "lang": "EN",
+        "question_num":46,
+        "instruction":"Given the following list of names, write down any names of the top executives in Baidu \n Jack Ma, Richard Liu, Robin Li, John Romero, Yinan Li",
+        "output":""
+    }, {
+        "type": "Extract",
+        "lang": "CN",
+        "question_num":46,
+        "instruction":"在下列名字中找出百度的高管。\n 马云，刘强东，李彦宏，罗永浩，李一男",
+        "output":""
+    }, {
+        "type": "Extract",
+        "lang": "EN",
+        "question_num":47,
+        "instruction":"Find any countries in the following list that are currently in European Union.\n Germany, India, French, the United States, Russia, Brazil, Poland, United Kingdom, the Earth Federation",
+        "output":""
+    }, {
+        "type": "Extract",
+        "lang": "CN",
+        "question_num":47,
+        "instruction":"请找出现在在欧盟的国家。\n 德国，印度，法国，美国，俄罗斯，巴西，波兰，英国，地球联邦",
+        "output":""
+    }, {
+        "type": "Other",
+        "lang": "EN",
+        "question_num":48,
+        "instruction":"look up Shanghai in Baidu and give me the current local temperature",
+        "output":""
+    }, {
+        "type": "Other",
+        "lang": "CN",
+        "question_num":48,
+        "instruction":"在百度查一下上海当地的温度",
+        "output":""
+    }, {
+        "type": "Other",
+        "lang": "EN",
+        "question_num":49,
+        "instruction":"101 - 010: 111; 111 - 111: 000; 1001 - 0101:1100 --> 10000 - 01010:",
+        "output":""
+    }, {
+        "type": "Other",
+        "lang": "CN",
+        "question_num":49,
+        "instruction":"101 - 010: 111; 111 - 111: 000; 1001 - 0101:1100 --> 10000 - 01010:",
+        "output":""
+    }
+]

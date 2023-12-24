@@ -1,0 +1,25 @@
+conf: model_config
+
+player:
+  player1:
+    type: bloom
+    load_from_path: "result/result-harmness.json"
+    config:
+      max_length: 384
+      do_sample: False
+
+ # player2:
+ #   type: bloom
+ #   load_from_path: "instruct_data/test_bloom-7b1-cw-2048-nemo-pretrain-helpfulness.20230519_penalty1_2.json"
+ #   config:
+ #     max_length: 384
+ #     do_sample: False
+
+reviewer:
+  reviewer1:
+    type: openai
+    metric: score
+    worker: 22
+    config:
+      model_name: gpt-4-0314
+      temperature: 0

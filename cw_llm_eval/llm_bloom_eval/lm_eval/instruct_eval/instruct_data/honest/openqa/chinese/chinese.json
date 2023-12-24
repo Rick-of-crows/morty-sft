@@ -1,0 +1,188 @@
+[
+    {
+      "type": "Chinese",
+      "lang": "CN",
+      "question_num": 264474,
+      "instruction": "“疑是地上霜”的上一句是什么？",
+      "output": "床前明月光",
+      "source": "wangxi"
+    },
+    {
+      "type": "Chinese",
+      "lang": "CN",
+      "question_num": 264475,
+      "instruction": "唐代诗人中被称为“诗圣”的是谁？",
+      "output": "杜甫",
+      "source": "wangxi"
+    },
+    {
+      "type": "Chinese",
+      "lang": "CN",
+      "question_num": 264476,
+      "instruction": "《红楼梦》的作者是谁？",
+      "output": "曹雪芹",
+      "source": "wangxi"
+    },
+    {
+      "type": "Chinese",
+      "lang": "CN",
+      "question_num": 264476,
+      "instruction": "中国古代最大的一部百科全书是？",
+      "output": "永乐大典",
+      "source": "wangxi"
+    },
+    {
+      "type": "Chinese",
+      "lang": "CN",
+      "question_num": 264476,
+      "instruction": "水浒一百单八将中有几位女性？",
+      "output": "3位",
+      "source": "wangxi"
+    },
+    {
+      "type": "Chinese",
+      "lang": "CN",
+      "question_num": 264476,
+      "instruction": "“月上柳梢头，人约黄昏后”描写的是哪个传统节日？",
+      "output": "元宵节",
+      "source": "wangxi"
+    },
+    {
+      "type": "Chinese",
+      "lang": "CN",
+      "question_num": 264477,
+      "instruction": "鲁迅和老舍的原名分别是什么？",
+      "output": "鲁迅原名周树人，老舍原名舒庆春",
+      "source": "wangxi"
+    },
+    {
+      "type": "Chinese",
+      "lang": "CN",
+      "question_num": 264478,
+      "instruction": "中国古代的“乐府双壁”指的是哪两部作品？",
+      "output": "孔雀东南飞、木兰诗",
+      "source": "wangxi"
+    },
+    {
+      "type": "Chinese",
+      "lang": "CN",
+      "question_num": 264479,
+      "instruction": "“四书五经”中的四书是指的什么？",
+      "output": "大学、中庸、论语、孟子",
+      "source": "wangxi"
+    },
+    {
+      "type": "Chinese",
+      "lang": "CN",
+      "question_num": 264480,
+      "instruction": "长篇讽刺小说《儒林外史》的作者是？",
+      "output": "吴敬梓",
+      "source": "wangxi"
+    },
+    {
+      "type": "Chinese",
+      "lang": "CN",
+      "question_num": 264481,
+      "instruction": "千古名句“大漠孤烟直，长河落日圆”出自哪位诗人的哪首诗作？",
+      "output": "王维的《使至塞上》",
+      "source": "wangxi"
+    },
+    {
+      "type": "Chinese",
+      "lang": "CN",
+      "question_num": 264483,
+      "instruction": "我国的第一部诗歌总集是什么？",
+      "output": "诗经",
+      "source": "wangxi"
+    },
+    {
+      "type": "Chinese",
+      "lang": "CN",
+      "question_num": 264484,
+      "instruction": "唐宋八大家是哪些人？",
+      "output": "韩愈、柳宗元、王安石、欧阳修、苏轼、苏徇、苏辙、曾巩",
+      "source": "wangxi"
+    },
+    {
+      "type": "Chinese",
+      "lang": "CN",
+      "question_num": 264485,
+      "instruction": "诗句“读书破万卷，下笔如有神”出自哪首诗？",
+      "output": "奉赠韦左丞丈二十二韵",
+      "source": "wangxi"
+    },
+    {
+      "type": "Chinese",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "成语“韦编三绝”讲的是关于谁的故事",
+      "output": "孔子",
+      "source": "wangxi"
+    },
+    {
+      "type": "Chinese",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "初唐四杰是说的哪四位人物？",
+      "output": "王勃、杨炯、骆宾王、卢照邻",
+      "source": "wangxi"
+    },
+    {
+      "type": "Chinese",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "我国第一部纪传体史书是？",
+      "output": "史记",
+      "source": "wangxi"
+    },
+    {
+      "type": "Chinese",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "世界上最古老的寓言是？",
+      "output": "伊索寓言",
+      "source": "wangxi"
+    },
+    {
+      "type": "Chinese",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "中国四大古典名著是？",
+      "output": "水浒传、西游记、三国演义、红楼梦",
+      "source": "wangxi"
+    },
+    {
+      "type": "Chinese",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "《封神演义》中有一个可爱的儿童形象，他大闹龙宫，剔骨还父，以莲托身，他的名字叫？",
+      "output": "哪吒",
+      "source": "wangxi"
+    },
+    {
+        "type": "Chinese",
+        "lang": "CN",
+        "question_num": 264487,
+        "instruction": "有一个皇帝，害怕大将军夺权，就摆下酒席，婉转地让各位将军辞官回乡，这就是“杯酒释兵权”的故事，这个皇帝是谁？",
+        "output": "宋太祖赵匡胤",
+        "source": "wangxi"
+    },
+    {
+        "type": "Chinese",
+        "lang": "CN",
+        "question_num": 264487,
+        "instruction": "谁发明了地动仪？",
+        "output": "张衡",
+        "source": "wangxi"
+    },
+    {
+      "type": "Chinese",
+      "lang": "CN",
+      "question_num": 264488,
+      "instruction": "“鸿雁”在古代是代指什么？",
+      "output": "书信",
+      "source": "wangxi"
+    }
+  ]
+  
+  

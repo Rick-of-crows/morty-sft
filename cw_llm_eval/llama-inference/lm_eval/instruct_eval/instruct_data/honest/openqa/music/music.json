@@ -1,0 +1,130 @@
+[
+    {
+      "type": "Music",
+      "lang": "CN",
+      "question_num": 264474,
+      "instruction": "《二泉映月》是一首用什么乐器独奏的曲子？",
+      "output": "二胡",
+      "source": "wangxi"
+    },
+    {
+      "type": "Music",
+      "lang": "CN",
+      "question_num": 264475,
+      "instruction": "钢琴是民族乐器还是西洋乐器？",
+      "output": "西洋乐器",
+      "source": "wangxi"
+    },
+    {
+      "type": "Music",
+      "lang": "CN",
+      "question_num": 264476,
+      "instruction": "中国少年先锋队队歌的名称叫什么？",
+      "output": "我们是共产主义接班人",
+      "source": "wangxi"
+    },
+    {
+      "type": "Music",
+      "lang": "CN",
+      "question_num": 264477,
+      "instruction": "五线谱是哪国人发明的？",
+      "output": "意大利",
+      "source": "wangxi"
+    },
+    {
+      "type": "Music",
+      "lang": "CN",
+      "question_num": 264478,
+      "instruction": "伯牙用于弹奏“高山流水”的乐器是什么？",
+      "output": "古琴",
+      "source": "wangxi"
+    },
+    {
+      "type": "Music",
+      "lang": "CN",
+      "question_num": 264479,
+      "instruction": "周杰伦的第二张专辑是什么？",
+      "output": "范特西",
+      "source": "wangxi"
+    },
+    {
+      "type": "Music",
+      "lang": "CN",
+      "question_num": 264480,
+      "instruction": "林俊杰的歌曲《美人鱼》出自他的哪张专辑？",
+      "output": "第二天堂",
+      "source": "wangxi"
+    },
+    {
+      "type": "Music",
+      "lang": "CN",
+      "question_num": 264483,
+      "instruction": "成语“五音不全”中的五音是指？",
+      "output": "宫、商、角、徵、羽",
+      "source": "wangxi"
+    },
+    {
+      "type": "Music",
+      "lang": "CN",
+      "question_num": 264484,
+      "instruction": "六弦琴是什么乐器的别称。",
+      "output": "吉他",
+      "source": "wangxi"
+    },
+    {
+      "type": "Music",
+      "lang": "CN",
+      "question_num": 264485,
+      "instruction": "《掀起你的盖头来》是哪个民族的歌？",
+      "output": "维吾尔族",
+      "source": "wangxi"
+    },
+    {
+      "type": "Music",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "马头琴是我国哪个民族的乐器？",
+      "output": "蒙古族",
+      "source": "wangxi"
+    },
+    {
+      "type": "Music",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "世界音乐之都是哪个城市？",
+      "output": "维也纳",
+      "source": "wangxi"
+    },
+    {
+      "type": "Music",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "《第九交响曲》的作者是谁？",
+      "output": "贝多芬",
+      "source": "wangxi"
+    },
+    {
+      "type": "Music",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "《胡桃夹子》的作者是谁？",
+      "output": "柴可夫斯基",
+      "source": "wangxi"
+    },
+    {
+      "type": "Music",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "中华人民共和国的国歌是什么？",
+      "output": "义勇军进行曲",
+      "source": "wangxi"
+    },
+    {
+      "type": "Music",
+      "lang": "CN",
+      "question_num": 264488,
+      "instruction": "戏曲音乐主要由哪两大部分构成?",
+      "output": "声乐与器乐",
+      "source": "wangxi"
+    }
+  ]

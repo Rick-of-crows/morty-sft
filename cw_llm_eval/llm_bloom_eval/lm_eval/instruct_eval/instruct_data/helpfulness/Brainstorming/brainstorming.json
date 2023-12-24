@@ -1,0 +1,106 @@
+[
+  {
+    "instruction": "举出三个每天喝咖啡的好处",
+    "lang": "CN",
+    "output": "",
+    "question_num": 30,
+    "source": "human|YanChao",
+    "type": "Brainstorming"
+  },
+  {
+    "instruction": "给我推荐一本关于人工智能的好书，应该包含最新的研究和发展，适合初学者和专业人士。",
+    "lang": "CN",
+    "output": "",
+    "question_num": 284,
+    "source": "BELLE",
+    "type": "Brainstorming"
+  },
+  {
+    "instruction": "What are the 5 most recommended spots in China?",
+    "lang": "EN",
+    "output": "",
+    "question_num": 31,
+    "source": "human|YanChao",
+    "type": "Brainstorming"
+  },
+  {
+    "instruction": "提供以下主题的5个不同的想法:如何让孩子们爱上阅读？",
+    "lang": "CN",
+    "output": "",
+    "question_num": 243,
+    "source": "BELLE",
+    "type": "Brainstorming"
+  },
+  {
+    "instruction": "给我一些关于减肥的建议。",
+    "lang": "CN",
+    "output": "",
+    "question_num": 265,
+    "source": "BELLE",
+    "type": "Brainstorming"
+  },
+  {
+    "instruction": "给我推荐一些适合夏季穿着的衣服品牌",
+    "lang": "CN",
+    "output": "",
+    "question_num": 252,
+    "source": "BELLE",
+    "type": "Brainstorming"
+  },
+  {
+    "instruction": "根据以下条件，推荐一些适合的电影:喜剧类型、评分高于8分、上映时间在最近一年内",
+    "lang": "CN",
+    "output": "",
+    "question_num": 256,
+    "source": "BELLE",
+    "type": "Brainstorming"
+  },
+  {
+    "instruction": "推荐一款值得购买的手机。",
+    "lang": "CN",
+    "output": "",
+    "question_num": 282,
+    "source": "BELLE",
+    "type": "Brainstorming"
+  },
+  {
+    "instruction": "请给出5种不同的草药名称及其功效",
+    "lang": "CN",
+    "output": "",
+    "question_num": 278,
+    "source": "BELLE",
+    "type": "Brainstorming"
+  },
+  {
+    "instruction": "给出一份关于健康饮食的简短建议。",
+    "lang": "CN",
+    "output": "",
+    "question_num": 278,
+    "source": "BELLE",
+    "type": "Brainstorming"
+  },
+  {
+    "instruction": "列举三个种类不同的动物，并说明它们的特点。",
+    "lang": "CN",
+    "output": "",
+    "question_num": 278,
+    "source": "BELLE",
+    "type": "Brainstorming"
+  },
+  {
+    "instruction": "描述一下如何制作芝士披萨。",
+    "lang": "CN",
+    "output": "",
+    "question_num": 278,
+    "source": "BELLE",
+    "type": "Brainstorming"
+  },
+  {
+    "instruction": "给我推荐一本关于烹饪的书。",
+    "lang": "CN",
+    "output": "",
+    "question_num": 275,
+    "source": "BELLE",
+    "type": "Brainstorming"
+  }
+]

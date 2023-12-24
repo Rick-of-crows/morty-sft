@@ -1,0 +1,98 @@
+[
+  {
+    "instruction": "请根据以下句子，提取其中的人名和地名:“在约翰·史密斯教授的指导下，研究小组前往非洲进行考察。”",
+    "lang": "CN",
+    "output": "\n人名：约翰·史密斯\n地名：非洲",
+    "question_num": 346,
+    "source": "BELLE",
+    "type": "Extract"
+  },
+  {
+    "instruction": "Extract all movie names from the text below:\nTitanic is a 1997 American epic romance and disaster film directed, written, co-produced, and co-edited by James Cameron. A fictionalized account of the sinking of the RMS Titanic, it stars Leonardo DiCaprio and Kate Winslet as members of different social classes who fall in love aboard the ship during its ill-fated maiden voyage.",
+    "lang": "EN",
+    "output": "\nTitanic",
+    "question_num": 334,
+    "source": "BELLE",
+    "type": "Extract"
+  },
+  {
+    "instruction": "根据下面的文本，提取出人物的信息:“汤姆和杰瑞是两只老鼠，他们经常在一起玩耍。汤姆身上有深灰色的皮毛，而杰瑞则是浅灰色的。”",
+    "lang": "CN",
+    "output": "\n人物：汤姆和杰瑞\n特点：汤姆身上有深灰色的皮毛，而杰瑞则是浅灰色的。",
+    "question_num": 341,
+    "source": "BELLE",
+    "type": "Extract"
+  },
+  {
+    "instruction": "请找出现在在欧盟的国家。\n 德国，印度，法国，美国，俄罗斯，巴西，波兰，英国，地球联邦",
+    "lang": "CN",
+    "output": "德国，法国，波兰是现在在欧盟的国家。",
+    "question_num": 47,
+    "source": "human|YanChao",
+    "type": "Extract"
+  },
+  {
+    "instruction": "从以下文本中提取出所有的日期:“在2022年的五月一日，我和朋友们去了北京旅行，我们在五月二日返回”",
+    "lang": "CN",
+    "output": "\n2022年五月一日、五月二日",
+    "question_num": 344,
+    "source": "BELLE",
+    "type": "Extract"
+  },
+  {
+    "instruction": "产品名称,价格,库存量,产地,保质期\n苹果,2元,100个,山东,5天\n香蕉,3元,50个,海南,3天\n西瓜,10元,20个,河南,7天\n葡萄,5元,80个,河北,4天\n橙子,2.5元,70个,江西,6天\n草莓,8元,30个,山西,2天\n柿子,4元,60个,河南,5天\n有哪些水果的库存量超过了50个？",
+    "lang": "CN",
+    "output": "苹果、葡萄、橙子和柿子的库存量都超过了50个",
+    "question_num": 348,
+    "source": "BELLE",
+    "type": "Extract"
+  },
+  {
+    "instruction": "请提取以下文章中的所有成语：每年的春运都是中国最大规模的人口流动之一。数以亿计的人们从大城市赶回家乡过年，火车站、汽车站、机场人山人海，熙熙攘攘，摩肩接踵，人来人往，人声鼎沸，人满为患。",
+    "lang": "CN",
+    "output": "人山人海，熙熙攘攘，摩肩接踵，人来人往，人声鼎沸，人满为患。",
+    "question_num": 348,
+    "source": "BELLE",
+    "type": "Extract"
+  },
+  {
+    "instruction": "请根据以下描述，提取出所有的地点信息:我打算去纽约、洛杉矶和旧金山旅行。",
+    "lang": "CN",
+    "output": "纽约、洛杉矶、旧金山。",
+    "question_num": 348,
+    "source": "BELLE",
+    "type": "Extract"
+  },
+  {
+    "instruction": "从以下文本中提取电子邮件地址:\"请发送邮件至john@example.com或致电+1-555-123-4567联系我们。\"",
+    "lang": "CN",
+    "output": "john@example.com",
+    "question_num": 340,
+    "source": "BELLE",
+    "type": "Extract"
+  },
+  {
+    "instruction": "请在以下文字中找到所有的“AI”（大写）单词并将其替换为“人工智能”:\nAIGC是指利用人工智能技术来生成内容，AI聊天、 AI绘画、AI写作等都属于AIGC的分支。在视频创作领域，AI辅助甚至主导完成内容创作的AIGC模式正被关注。在“Q.AI”的视频生成模块中，用户只需输入文本，平台根据自动语义分析，并在几分钟内完成一个完整的短视频。包括画面素材、背景音乐、旁白配音以及字幕的匹配，都是由AI自动生成。",
+    "lang": "CN",
+    "output": "人工智能GC是指利用人工智能技术来生成内容，人工智能聊天、 人工智能绘画、人工智能写作等都属于人工智能GC的分支。在视频创作领域，人工智能辅助甚至主导完成内容创作的人工智能GC模式正被关注。在“Q.人工智能”的视频生成模块中，用户只需输入文本，平台根据自动语义分析，并在几分钟内完成一个完整的短视频。包括画面素材、背景音乐、旁白配音以及字幕的匹配，都是由人工智能自动生成。",
+    "question_num": 342,
+    "source": "BELLE",
+    "type": "Extract"
+  },
+  {
+    "instruction": "请根据以下文本，提取出其中所有人名和他们所在的组织机构名称:张三是某公司的总裁，李四是这个公司的首席财务官，王五是公司的销售经理。",
+    "lang": "CN",
+    "output": "\n人名：张三、李四、王五\n组织机构名称：未提及",
+    "question_num": 336,
+    "source": "BELLE",
+    "type": "Extract"
+  },
+  {
+    "instruction": "请从以下文章中提取出所有的人名。“在今天的新闻发布会上，总统约翰逊宣布了一项新的经济计划。”",
+    "lang": "CN",
+    "output": "\n约翰逊",
+    "question_num": 335,
+    "source": "BELLE",
+    "type": "Extract"
+  }
+]

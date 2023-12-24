@@ -1,0 +1,98 @@
+[
+  {
+    "instruction": "请根据以下输入分类这些狗的品种:拉布拉多、贵宾、哈士奇、柯基、柴犬",
+    "lang": "CN",
+    "output": "分类如下：\n- 拉布拉多：猎犬类\n- 贵宾：玩具犬类\n- 哈士奇：工作犬类\n- 柯基：牧羊犬类\n- 柴犬：工作犬类",
+    "question_num": 208,
+    "source": "BELLE",
+    "type": "Classification"
+  },
+  {
+    "instruction": "请根据以下输入，分类出它属于哪个国家的美食:“寿司、生鱼片、天妇罗、炸豆腐”",
+    "lang": "CN",
+    "output": "\n这些食物属于日本的美食。",
+    "question_num": 212,
+    "source": "BELLE",
+    "type": "Classification"
+  },
+  {
+    "instruction": "请将以下这篇文章分类为新闻报道、科学文章或社论:据媒体新闻援引美国福克斯新闻网报道，美国伯克希尔哈撒韦公司首席执行官、著名投资人巴菲特近日就美国银行业危机与总统拜登的团队进行对话。外界较为关注的是，巴菲特可能以某种方式投资美国地区性银行。据了解，这位亿万富翁在通话中针对当前危机给出了意见和指导。长期以来，巴菲特一直在帮助处于危机中的银行，其中包括美国银行和高盛。",
+    "lang": "CN",
+    "output": "新闻报道。",
+    "question_num": 210,
+    "source": "BELLE",
+    "type": "Classification"
+  },
+  {
+    "instruction": "请将以下文本分类为正面、负面或中性情感:这家餐厅的食物非常好吃，但服务有待改善",
+    "lang": "CN",
+    "output": "中性",
+    "question_num": 205,
+    "source": "BELLE",
+    "type": "Classification"
+  },
+  {
+    "instruction": "请将以下品牌分为时装品牌或运动品牌:Adidas、Gucci、Nike、Puma",
+    "lang": "CN",
+    "output": "\n时装品牌：Gucci\n运动品牌：Adidas、Nike、Puma",
+    "question_num": 202,
+    "source": "BELLE",
+    "type": "Classification"
+  },
+  {
+    "instruction": "请判断下列文本属于什么类型的新闻:\n华为正式官宣进军ERP 市场。3 月17 日，华为创始人任正非在“难题揭榜”火花奖公司内外的获奖者及出题专家座谈会上表示，2023年4 月份 MetaERP 将会宣誓，完全用自己的操作系统、数据库、编译器和语言，做出了自己的管理系统MetaERP 软件。MetaERP 已经历了公司全球各部门的应用实战考验，经过了华为的总账使用年度结算考验，已成功地证明MetaERP 是有把握推广的。这是在市场传言已久后，华为首次官方口径承认MetaERP 存在，并且在官方口径认可未来MetaERP 即将面向市场推广。",
+    "lang": "CN",
+    "output": "科技新闻",
+    "question_num": 209,
+    "source": "BELLE",
+    "type": "Classification"
+  },
+  {
+    "instruction": "请根据以下段落，判断该段落属于哪个学科领域:“人类的DNA由四种碱基组成腺嘌呤、胞嘧啶、鸟嘌呤和胸腺嘧啶。这些碱基的排列顺序决定了DNA所携带的遗传信息。”",
+    "lang": "CN",
+    "output": "生物学领域。",
+    "question_num": 201,
+    "source": "BELLE",
+    "type": "Classification"
+  },
+  {
+    "instruction": "将以下10个单词分类为动物或植物。\n树木、狮子、玫瑰、草地、松鼠、猴子、蘑菇、兔子、山羊、香蕉。",
+    "lang": "CN",
+    "output": "动物：狮子、松鼠、猴子、兔子、山羊 \n植物：树木、玫瑰、草地、蘑菇、香蕉",
+    "question_num": 206,
+    "source": "BELLE",
+    "type": "Classification"
+  },
+  {
+    "instruction": "请根据以下描述，将以下物品分类为水果或蔬菜:黄瓜、苹果、西红柿、香蕉、胡萝卜",
+    "lang": "CN",
+    "output": "黄瓜、西红柿、胡萝卜属于蔬菜，苹果和香蕉属于水果。",
+    "question_num": 206,
+    "source": "BELLE",
+    "type": "Classification"
+  },
+  {
+    "instruction": "将以下文本分类为新闻、广告、还是论坛帖子:“最新款iPhone 13现已上市，速来选购！”",
+    "lang": "CN",
+    "output": "广告",
+    "question_num": 206,
+    "source": "BELLE",
+    "type": "Classification"
+  },
+  {
+    "instruction": "根据以下信息，将以下句子分类为肯定、否定、疑问句或祈使句:“你明天会来参加我的派对吗？”",
+    "lang": "CN",
+    "output": "\n疑问句。",
+    "question_num": 213,
+    "source": "BELLE",
+    "type": "Classification"
+  },
+  {
+    "instruction": "请为以下名人进行职业分类:王菲、李连杰、周星驰、蔡依林，分类为歌手、演员、导演",
+    "lang": "CN",
+    "output": "\n王菲：歌手\n李连杰：演员\n周星驰：演员和导演\n蔡依林：歌手",
+    "question_num": 213,
+    "source": "BELLE",
+    "type": "Classification"
+  }
+]

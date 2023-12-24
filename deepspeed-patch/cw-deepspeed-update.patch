@@ -1,0 +1,129 @@
+diff -Nur deepspeed-0.8.2-src/constants.py deepspeed-0.8.2/constants.py
+--- deepspeed-0.8.2-src/constants.py	2023-08-23 16:48:08.000000000 +0000
++++ deepspeed-0.8.2/constants.py	2023-08-23 16:36:24.000000000 +0000
+@@ -13,6 +13,6 @@
+ # (only if NCCL_BLOCKING_WAIT or NCCL_ASYNC_ERROR_HANDLING is set to 1).
+ # To make an attempt at backwards compatibility with THD, we use an
+ # extraordinarily high default timeout, given that THD did not have timeouts.
+-default_pg_timeout = timedelta(minutes=30)
++default_pg_timeout = timedelta(minutes=300)
+ INFERENCE_GENERIC_MODE = 'generic'
+ INFERENCE_SPECIALIZED_MODE = 'specialized'
+diff -Nur deepspeed-0.8.2-src/env_report.py deepspeed-0.8.2/env_report.py
+--- deepspeed-0.8.2-src/env_report.py	2023-08-23 16:48:08.000000000 +0000
++++ deepspeed-0.8.2/env_report.py	2023-08-23 16:36:24.000000000 +0000
+@@ -65,6 +65,7 @@
+ def nvcc_version():
+     import torch.utils.cpp_extension
+     cuda_home = torch.utils.cpp_extension.CUDA_HOME
++    cuda_home = "/opt/conda"
+     if cuda_home is None:
+         return f"{RED} [FAIL] cannot find CUDA_HOME via torch.utils.cpp_extension.CUDA_HOME={torch.utils.cpp_extension.CUDA_HOME} {END}"
+     try:
+diff -Nur deepspeed-0.8.2-src/git_version_info_installed.py deepspeed-0.8.2/git_version_info_installed.py
+--- deepspeed-0.8.2-src/git_version_info_installed.py	2023-08-23 16:48:08.000000000 +0000
++++ deepspeed-0.8.2/git_version_info_installed.py	2023-08-23 16:36:24.000000000 +0000
+@@ -2,5 +2,5 @@
+ git_hash='unknown'
+ git_branch='unknown'
+ installed_ops={'async_io': False, 'cpu_adagrad': False, 'cpu_adam': False, 'fused_adam': False, 'fused_lamb': False, 'quantizer': False, 'random_ltd': False, 'sparse_attn': False, 'spatial_inference': False, 'transformer': False, 'stochastic_transformer': False, 'transformer_inference': False, 'utils': False}
+-compatible_ops={'async_io': True, 'cpu_adagrad': True, 'cpu_adam': True, 'fused_adam': True, 'fused_lamb': True, 'quantizer': True, 'random_ltd': True, 'sparse_attn': False, 'spatial_inference': True, 'transformer': True, 'stochastic_transformer': True, 'transformer_inference': True, 'utils': True}
+-torch_info={'version': '1.13', 'bf16_support': True, 'cuda_version': '11.7', 'nccl_version': '2.14', 'hip_version': '0.0'}
++compatible_ops={'async_io': True, 'cpu_adagrad': True, 'cpu_adam': True, 'fused_adam': True, 'fused_lamb': True, 'quantizer': True, 'random_ltd': True, 'sparse_attn': False, 'spatial_inference': False, 'transformer': True, 'stochastic_transformer': True, 'transformer_inference': False, 'utils': True}
++torch_info={'version': '0.0', 'bf16_support': False, 'cuda_version': '0.0', 'nccl_version': '0.0', 'hip_version': '0.0'}
+diff -Nur deepspeed-0.8.2-src/runtime/engine.py deepspeed-0.8.2/runtime/engine.py
+--- deepspeed-0.8.2-src/runtime/engine.py	2023-08-23 16:48:20.000000000 +0000
++++ deepspeed-0.8.2/runtime/engine.py	2023-08-23 16:36:36.000000000 +0000
+@@ -2769,7 +2769,7 @@
+                                                          custom_load_fn=custom_load_fn)
+ 
+         load_zero_checkpoint = self.zero_optimization() or self.bfloat16_enabled()
+-        if load_zero_checkpoint and load_path is not None:
++        if load_zero_checkpoint and load_path is not None and not load_module_only:
+             success = self._load_zero_checkpoint(
+                 load_dir,
+                 tag,
+@@ -2834,7 +2834,8 @@
+ 
+         if load_module_only:
+             deepspeed_states = ['module']
+-            if self.optimizer is not None and self.fp16_enabled():
++            #if self.optimizer is not None and self.fp16_enabled():
++            if self.optimizer is not None:
+                 self.optimizer.refresh_fp32_params()
+         else:
+             if self.has_moe_layers:
+diff -Nur deepspeed-0.8.2-src/runtime/pipe/engine.py deepspeed-0.8.2/runtime/pipe/engine.py
+--- deepspeed-0.8.2-src/runtime/pipe/engine.py	2023-08-23 16:48:22.000000000 +0000
++++ deepspeed-0.8.2/runtime/pipe/engine.py	2023-08-23 17:28:50.000000000 +0000
+@@ -1364,6 +1364,8 @@
+ 
+         # For each step in the schedule
+         for step_cmds in pipe_schedule:
++		    # dynamic padding add by wsf £¨TODO: Verify effect of non-dynamic-padding£©
++		    # self.reset_activation_shape()
+             # For each instruction in the step
+             for cmd in step_cmds:
+                 if type(cmd) not in self._INSTRUCTION_MAP:
+diff -Nur deepspeed-0.8.2-src/runtime/pipe/module.py deepspeed-0.8.2/runtime/pipe/module.py
+--- deepspeed-0.8.2-src/runtime/pipe/module.py	2023-08-23 16:48:22.000000000 +0000
++++ deepspeed-0.8.2/runtime/pipe/module.py	2023-08-23 16:36:38.000000000 +0000
+@@ -635,7 +635,9 @@
+         # This is an unfortunate hack related to torch and deepspeed activation checkpoint implementations.
+         # Some layers like torch.nn.Embedding will not receive grads if checkpointed, which breaks things.
+         # I presume it's related to the discrete inputs that cannot require_grad? Need to revisit.
+-        if self.__class__.__name__ in ('GPTModelPipe', 'GPT2ModelPipe'):
++
++        #if self.__class__.__name__ in ('GPTModelPipe', 'GPT2ModelPipe'):
++        if self.__class__.__name__ in ('GPTModelPipe', 'GPT2ModelPipe', 'LlamaModelPipe'):
+             return all('ParallelTransformerLayerPipe' in f.__class__.__name__
+                        for f in funcs)
+         if self.checkpointable_layers is not None:
+diff -Nur deepspeed-0.8.2-src/runtime/state_dict_factory.py deepspeed-0.8.2/runtime/state_dict_factory.py
+--- deepspeed-0.8.2-src/runtime/state_dict_factory.py	2023-08-23 16:48:20.000000000 +0000
++++ deepspeed-0.8.2/runtime/state_dict_factory.py	2023-08-23 16:36:36.000000000 +0000
+@@ -346,8 +346,10 @@
+         for key in keys:
+             value_list = [sd[key] for sd in client_sd_list]
+ 
+-            if "attention.dense.weight" in key or "mlp.dense_4h_to_h.weight" in key:
+-                if quantize:
++            #if "attention.dense.weight" in key or "mlp.dense_4h_to_h.weight" in key:
++            if "attention.dense.weight" in key or "mlp.dense_4h_to_h.weight" in key or "mlp.down_proj.weight" in key:
++                #if quantize:
++                if quantize and "attention.dense.weight" in key or "mlp.dense_4h_to_h.weight" in key:
+                     value_list = quantizer.Quantize(value_list,
+                                                     quantize_bits,
+                                                     groups,
+@@ -408,7 +410,8 @@
+         for key in client_sd.keys():
+             value = client_sd[key]
+ 
+-            if "attention.dense.weight" in key or "mlp.dense_4h_to_h.weight" in key:
++            #if "attention.dense.weight" in key or "mlp.dense_4h_to_h.weight" in key:
++            if "attention.dense.weight" in key or "mlp.dense_4h_to_h.weight" in key or "mlp.down_proj.weight" in key:
+                 assert value.shape[1] % num_to_split == 0
+                 split_size = value.shape[1] // num_to_split
+                 if quantize:
+@@ -424,7 +427,8 @@
+                     num_to_split,
+                     ckpt_offset,
+                     ckpt_ver)
+-            elif "mlp.dense_h_to_4h.weight" in key or "word_embeddings.weight" in key or "mlp.dense_h_to_4h.bias" in key or "final_linear.weight" in key:
++            #elif "mlp.dense_h_to_4h.weight" in key or "word_embeddings.weight" in key or "mlp.dense_h_to_4h.bias" in key or "final_linear.weight" in key:
++            elif "mlp.dense_h_to_4h.weight" in key or "word_embeddings.weight" in key or "mlp.dense_h_to_4h.bias" in key or "final_linear.weight" in key or "mlp.up_proj.weight" in key or "mlp.gate_proj.weight" in key:
+                 assert value.shape[0] % num_to_split == 0
+                 split_size = value.shape[0] // num_to_split
+                 if quantize and "mlp.dense_h_to_4h.weight" in key:
+@@ -447,7 +451,10 @@
+             "mlp.dense_4h_to_h.weight",
+             "attention.query_key_value",
+             "mlp.dense_h_to_4h.weight",
+-            "mlp.dense_h_to_4h.bias"
++            "mlp.dense_h_to_4h.bias",
++            "mlp.up_proj.weight",
++            "mlp.gate_proj.weight",
++            "mlp.down_proj.weight"
+         ]
+ 
+         sd = self.checkpoint_engine.load(ckpt_file_name,

@@ -1,0 +1,106 @@
+[
+    {
+      "type": "Physics",
+      "lang": "CN",
+      "question_num": 264474,
+      "instruction": "在标准大气压下把水加热，通常到多少度会沸腾？",
+      "output": "100摄氏度",
+      "source": "wangxi"
+    },
+    {
+      "type": "Physics",
+      "lang": "CN",
+      "question_num": 264475,
+      "instruction": "水的三种状态分别是什么？",
+      "output": "液态、气态、固态",
+      "source": "wangxi"
+    },
+    {
+      "type": "Physics",
+      "lang": "CN",
+      "question_num": 264476,
+      "instruction": "宇宙中最快的速度是？",
+      "output": "光速",
+      "source": "wangxi"
+    },
+    {
+      "type": "Physics",
+      "lang": "CN",
+      "question_num": 264483,
+      "instruction": "电磁感应现象是谁发现的？",
+      "output": "法拉第",
+      "source": "wangxi"
+    },
+    {
+      "instruction": "为什么电场和磁场相互作用时会产生电磁辐射？",
+      "lang": "CN",
+      "output": "电场和磁场相互作用时会产生电磁辐射，因为它们在相互作用的过程中会改变彼此的状态，从而产生能量的传递和传播。当电荷或电流在运动时，就会产生磁场，而当磁场和电场相互作用时，就会产生电磁波，即电磁辐射。这种辐射是一种能量的形式，可以通过空气、真空或其他介质传播，是通信、雷达、电视、手机等现代科技的基础。",
+      "question_num": 290,
+      "source": "BELLE",
+      "type": "Physics"
+    },
+    {
+      "type": "Physics",
+      "lang": "CN",
+      "question_num": 264484,
+      "instruction": "提出“给我一个支点，我就能撬动地球”的名言的物理学家是？",
+      "output": "阿基米德",
+      "source": "wangxi"
+    },
+    {
+      "type": "Physics",
+      "lang": "CN",
+      "question_num": 264485,
+      "instruction": "力的三要素是？",
+      "output": "大小、方向和作用点",
+      "source": "wangxi"
+    },
+    {
+      "type": "Physics",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "“能量既不会凭空产生，也不会凭空消失，它只会从一种形式转化为另一种形式，或者从一个物体转移到其它物体，而能量的总量保持不变”是说的什么定律？",
+      "output": "能量守恒定律，又称热力学第一定律。",
+      "source": "wangxi"
+    },
+    {
+      "type": "Physics",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "什么是牛顿第二定律？",
+      "output": "牛顿第二定律又称牛顿运动定律,它阐明:受力物体的加速度与作用在它上的力成正比,与其质量成反比。",
+      "source": "wangxi"
+    },
+    {
+      "type": "Physics",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "声音的三要素指的是？",
+      "output": "响度、音调和音色",
+      "source": "wangxi"
+    },
+    {
+      "type": "Physics",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "改变内能的两种方法是？",
+      "output": "做功和热传递。",
+      "source": "wangxi"
+    },
+    {
+      "type": "Physics",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "物体在液体中的有哪三种状态？",
+      "output": "漂浮、悬浮、沉底",
+      "source": "wangxi"
+    },
+    {
+      "type": "Physics",
+      "lang": "CN",
+      "question_num": 264488,
+      "instruction": "电路有哪三种状态?",
+      "output": "通路、断路、短路",
+      "source": "wangxi"
+    }
+  ]

@@ -1,0 +1,122 @@
+[
+    {
+      "instruction": "冬天：能穿多少穿多少。夏天：能穿多少穿多少。这句话想要表达什么意思。",
+      "lang": "CN",
+      "output": "冬天的时候天气寒冷，要尽可能多穿。夏天的时候天气炎热，要尽可能的少穿。",
+      "question_num": 346,
+      "source": "wangxi",
+      "type": "Semantics"
+    },
+    {
+      "instruction": "甲：“你的牙真好看”\n乙：“谢谢，但那是假的”\n甲：“真的假的？”\n乙：“真的。”\n从甲和乙的对话中，可以推断出乙的牙是真的还是假的？",
+      "lang": "CN",
+      "output": "假的",
+      "question_num": 334,
+      "source": "wangxi",
+      "type": "Semantics"
+    },
+    {
+      "instruction": "甲：“今天晚上有思修课，你去不去？”\n乙：“我去，我不去!”\n根据对话，可以推断出乙是去上课还是不去上课？",
+      "lang": "CN",
+      "output": "不去上课。",
+      "question_num": 341,
+      "source": "wangxi",
+      "type": "Semantics"
+    },
+    {
+      "instruction": "服务员：“你好，你要几等座？”\n小明：“一共有几等？”\n服务员：“特等，一等，二等。等等，二等要多等一等”\n小明：“我想一下，等一等。”\n服务员：“别等了，再等一等也没了。”\n小明：“那不等了就这个吧。”\n问：小明最后买了几等座？",
+      "lang": "CN",
+      "output": "一等",
+      "question_num": 47,
+      "source": "wangxi",
+      "type": "Semantics"
+    },
+    {
+      "instruction": "剩女产生的原因有两个，一是谁也看不上，二是谁也看不上。这里“谁也看不上”有哪两层意思？",
+      "lang": "CN",
+      "output": "这里“谁也看不上”有两层意思：\n1.剩女在挑选伴侣时，她们对待对象的标准太高，导致很难找到一个符合自己期望的人。\n2.剩女可能因为自身的条件让她们在相亲市场上不受欢迎，导致找不到合适的伴侣。",
+      "question_num": 344,
+      "source": "wangxi",
+      "type": "Semantics"
+    },
+    {
+      "instruction": "小芳：他奶奶的，老娘这个月大姨妈还没来，愁死姐了，简直就是坑爹啊！这句话里面谁最着急。",
+      "lang": "CN",
+      "output": "小芳最着急",
+      "question_num": 348,
+      "source": "wangxi",
+      "type": "Semantics"
+    },
+    {
+      "instruction": "“小张是个骄傲自大的人。”“小明的中考成绩全班第一我为他骄傲。”请问两个骄傲分别是什么意思？",
+      "lang": "CN",
+      "output": "两个骄傲的意思是：\n1.小张自我感觉良好，有些傲慢自大的态度，含有贬义。\n2.指对小明取得优异成绩感到自豪和高兴，不带有贬义。",
+      "question_num": 348,
+      "source": "wangxi",
+      "type": "Semantics"
+    },
+    {
+      "instruction": "请输出一个描述事情本来已经完成，但是还要添加无用的东西使其变得糟糕的成语。",
+      "lang": "CN",
+      "output": "画蛇添足",
+      "question_num": 348,
+      "source": "wangxi",
+      "type": "Semantics"
+    },
+    {
+      "instruction": "形容最先受到攻击或遭到灾难的成语是哪一个？",
+      "lang": "CN",
+      "output": "首当其冲",
+      "question_num": 340,
+      "source": "wangxi",
+      "type": "Semantics"
+    },
+    {
+      "instruction": "有一个成语，形容每天都在更新，每月都有变化。发展或进步迅速，不断出现新事物、新气象。这个成语是？",
+      "lang": "CN",
+      "output": "日新月异",
+      "question_num": 342,
+      "source": "wangxi",
+      "type": "Semantics"
+    },
+    {
+      "instruction": "请根据以下信息输出成语:表示手一挨近就感觉热，形容气焰很盛，权势很大。含有贬义。",
+      "lang": "CN",
+      "output": "炙手可热",
+      "question_num": 336,
+      "source": "wangxi",
+      "type": "Semantics"
+    },
+    {
+        "instruction": "“小明办事总是犹豫不决，一点儿也不武断。这个缺点将限制他今后的发展。”这句话存在一处用词不当的情况，应该怎么改正？",
+        "lang": "CN",
+        "output": "武断应该改为果断或者坚决",
+        "question_num": 336,
+        "source": "wangxi",
+        "type": "Semantics"
+    },
+    {
+        "instruction": "歇后语“猪八戒照镜子”的下一句是什么？",
+        "lang": "CN",
+        "output": "里外不是人",
+        "question_num": 336,
+        "source": "wangxi",
+        "type": "Semantics"
+    },
+    {
+        "instruction": "猜字谜：需要一半，留下一半。",
+        "lang": "CN",
+        "output": "雷",
+        "question_num": 336,
+        "source": "wangxi",
+        "type": "Semantics"
+    },
+    {
+      "instruction": "一人一张口，口下长只手，猜一字。",
+      "lang": "CN",
+      "output": "拿",
+      "question_num": 335,
+      "source": "wangxi",
+      "type": "Semantics"
+    }
+  ]

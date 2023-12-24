@@ -1,0 +1,132 @@
+[
+    {
+      "type": "Art",
+      "lang": "CN",
+      "question_num": 264474,
+      "instruction": "美术中的“三原色”指哪三种颜色。",
+      "output": "红、黄、蓝。",
+      "source": "wangxi"
+    },
+    {
+      "type": "Art",
+      "lang": "CN",
+      "question_num": 264475,
+      "instruction": "世界名画《最后的晚餐》的作者是谁？",
+      "output": "达芬奇",
+      "source": "wangxi"
+    },
+    {
+      "type": "Art",
+      "lang": "CN",
+      "question_num": 264476,
+      "instruction": "《清明上河图》是出自谁的作品？",
+      "output": "张择端",
+      "source": "wangxi"
+    },
+    {
+      "type": "Art",
+      "lang": "CN",
+      "question_num": 264477,
+      "instruction": "电影《无极》的导演是谁？",
+      "output": "陈凯歌",
+      "source": "wangxi"
+    },
+    {
+      "type": "Art",
+      "lang": "CN",
+      "question_num": 264478,
+      "instruction": "获得第一届“大众电影百花奖”最佳故事片奖的是？",
+      "output": "红色娘子军",
+      "source": "wangxi"
+    },
+    {
+      "type": "Art",
+      "lang": "CN",
+      "question_num": 264479,
+      "instruction": "国画《愚公移山》的作者是谁？",
+      "output": "徐悲鸿",
+      "source": "wangxi"
+    },
+    {
+      "type": "Art",
+      "lang": "CN",
+      "question_num": 264480,
+      "instruction": "经典喜剧电影《功夫》的男主角是谁扮演的？",
+      "output": "周星驰",
+      "source": "wangxi"
+    },
+    {
+      "type": "Art",
+      "lang": "CN",
+      "question_num": 264483,
+      "instruction": "《兰亭序》是哪位书法家的作品？",
+      "output": "王羲之",
+      "source": "wangxi"
+    },
+    {
+      "type": "Art",
+      "lang": "CN",
+      "question_num": 264484,
+      "instruction": "美术中“三间色”是指哪三种颜色？",
+      "output": "橙色、紫色、绿色",
+      "source": "wangxi"
+    },
+    {
+      "type": "Art",
+      "lang": "CN",
+      "question_num": 264485,
+      "instruction": "美术中，最基本的透视原理是什么？",
+      "output": "近大远小",
+      "source": "wangxi"
+    },
+    {
+      "type": "Art",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "美术中，色彩的三要素是指？",
+      "output": "明度、色相和纯度。",
+      "source": "wangxi"
+    },
+    {
+      "type": "Art",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "文房四宝有哪些？",
+      "output": "笔、墨、纸、砚",
+      "source": "wangxi"
+    },
+    {
+      "type": "Art",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "毕加索和梵高分别是哪个国家的画家？",
+      "output": "毕加索是西班牙画家，梵高是荷兰画家。",
+      "source": "wangxi"
+    },
+    {
+      "type": "Art",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "最早明确提出“以形写神”为中心的传神论的画家是谁",
+      "output": "顾恺之。",
+      "source": "wangxi"
+    },
+    {
+      "type": "Art",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "无彩色系是指哪些颜色？",
+      "output": "黑色、白色、灰色",
+      "source": "wangxi"
+    },
+    {
+      "type": "Art",
+      "lang": "CN",
+      "question_num": 264488,
+      "instruction": "中国画的三大画科是什么？",
+      "output": "人物、山水、花鸟",
+      "source": "wangxi"
+    }
+  ]
+  
+  

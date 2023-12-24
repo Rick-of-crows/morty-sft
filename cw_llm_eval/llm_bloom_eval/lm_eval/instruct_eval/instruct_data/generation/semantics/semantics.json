@@ -1,0 +1,58 @@
+[
+    {
+      "instruction": "请说明下面这句话中蕴含的哲理，并以事例进行说明：\n\n“人生应该如蜡烛一样，从顶燃到底，一直都是光明的。——萧楚女”",
+      "lang": "CN",
+      "output": "与以下示例回答意思相近即可：蜡烛的生命不算辉煌，但它总是光明磊落，直到生命最后一刻。人的一生，也应该像蜡烛一样，光明磊落的，不能做出违背良心的事，不愧对于心。",
+      "question_num": 426,
+      "source": "human",
+      "type": "Semantics"
+    },
+    {
+      "instruction": "假设我是小学生，以我能听得懂的方式说明什么量子隧穿效应（Quantum tunneling effect）",
+      "lang": "CN",
+      "output": "好的，让我们以一个简单的故事来解释量子隧穿效应。\n想象一下你在玩一个游戏，你是一个小小的超级英雄，你的任务是从一个房间跑到另一个房间。但是，这两个房间之间有一堵非常高的墙。对于普通人来说，这堵墙太高了，无法跳过去。但是，你是一个超级英雄，你有一种特殊的能力，那就是可以穿墙。这就像量子隧穿效应。在物理学中，有些粒子（就像你在游戏中的超级英雄）有时可以做出一些我们认为不可能的事情，比如“穿过”一堵墙。这并不是说它们真的穿过了墙，而是它们消失在一边，然后突然出现在另一边，就像是从墙里穿过去一样。这种现象只发生在非常小的粒子上，比如电子，而不是大的物体，比如足球或人。这是因为这些粒子遵循量子力学的规则，而这些规则与我们日常生活中的规则是不同的。在量子世界里，一切都是可能的，即使那看起来很奇怪！",
+      "question_num": 426,
+      "source": "human",
+      "type": "Semantics"
+    },
+    {
+      "instruction": "假设我是小学生，请向我解释图灵机的工作原理",
+      "lang": "CN",
+      "output": "当然，让我们一起讨论图灵机的工作原理！\n图灵机是一种假想的计算设备，就像是一种非常强大而又简单的电脑。这个房间的电脑可以做你可以想象到的任何事情。它是计算机科学家阿兰·图灵在1936年提出的，他是计算机科学的重要人物。\n想象一张非常非常长的纸带，我们可以在上面写东西，也可以擦除东西。这个纸带是无尽的，这意味着它从来不会结束。然后，我们有一个能读写的机器（我们称它为读/写头），它可以在纸带上移动，向左或向右。我们还有一套规则或指令，可以告诉机器应该何时进行读、写或移动操作。例如，规则可能会说“如果你看到数字0，将其擦除，并向右移动”，或者“如果你看到数字1，将其改为数字0，并向左移动”。这套规则就是我们的程序。图灵机就会根据给定的规则，进行操作，直到规则告诉它停止。甚至完整的数学问题或复杂的计算机程序也可以用这种方法表示和解决。\n记住，图灵机只是一个理论模型，它帮助我们理解可以和不能用计算机系统做什么。\n讲这个概念时，你可能需要了解一些简单的数学概念和基本的编程理论，但通过时间和学习，你一定能理解和运用这个概念。",
+      "question_num": 426,
+      "source": "human",
+      "type": "Semantics"
+    },
+    {
+      "instruction": "请出一道英语考试选择题，考察虚拟语气",
+      "lang": "CN",
+      "output": "示例答案：\nSure, here is a multiple-choice question that tests the understanding of the subjunctive mood in English:\n---\n**Choose the correct answer to complete the sentence:**\nIf I __________ a millionaire, I would travel around the world.\nA. am\nB. was\nC. were\nD. be\n---\n**正确答案：**\nC. were\n**解析：**\n在这个句子中，我们使用虚拟语气来描述一个假设的情况，即 \"如果我是百万富翁\"。在这种情况下，我们使用 \"were\"，而不是 \"was\"，即使主语是第一人称单数。这是因为在虚拟语气中，所有的主语（包括 \"I\" 和 \"he/she/it\"）都与 \"were\" 一起使用，而不是 \"was\"。",
+      "question_num": 426,
+      "source": "human",
+      "type": "Exam"
+    },
+    {
+      "instruction": "请出一道英语考试单选题，考察 make 的各种短语",
+      "lang": "CN",
+      "output": "示例答案：\n**Question:**\nChoose the correct phrase to complete the sentence:\n\"John decided to _______ after realizing he had made a mistake.\"A) make up for it\nB) make it up\nC) make out it\nD) make in it\n**Answer:**\nA) make up for it",
+      "question_num": 405,
+      "source": "human",
+      "type": "Exam"
+    },
+    {
+      "instruction": "请设计一道平面几何的题目，要求考察点包括中位线的性质。",
+      "lang": "CN",
+      "output": "",
+      "question_num": 418,
+      "source": "human",
+      "type": "Exam"
+    },
+    {
+      "instruction": "出一道高中水平的数列题，要求考察点包括裂项求和以及放缩法。",
+      "lang": "CN",
+      "output": "**题目**：\n一个数列 $a_n$ 满足 $a_1 = 1, a_{n+1} = 2a_n + 1$。请回答以下问题：\n1. 求出数列 ${a_n}$ 的通项公式。\n2. 设 $S_n = a_1 + a_2 + \\cdots + a_n$，请用裂项求和法计算 $S_n$。\n3. 证明对于任意的大于1的自然数 $n$，$S_n < 2^{n+1}$。",
+      "question_num": 429,
+      "source": "human",
+      "type": "Exam"
+    }
+]

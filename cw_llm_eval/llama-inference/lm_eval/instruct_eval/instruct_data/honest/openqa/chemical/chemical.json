@@ -1,0 +1,108 @@
+[
+    {
+      "type": "Chemical",
+      "lang": "CN",
+      "question_num": 264474,
+      "instruction": "空气中支持燃烧的气体叫什么？",
+      "output": "氧气",
+      "source": "wangxi"
+    },
+    {
+      "type": "Chemical",
+      "lang": "CN",
+      "question_num": 264475,
+      "instruction": "地壳中含量最多的金属元素是？",
+      "output": "铝元素",
+      "source": "wangxi"
+    },
+    {
+      "type": "Chemical",
+      "lang": "CN",
+      "question_num": 264476,
+      "instruction": "降水的酸碱值低于多少时即为酸雨?",
+      "output": "PH低于5.6时即为酸雨。",
+      "source": "wangxi"
+    },
+    {
+      "instruction": "为什么碳酸氢钠可作为消化不良和胃酸过多的药物？",
+      "lang": "CN",
+      "output": "碳酸氢钠是一种碱性物质，它可以中和胃酸中的酸性成分，从而减轻胃酸过多所引起的不适感。同时，碳酸氢钠也可以促进胃液中消化酶的活性，帮助消化食物，缓解消化不良的症状。因此，碳酸氢钠可以作为消化不良和胃酸过多的药物使用。但需要注意的是，过量使用碳酸氢钠可能会导致酸碱平衡失调和其他副作用，应在医生指导下使用。",
+      "question_num": 264477,
+      "source": "BELLE",
+      "type": "Chemical"
+    },
+    {
+      "type": "Chemical",
+      "lang": "CN",
+      "question_num": 264483,
+      "instruction": "煤气的有毒成分是哪种气体？",
+      "output": "一氧化碳",
+      "source": "wangxi"
+    },
+    {
+      "type": "Chemical",
+      "lang": "CN",
+      "question_num": 264484,
+      "instruction": "空气中含量最多的气体是？",
+      "output": "氮气",
+      "source": "wangxi"
+    },
+    {
+      "type": "Chemical",
+      "lang": "CN",
+      "question_num": 264485,
+      "instruction": "“钡餐”的主要成分是什么？",
+      "output": "硫酸钡",
+      "source": "wangxi"
+    },
+    {
+      "type": "Chemical",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "碘盐中的碘元素以什么形式存在？",
+      "output": "碘酸钾",
+      "source": "wangxi"
+    },
+    {
+      "type": "Chemical",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "人体中含量最多的元素是？",
+      "output": "氧元素",
+      "source": "wangxi"
+    },
+    {
+      "type": "Chemical",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "不粘锅内的涂层是什么物质？",
+      "output": "聚四氟乙烯",
+      "source": "wangxi"
+    },
+    {
+      "type": "Chemical",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "坏血病是缺乏什么维生素造成的？",
+      "output": "维生素C",
+      "source": "wangxi"
+    },
+    {
+      "type": "Chemical",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "元素周期表第二个元素是什么？",
+      "output": "氦元素",
+      "source": "wangxi"
+    },
+    {
+      "type": "Chemical",
+      "lang": "CN",
+      "question_num": 264488,
+      "instruction": "相对原子质量是以什么原子为标准？",
+      "output": "碳-12",
+      "source": "wangxi"
+    }
+  ]
+  
+  

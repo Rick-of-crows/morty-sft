@@ -1,0 +1,164 @@
+[
+    {
+      "type": "Geography",
+      "lang": "CN",
+      "question_num": 264474,
+      "instruction": "智利的首都是哪里？",
+      "output": "圣地亚哥",
+      "source": "wangxi"
+    },
+    {
+      "type": "Geography",
+      "lang": "CN",
+      "question_num": 264475,
+      "instruction": "世界上国土面积第二大的国家是？",
+      "output": "加拿大",
+      "source": "wangxi"
+    },
+    {
+      "type": "Geography",
+      "lang": "CN",
+      "question_num": 264476,
+      "instruction": "罗马是哪个国家的首都？",
+      "output": "意大利",
+      "source": "wangxi"
+    },
+    {
+      "instruction": "在哪里可以找到埃及金字塔？",
+      "lang": "CN",
+      "output": "埃及金字塔位于埃及，主要集中在开罗附近的吉萨、萨卡拉和达哈什尔地区。",
+      "question_num": 307,
+      "source": "BELLE",
+      "type": "Geography"
+    },
+    {
+      "instruction": "阿姆斯特丹是哪个国家的首都",
+      "lang": "CN",
+      "output": "阿姆斯特丹是荷兰的首都。",
+      "question_num": 332,
+      "source": "BELLE",
+      "type": "Geography"
+    },
+    {
+      "type": "Geography",
+      "lang": "CN",
+      "question_num": 264477,
+      "instruction": "太阳系中体积最小的行星是哪个？",
+      "output": "水星",
+      "source": "wangxi"
+    },
+    {
+      "type": "Geography",
+      "lang": "CN",
+      "question_num": 264478,
+      "instruction": "神州五号载人飞船的宇航员是谁？",
+      "output": "杨利伟",
+      "source": "wangxi"
+    },
+    {
+      "type": "Geography",
+      "lang": "CN",
+      "question_num": 264479,
+      "instruction": "我国面积最小的省级行政区是？",
+      "output": "澳门",
+      "source": "wangxi"
+    },
+    {
+      "type": "Geography",
+      "lang": "CN",
+      "question_num": 264480,
+      "instruction": "我国面积最大的沙漠是？",
+      "output": "塔克拉玛干沙漠",
+      "source": "wangxi"
+    },
+    {
+      "type": "Geography",
+      "lang": "CN",
+      "question_num": 264481,
+      "instruction": "中国有哪些直辖市？",
+      "output": "北京、上海、天津和重庆",
+      "source": "wangxi"
+    },
+    {
+      "type": "Geography",
+      "lang": "CN",
+      "question_num": 264482,
+      "instruction": "世界上最长的人工运河是哪一条？",
+      "output": "京杭大运河",
+      "source": "wangxi"
+    },
+    {
+      "type": "Geography",
+      "lang": "CN",
+      "question_num": 264483,
+      "instruction": "我国面积最大的岛屿是什么岛？",
+      "output": "台湾岛",
+      "source": "wangxi"
+    },
+    {
+      "type": "Geography",
+      "lang": "CN",
+      "question_num": 264484,
+      "instruction": "被称为“风车王国”的国家是哪里",
+      "output": "荷兰",
+      "source": "wangxi"
+    },
+    {
+      "type": "Geography",
+      "lang": "CN",
+      "question_num": 264485,
+      "instruction": "世界上最早使用地铁的国家是？",
+      "output": "英国",
+      "source": "wangxi"
+    },
+    {
+      "type": "Geography",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "四大洋是哪些？",
+      "output": "太平洋、大西洋、印度洋、北冰洋",
+      "source": "wangxi"
+    },
+    {
+      "type": "Geography",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "我国的四大高原是什么？",
+      "output": "青藏高原、云贵高原、内蒙古高原、黄土高原",
+      "source": "wangxi"
+    },
+    {
+      "type": "Geography",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "我国最大的淡水湖是什么湖？",
+      "output": "鄱阳湖",
+      "source": "wangxi"
+    },
+    {
+      "type": "Geography",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "中国的哪个城市被称为日光城？",
+      "output": "拉萨",
+      "source": "wangxi"
+    },
+    {
+      "type": "Geography",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "埃及现存规模最大的金字塔是？",
+      "output": "胡夫金字塔",
+      "source": "wangxi"
+    },
+    {
+      "type": "Geography",
+      "lang": "CN",
+      "question_num": 264488,
+      "instruction": "我国位于七大洲的哪个洲？",
+      "output": "亚洲",
+      "source": "wangxi"
+    }
+  ]
+  
+  

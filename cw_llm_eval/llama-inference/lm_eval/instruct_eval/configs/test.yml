@@ -1,0 +1,22 @@
+conf: model_config
+## maas  outputs/xx/player10.json
+## gpt   outputs/xx2/player3.json
+player:
+  player8:
+    type: shuyan
+    load_from_path: "./outputs/web_maas_results/claude/claude.json"
+    config:
+      addr: 58.144.147.143
+      port: 15101
+      max_length: 384
+
+reviewer:
+  reviewer1:
+    type: openai
+    worker: 22
+    metric: score
+    rank_flip: False
+    config:
+      model_name: gpt-4-0314 ## gpt-3.5-turbo, gpt-4-0314 
+      temperature: 0
+      timeout: 120

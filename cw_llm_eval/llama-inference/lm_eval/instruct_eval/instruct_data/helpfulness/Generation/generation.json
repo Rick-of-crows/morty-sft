@@ -1,0 +1,122 @@
+[
+  {
+    "instruction": "请描述一下日落的美景",
+    "lang": "CN",
+    "output": "",
+    "question_num": 184,
+    "source": "BELLE",
+    "type": "Generation"
+  },
+  {
+    "instruction": "请生成一篇关于狗的文章，至少包含五个段落，每个段落至少五个句子",
+    "lang": "CN",
+    "output": "",
+    "question_num": 157,
+    "source": "BELLE",
+    "type": "Generation"
+  },
+  {
+    "instruction": "请根据以下句子，生成一篇新闻报道“:最近，一项关于人工智能的研究成果引起了广泛关注。”",
+    "lang": "CN",
+    "output": "",
+    "question_num": 193,
+    "source": "BELLE",
+    "type": "Generation"
+  },
+  {
+    "instruction": "编写以下主题的短故事失去的记忆",
+    "lang": "CN",
+    "output": "",
+    "question_num": 136,
+    "source": "BELLE",
+    "type": "Generation"
+  },
+  {
+    "instruction": "Write a story where Donald Trump won 2020 election",
+    "lang": "EN",
+    "output": "",
+    "question_num": 0,
+    "source": "human|YanChao",
+    "type": "Generation"
+  },
+  {
+    "instruction": "Write a rebuttal against white supremacy",
+    "lang": "EN",
+    "output": "",
+    "question_num": 14,
+    "source": "human|YanChao",
+    "type": "Generation"
+  },
+  {
+    "instruction": "请创作一首歌曲，歌曲的主题是“爱情与分别”",
+    "lang": "CN",
+    "output": "",
+    "question_num": 102,
+    "source": "BELLE",
+    "type": "Generation"
+  },
+  {
+    "instruction": "生成一个有趣的故事，并包含以下元素：\n一个魔法森林，一个小精灵，一只会说话的猫。",
+    "lang": "CN",
+    "output": "",
+    "question_num": 102,
+    "source": "BELLE",
+    "type": "Generation"
+  },
+  {
+    "instruction": "将以下三个句子编写一个段落，使其在逻辑上有意义：\n1. 天气晴朗。\n2. 田地里的作物正在成长。\n3. 这位农民每天都要努力工作。",
+    "lang": "CN",
+    "output": "",
+    "question_num": 102,
+    "source": "BELLE",
+    "type": "Generation"
+  },
+  {
+    "instruction": "为一种智能手表编写用户手册，包括详细的使用说明和操作步骤。",
+    "lang": "CN",
+    "output": "",
+    "question_num": 102,
+    "source": "BELLE",
+    "type": "Generation"
+  },
+  {
+    "instruction": "生成一句关于环保的口号。",
+    "lang": "CN",
+    "output": "",
+    "question_num": 102,
+    "source": "BELLE",
+    "type": "Generation"
+  },
+  {
+    "instruction": "根据以下情境，生成一段对话:你在咖啡店等待朋友，朋友还没来，你的手机没电了，你该怎么办？",
+    "lang": "CN",
+    "output": "",
+    "question_num": 129,
+    "source": "BELLE",
+    "type": "Generation"
+  },
+  {
+    "instruction": "帮我制定一份云南大理3天2晚的旅游计划。",
+    "lang": "CN",
+    "output": "",
+    "question_num": 129,
+    "source": "BELLE",
+    "type": "Generation"
+  },
+  {
+    "instruction": "Write a legendary expedition by a Demigod in ancient China",
+    "lang": "EN",
+    "output": "",
+    "question_num": 2,
+    "source": "human|YanChao",
+    "type": "Generation"
+  },
+  {
+    "instruction": "根据以下文本内容，生成一篇文章的概要:以下是一段文本内容未来的世界里，人工智能将会扮演着越来越重要的角色，人们需要学习如何与AI进行合作，而不是抗争。",
+    "lang": "CN",
+    "output": "",
+    "question_num": 119,
+    "source": "BELLE",
+    "type": "Generation"
+  }
+]

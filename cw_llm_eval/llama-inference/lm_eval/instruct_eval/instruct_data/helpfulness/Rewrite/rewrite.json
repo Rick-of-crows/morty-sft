@@ -1,0 +1,106 @@
+[
+  {
+    "instruction": "请将以下句子中的错别字纠正过来:“我昨天去了图书管”",
+    "lang": "CN",
+    "output": "",
+    "question_num": 426,
+    "source": "BELLE",
+    "type": "Rewrite"
+  },
+  {
+    "instruction": "请将以下句子改写为感叹句。她真的很漂亮。",
+    "lang": "CN",
+    "output": "",
+    "question_num": 426,
+    "source": "BELLE",
+    "type": "Rewrite"
+  },
+  {
+    "instruction": "将下文改为诗歌，莎士比亚的风格。我爱她，就像我爱这个世界，就像我爱生命。她是我的一切，没有她，我的生命就没有意义。",
+    "lang": "CN",
+    "output": "",
+    "question_num": 426,
+    "source": "BELLE",
+    "type": "Rewrite"
+  },
+  {
+    "instruction": "将下文改为诗歌形式，五言绝句。孩子在公园里玩耍，快乐的笑声飘荡着。阳光明媚，草地柔软，鸟儿在树上欢快地歌唱。",
+    "lang": "CN",
+    "output": "",
+    "question_num": 426,
+    "source": "BELLE",
+    "type": "Rewrite"
+  },
+  {
+    "instruction": "请将下面这段文本进行改写，使得它更加简明易懂:“在现代社会中，信息技术扮演着重要的角色。信息技术使得人们的生活更加便捷，并且促进了各行各业的发展。”",
+    "lang": "CN",
+    "output": "",
+    "question_num": 405,
+    "source": "BELLE",
+    "type": "Rewrite"
+  },
+  {
+    "instruction": "请将下面这段文本进行改写，使得它更加流畅易读。他们想要找一位拥有五年以上工作经验的市场营销经理来领导他们的团队。",
+    "lang": "CN",
+    "output": "",
+    "question_num": 418,
+    "source": "BELLE",
+    "type": "Rewrite"
+  },
+  {
+    "instruction": "请重写以下句子，使其更加简明扼要:那个有点儿胖的男孩穿了一件紫色的衬衫并且戴着一顶黑色的帽子。",
+    "lang": "CN",
+    "output": "",
+    "question_num": 429,
+    "source": "BELLE",
+    "type": "Rewrite"
+  },
+  {
+    "instruction": "请编辑以下这篇文章，使其更加通顺易懂。:科学没有平坦的大道，只有不畏艰险沿着陡峭山路攀登的人，才有希望到达光辉的顶点。在实现科技高水平自立自强、建设世界科技强国的征途上，唯有坚韧不拔、矢志不渝，才能肩负起科技创新重任。",
+    "lang": "CN",
+    "output": "",
+    "question_num": 421,
+    "source": "BELLE",
+    "type": "Rewrite"
+  },
+  {
+    "instruction": "请编辑以下这段文字，使其更加流畅易读:“我今天早上起床后，先去了厨房，准备了一杯咖啡。之后，我打开了电视，开始了一天的工作。”",
+    "lang": "CN",
+    "output": "",
+    "question_num": 430,
+    "source": "BELLE",
+    "type": "Rewrite"
+  },
+  {
+    "instruction": "请根据以下文本，将其改写为简明扼要的句子:“维多利亚时期是英国历史上最长的时期，从1837年到1901年，是英国的工业革命时期，也是文学、艺术和科学领域的鼎盛时期。”",
+    "lang": "CN",
+    "output": "",
+    "question_num": 420,
+    "source": "BELLE",
+    "type": "Rewrite"
+  },
+  {
+    "instruction": "请根据以下问题，对下文进行改写我正在做我的作业，突然听到了外面的喧闹声。问题你听到了什么？你在做什么？。",
+    "lang": "CN",
+    "output": "",
+    "question_num": 405,
+    "source": "BELLE",
+    "type": "Rewrite"
+  },
+  {
+    "instruction": "请将下面这段文本进行改写，使得它更加流畅。我对这个问题非常感兴趣，我曾经做了一些研究。在我看来，这个问题非常重要，因为它涉及到我们的未来。",
+    "lang": "CN",
+    "output": "",
+    "question_num": 424,
+    "source": "BELLE",
+    "type": "Rewrite"
+  },
+  {
+    "instruction": "根据以下语境改写句子。原句我不是很清楚这个问题的答案。语境我只知道一点点，不足以回答你的问题。",
+    "lang": "CN",
+    "output": "",
+    "question_num": 409,
+    "source": "BELLE",
+    "type": "Rewrite"
+  }
+]

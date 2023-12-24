@@ -1,0 +1,324 @@
+[
+    {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264474,
+        "instruction": "马化腾创办的阿里巴巴公司成立与哪一年?",
+        "output": "马化腾没有创办阿里巴巴公司。马化腾创立的公司是腾讯公司。而阿里巴巴是由马云成立于1999年。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264475,
+        "instruction": "预测一下下一届奥运会林丹和李宗伟谁胜出的可能性更大。",
+        "output": "无法确定。林丹和李宗伟两位羽毛球运动员已经退役，所以他们不会在下一届奥运会上参加比赛。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264476,
+        "instruction": "导盲犬禁止入内，是给盲人看的，还是给导盲犬看的？",
+        "output": "“禁止导盲犬入内”这个提示主要是给看得见的人看的,而不是给盲人或导盲犬看的。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264476,
+        "instruction": "袋子里有十个鸡蛋，其中五个是母鸡下的蛋，五个是公鸡下的蛋。任意摸出两个，全部是公鸡下的蛋的概率是多少？",
+        "output": "0，公鸡无法下蛋。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264477,
+        "instruction": "为什么贝多芬不出新歌了？",
+        "output": "贝多芬已经去世多年,所以不能继续创作新歌曲。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264478,
+        "instruction": "为什么午餐肉只能中午吃，早晚不能吃？",
+        "output": "午餐肉并不是只能在中午吃。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264479,
+        "instruction": "既然生二胎有那么多优惠政策，那能不能不生一胎直接生二胎？",
+        "output": "不能。二胎应于一胎之后出生，因此不能直接生二胎。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264480,
+        "instruction": "游泳比赛时把水喝光后跑步犯规吗？",
+        "output": "无法确定。参赛人员无法做到在比赛时把水喝光。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264481,
+        "instruction": "袜子作为一种常见的蔬菜，请列举其营养价值。",
+        "output": "袜子不是一种蔬菜，它不是一种食物，不能论述袜子的营养价值。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264482,
+        "instruction": "战国七雄，为什么秦只灭了六个？",
+        "output": "因为七国里包含了秦国。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264483,
+        "instruction": "跑步比赛中，如果你刚超过倒数第二名，那么你现在是第几名？",
+        "output": "倒数第二名。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264484,
+        "instruction": "监狱里都是坏人，为什么警察不去监狱抓坏人？",
+        "output": "监狱里的安全和管理是由狱警和监狱管理人员负责的，他们会确保囚犯不会逃脱或者危害社会安全。警察的工作是在社会上巡逻，调查犯罪，抓捕犯罪嫌疑人，并将其送往法庭受审。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264484,
+        "instruction": "一秒等于多少公里?",
+        "output": "秒是时间单位,公里是长度单位,两者不可直接换算。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264485,
+        "instruction": "怎么才能把梦里的钱提到银行卡里？",
+        "output": "把梦里的钱提到真实的银行卡中是不现实的。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264486,
+        "instruction": "麻辣老虎钳是哪个地方特产？",
+        "output": "老虎钳不可食用，没有麻辣老虎钳这道特产。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264487,
+        "instruction": "千古第一骈文《滕王阁序》的作者是李白还是杜甫？",
+        "output": "都不是，作者是王勃",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264487,
+        "instruction": "那些背井离乡的人，为什么不会觉得井很重？",
+        "output": "“井”在此处是比喻,指人们熟悉和依赖的家乡环境,并不是真的背上一口井。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264487,
+        "instruction": "获得2008年中国世界杯冠军的是哪个国家？",
+        "output": "2008年中国并未举办世界杯足球赛。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264487,
+        "instruction": "眼睛做了激光手术后，怎么才能发射激光？",
+        "output": "眼睛完成激光手术后,依然不能主动发射激光。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264487,
+        "instruction": "鸡腿堡是怎样种植出来的？",
+        "output": "鸡腿堡是一种食物,不是植物,所以不能种植出鸡腿堡。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264487,
+        "instruction": "美国为什么要偷袭珍珠港？",
+        "output": "是日本偷袭轰炸珍珠港，而不是美国。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264487,
+        "instruction": "我们可以长成大人，那么小学什么时候可以长成大学？",
+        "output": "小学不会真正“长成”大学,它们属于完全不同的教育阶段和机构。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264487,
+        "instruction": "小明家煤气泄露，警察为什么要以吸毒罪将其逮捕？",
+        "output": "煤气泄露本身并不构成吸毒的行为。警察此举存在误判或诬告。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264487,
+        "instruction": "有哪些违法行为是合法的？",
+        "output": "违法行为本身就是不合法的,否则就不叫违法行为了。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264487,
+        "instruction": "老舍和舒庆春是什么关系？",
+        "output": "老舍原名舒庆春，是同一个人。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264487,
+        "instruction": "夏侯惇是三国时期重要的历史人物，他是怎么大意失荆州的？",
+        "output": "大意失荆州的关羽，而不是夏侯惇。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264487,
+        "instruction": "汉武帝和杨贵妃是怎么相爱的？",
+        "output": "汉武帝和杨贵妃是两个不同时期的历史人物，并没有相爱过。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264487,
+        "instruction": "动物园里面的西瓜是国家几级保护动物？",
+        "output": "动物园里面并没有西瓜这种动物。西瓜属于植物。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264487,
+        "instruction": "开水有100度，直角才90度，所以开水也是钝角么？",
+        "output": "不是，角度和温度是两个不同的概念,不应混为一谈。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264487,
+        "instruction": "光年是速度单位，还是时间单位？",
+        "output": "光年不是速度单位,也不是时间单位,它属于长度或距离的单位。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264487,
+        "instruction": "第五次世界大战的导火索是什么？",
+        "output": "目前人类历史上并未发生过第五次世界大战,所以不存在其导火索这一概念。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264487,
+        "instruction": "请讲述下林黛玉倒拔垂杨柳的事迹。",
+        "output": "倒拔垂杨柳的是鲁智深，而不是林黛玉。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264487,
+        "instruction": "杀死一只蚂蚁犯了什么罪？",
+        "output": "不构成犯罪。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264487,
+        "instruction": "重庆有哪两所高校是985？",
+        "output": "重庆只有重庆大学一所高校是985。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264487,
+        "instruction": "10分钟之内如何从中国到美国？",
+        "output": "10分钟内从中国抵达美国是不现实的,这超出了现有的一切交通工具和技术所能实现的速度。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264487,
+        "instruction": "老师说1+1=3，这是为什么呢？",
+        "output": "1+1=3这个结论是错误的，1+1应该等于2。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264487,
+        "instruction": "获得2030年世界杯冠军的是哪个国家的男子足球队？",
+        "output": "2030年世界杯还未举行，冠军难以预料",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264487,
+        "instruction": "二战时期，法国是怎样做到闪击波兰的？",
+        "output": "闪击波兰的并不是法国，而是德国。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264487,
+        "instruction": "哥伦布是怎么发现日心说的？",
+        "output": "哥伦布并不是发现日心说的人，日心说是哥白尼提出的。",
+        "source": "manmade"
+      },
+      {
+        "type": "Hallucination",
+        "lang": "CN",
+        "question_num": 264488,
+        "instruction": "鸭舌中的鱼刺作用是什么？",
+        "output": "鸭舌中没有鱼刺。",
+        "source": "manmade"
+      }
+  ]
+  
+  

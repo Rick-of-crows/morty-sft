@@ -1,0 +1,29 @@
+conf: model_config
+
+
+player: ## player:评测选手配置。根据指令输出回答，用作评估。
+  player1:
+    ## load_from_path: 如果设置该路径，表示直接从本地load模型答案，则config与type字段不生效。
+    load_from_path: "/home/wangxi/nlp/lm_eval/lm_eval/instruct_eval/outputs/player2.json"
+    type: chatglm  ## type:模型类别，支持bloom, chatglm, openai, nemo, vicuna
+    config:
+      model_path: /nlp_data/zoo/pretrain/glm_model/6B/
+      max_length: 384
+      do_sample: False
+  player2:
+    load_from_path: "" ## load_from_path: 如果该路径设置为""，表示需要模型推理来生成答案。
+    type: vicuna
+    config: ## config：模型初始化配置文件
+      model_path: /nlp_data/zoo/pretrain/huggingface/vicuna/13B/ ## model_path：模型路径
+      max_length: 384  ## max_length：模型最大生成的token数
+      generate_template: "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.###Human: {instruction} ###Assistant:"
+
+reviewer: ## reviewer：裁判员配置。根据指令和模型回答，评判回答的质量。
+  reviewer1:
+    type: openai
+    metric: rank ## metric:度量方式，目前支持rank，score.
+    worker: 1 ## 设置线程数
+    rank_flip: False ## 如果开启，使用rank的评估方式时，会再交换两个answer的顺序评估一次。只有交换前后reviewer都判定某一个答案胜出，否则平局。
+    config:
+      model_name: gpt-4-0613  ## gpt-3.5-turbo, gpt-4-0314, gpt-4-0613
+      temperature: 0

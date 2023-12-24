@@ -1,0 +1,42 @@
+conf: model_config
+## maas  outputs/xx/player10.json
+## gpt   outputs/xx2/player3.json
+player:
+  player3:
+   type: openai
+   load_from_path: ""
+   config:
+     model_name: gpt-4-0613
+     temperature: 0
+     timeout: 120
+  # player6:
+  #   type: wenxin
+  #   load_from_path: ""
+  #   config:
+  #     ak: ysilhIsDzOWZ0kHpxmLWG4Gi
+  #     sk: LwN0z42yDG6GWXyYeeAIM74Qc3Ymmaoz
+  #     version: "ERNIE-Bot"
+  # player1:
+  #   type: xunfei
+  #   load_from_path: ""
+  #   config:
+  #     APPID: a2cc414c
+  #     APIKey: 75f10106ea3559ab25327b7a5ac6b9f5
+  #     APISecret: ZjU0Mzk1ZWE2ODIzYjMxNWEzYzAyNjJl
+  #     SparkUrl: wss://spark-api.xf-yun.com/v2.1/chat
+  # player11:
+  #   type: maas_engine
+  #   load_from_path: ""
+  #   config:
+  #     url: "http://10.178.13.50:22001"
+
+reviewer:
+  reviewer1:
+    type: openai
+    worker: 8
+    metric: score
+    rank_flip: False
+    config:
+      model_name: gpt-4-0613 ## gpt-3.5-turbo, gpt-4-0314, gpt-4-0613
+      temperature: 0
+      timeout: 120

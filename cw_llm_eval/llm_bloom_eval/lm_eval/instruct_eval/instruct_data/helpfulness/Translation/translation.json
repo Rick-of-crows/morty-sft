@@ -1,0 +1,82 @@
+[
+  {
+    "instruction": "请将以下文本翻译成英语:我最喜欢的颜色是蓝色。",
+    "lang": "CN",
+    "output": "My favorite color is blue.",
+    "question_num": 369,
+    "source": "BELLE",
+    "type": "Translation"
+  },
+  {
+    "instruction": "请将以下句子翻译成中文:I love to explore new cultures.",
+    "lang": "CN",
+    "output": "\n我喜欢探索新的文化。",
+    "question_num": 381,
+    "source": "BELLE",
+    "type": "Translation"
+  },
+  {
+    "instruction": "请将这个句子翻译成汉语:\"I love listening to music.\"",
+    "lang": "CN",
+    "output": "\n我喜欢听音乐。",
+    "question_num": 388,
+    "source": "BELLE",
+    "type": "Translation"
+  },
+  {
+    "instruction": "将以下句子翻译成中文:“I like reading books on weekends.”",
+    "lang": "CN",
+    "output": "\n我喜欢在周末读书。",
+    "question_num": 379,
+    "source": "BELLE",
+    "type": "Translation"
+  },
+  {
+    "instruction": "提供以下英文句子的中文翻译:\"Life is like a box of chocolates, you never know what you're gonna get.\"",
+    "lang": "CN",
+    "output": "生活就像一盒巧克力，你永远不知道会得到什么。",
+    "question_num": 383,
+    "source": "BELLE",
+    "type": "Translation"
+  },
+  {
+    "instruction": "请将以下英文句子翻译成中文:“I have a dream that one day this nation will rise up and live out the true meaning of its creed.”",
+    "lang": "CN",
+    "output": "我有一个梦想，希望有一天这个国家会崛起，并实现其信条的真正含义。",
+    "question_num": 388,
+    "source": "BELLE",
+    "type": "Translation"
+  },
+  {
+    "instruction": "请将以下句子翻译成法语:“你好，今天天气真不错。”",
+    "lang": "CN",
+    "output": "Bonjour, il fait vraiment beau aujourd'hui.",
+    "question_num": 381,
+    "source": "BELLE",
+    "type": "Translation"
+  },
+  {
+    "instruction": "请将以下句子翻译成英语:“我喜欢在海边度假。”",
+    "lang": "CN",
+    "output": "\nI like vacationing by the sea.",
+    "question_num": 374,
+    "source": "BELLE",
+    "type": "Translation"
+  },
+  {
+    "instruction": "将以下句子翻译成英语:我想学一门新语言，法语听起来很有趣。",
+    "lang": "CN",
+    "output": "\nI want to learn a new language and French sounds interesting.",
+    "question_num": 371,
+    "source": "BELLE",
+    "type": "Translation"
+  },
+  {
+    "instruction": "请将以下句子翻译成中文:I love French cuisine.",
+    "lang": "CN",
+    "output": "我喜欢法国菜。",
+    "question_num": 387,
+    "source": "BELLE",
+    "type": "Translation"
+  }
+]

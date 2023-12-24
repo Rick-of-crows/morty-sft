@@ -1,0 +1,146 @@
+[
+    {
+      "type": "Math_qa",
+      "lang": "CN",
+      "question_num": 264474,
+      "instruction": "3.14和3.2相比哪个更大?",
+      "output": "3.2",
+      "source": "wangxi"
+    },
+    {
+      "type": "Math_qa",
+      "lang": "CN",
+      "question_num": 264475,
+      "instruction": "1公斤铁和1公斤棉花哪个更重？",
+      "output": "一样重",
+      "source": "wangxi"
+    },
+    {
+      "type": "Math_qa",
+      "lang": "CN",
+      "question_num": 264476,
+      "instruction": "请简述什么是“勾股定理”？",
+      "output": "在一个直角三角形中,斜边的平方等于其它两条直角边的平方之和。",
+      "source": "wangxi"
+    },
+    {
+      "type": "Math_qa",
+      "lang": "CN",
+      "question_num": 264477,
+      "instruction": "8和12的最小公倍数是多少？",
+      "output": "24",
+      "source": "wangxi"
+    },
+    {
+      "type": "Math_qa",
+      "lang": "CN",
+      "question_num": 264478,
+      "instruction": "-3的绝对值再加上2，结果是多少？",
+      "output": "5",
+      "source": "wangxi"
+    },
+    {
+      "type": "Math_qa",
+      "lang": "CN",
+      "question_num": 264479,
+      "instruction": "105度角的补角是多少度？",
+      "output": "75",
+      "source": "wangxi"
+    },
+    {
+      "type": "Math_qa",
+      "lang": "CN",
+      "question_num": 264480,
+      "instruction": "在平面直角坐标系中，坐标(-2，-3)位于第几象限？",
+      "output": "第三象限",
+      "source": "wangxi"
+    },
+    {
+      "type": "Math_qa",
+      "lang": "CN",
+      "question_num": 264481,
+      "instruction": "350000末尾有几个0？",
+      "output": "4个",
+      "source": "wangxi"
+    },
+    {
+      "type": "Math_qa",
+      "lang": "CN",
+      "question_num": 264482,
+      "instruction": "现有一笼子，里面有鸡和兔子若干只，共有头14个，腿38条，那么鸡和兔子各有多少只？",
+      "output": "鸡有9只，兔子有5只",
+      "source": "wangxi"
+    },
+    {
+      "type": "Math_qa",
+      "lang": "CN",
+      "question_num": 264483,
+      "instruction": "妈妈今年30岁，爸爸比妈妈大3岁，再过5年后，爸爸比妈妈大几岁？",
+      "output": "3岁。",
+      "source": "wangxi"
+    },
+    {
+      "type": "Math_qa",
+      "lang": "CN",
+      "question_num": 264484,
+      "instruction": "圆周率是多少？保留六位有效数字。",
+      "output": "3.14159",
+      "source": "wangxi"
+    },
+    {
+      "type": "Math_qa",
+      "lang": "CN",
+      "question_num": 264485,
+      "instruction": "两条平行线可以相交吗？",
+      "output": "不能",
+      "source": "wangxi"
+    },
+    {
+      "type": "Math_qa",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "36的算术平方根是多少？",
+      "output": "6",
+      "source": "wangxi"
+    },
+    {
+      "type": "Math_qa",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "一个长方形有几个顶点，几条边？",
+      "output": "4个顶点，4条边。",
+      "source": "wangxi"
+    },
+    {
+      "type": "Math_qa",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "一个圆有多少条直径？",
+      "output": "无数条。",
+      "source": "wangxi"
+    },
+    {
+      "type": "Math_qa",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "1个小时等于多少秒？",
+      "output": "3600秒",
+      "source": "wangxi"
+    },
+    {
+      "type": "Math_qa",
+      "lang": "CN",
+      "question_num": 264486,
+      "instruction": "7除以4的余数是多少？",
+      "output": "余数是3",
+      "source": "wangxi"
+    },
+    {
+      "type": "Math_qa",
+      "lang": "CN",
+      "question_num": 264488,
+      "instruction": "六边形的内角和是多少度?",
+      "output": "720度",
+      "source": "wangxi"
+    }
+  ]

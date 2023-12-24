@@ -1,0 +1,18 @@
+conf: model_config
+
+player:
+  palyer1:
+    type: bloom
+    load_from_path: "result/result-mrc.json"
+    config:
+      max_length: 384
+      do_sample: False
+
+reviewer:
+  reviewer1:
+    type: openai
+    metric: score
+    worker: 1
+    config:
+      model_name: gpt-4-0613
+      temperature: 0

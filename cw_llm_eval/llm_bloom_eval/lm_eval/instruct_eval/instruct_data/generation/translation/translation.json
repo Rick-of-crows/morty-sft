@@ -1,0 +1,50 @@
+[
+    {
+      "instruction": "Viva La Vida 什么意思",
+      "lang": "CN",
+      "output": "\"Viva La Vida\" 是西班牙语，直译为英文是 \"Long Live Life\"，意思是“万岁生活”或“热爱生活”。 这也是英国乐队 Coldplay 的一首非常受欢迎的歌曲。",
+      "question_num": 426,
+      "source": "human",
+      "type": "Translation"
+    },
+    {
+      "instruction": "翻译“床前明月光，疑是地上霜”",
+      "lang": "CN",
+      "output": "Before my bed, the moonlight bright,\nI suspect it's frost upon the ground.",
+      "question_num": 426,
+      "source": "human",
+      "type": "Translation"
+    },
+    {
+      "instruction": "In October of 2017, the photographer Jeff Mermelstein, who has been taking pictures of New York City street life since the early nineteen-eighties, was walking in midtown, on one of his near-daily shooting expeditions, when he encountered something he had never thought to capture before. “It was somewhere around Eighth Avenue and the mid-Forties,” Mermelstein told me from his home in Brooklyn, when I called him the other day. “I noticed that a woman was sitting there, tapping something out on her phone.” Operating on half-conscious instinct, as he often does when photographing, Mermelstein raised his own phone, went up to the woman, and took a picture, focussing not on her, as he might usually have done, but on the screen of her device. “She was doing a Google search, and it was something about wills, and a line came up about finding six thousand dollars in an attic. It was just a couple of lines there, but I suddenly felt, This could be the germ of a short story. It was a galvanizing moment.”\n请翻译上面的段落。",
+      "lang": "CN",
+      "output": "2017年10月，摄影师杰夫·默默尔斯坦（Jeff Mermelstein）在中城区漫步，进行他几乎每日一次的拍摄之旅，这时他遇到了一些他从未想过要捕捉的东西。默默尔斯坦自上世纪八十年代初就开始拍摄纽约市的街头生活。他在我前几天给他打电话时，从他在布鲁克林的家中告诉我：“那是在第八大道和四十多街附近，我注意到一个女人坐在那里，正在手机上敲打着什么。”默默尔斯坦经常在拍照时凭半意识的本能行事，他举起自己的手机，走到那个女人身边，拍了一张照片，焦点不是她，而是她设备的屏幕。“她正在进行谷歌搜索，内容是关于遗嘱的，有一行是关于在阁楼找到六千美元的事情。那只是那里的几行字，但我突然感觉，这可能是一个短篇小说的萌芽。那是一个激动人心的时刻。”",
+      "question_num": 426,
+      "source": "human",
+      "type": "Translation"
+    },
+    {
+      "instruction": "用日语翻译下面这句话：The latest trend in AI is that larger natural language models provide better accuracy; however, larger models are difficult to train because of cost, time, and ease of code integration. Microsoft is releasing an open-source library called DeepSpeed, which vastly advances large model training by improving scale, speed, cost, and usability, unlocking the ability to train 100-billion-parameter models.",
+      "lang": "CN",
+      "output": "AIの最新のトレンドは、より大きな自然言語モデルがより高い精度を提供するということです。しかし、大きなモデルはコスト、時間、コード統合の容易さのために訓練が難しいです。MicrosoftはDeepSpeedというオープンソースのライブラリをリリースしています。これは、スケール、速度、コスト、使いやすさを大幅に改善し、大規模モデルの訓練を大幅に進化させ、1000億パラメータのモデルを訓練する能力を解放します。",
+      "question_num": 426,
+      "source": "human",
+      "type": "Translation"
+    },
+    {
+      "instruction": "请用五种语言翻译“我来，我见，我征服”",
+      "lang": "CN",
+      "output": "当然可以，以下是五种语言的翻译：\n1. **英语** (English): \"I came, I saw, I conquered\"\n2. **法语** (French): \"Je suis venu, j'ai vu, j'ai vaincu\"\n3. **西班牙语** (Spanish): \"Vine, vi, vencí\"4. **德语** (German): \"Ich kam, ich sah, ich siegte\"\n5. **意大利语** (Italian): \"Venni, vidi, vinsi\"",
+      "question_num": 405,
+      "source": "human",
+      "type": "Translation"
+    },
+    {
+      "instruction": "这些元素其实是 glam rock，然后加这种 bling 的感觉，我觉得像这个衣服有一些 jacket，比如说那个 oversized 的那个 jacket，我觉得我是可以，off duty 的 model，就是在runway 上面或者是 off duty，都可以去 shift，它不同的场合去穿，再有我想讲一下的就是，何穗的这种 mix & match，就是她身上穿的，虽然是非常 elegant，sexy 的 dress，但是配了这种比较硬的一个 jacket，又有硬还有柔，然后有比较 leather，然后有比较 soft 的元素配合，简直就是完美，所以我觉得如果是 cool girl，有 taste 的中国女孩，请你到我的专区来购买。\n用中文重新说一下上面这段话",
+      "lang": "CN",
+      "output": "这些元素实际上是充满魅力的摇滚风格，再加上闪亮的装饰，给人一种独特的感觉。我觉得像这种衣服中的夹克，比如那种超大号的夹克，我认为我可以轻松驾驭，无论是在T台上还是在休息时间，都可以根据不同的场合进行变换。另外，我想说的是，何穗的这种混搭风格，她身上的衣服虽然非常优雅、性感，但是搭配了这种比较硬朗的夹克，既有刚硬又有柔软，再加上皮革和柔软元素的结合，简直就是完美。所以我觉得，如果你是一个有品味的酷女孩，是中国的女孩，欢迎你来我的专区购买。",
+      "question_num": 418,
+      "source": "human",
+      "type": "Translation"
+    }
+]

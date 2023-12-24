@@ -1,0 +1,122 @@
+[
+    {
+      "instruction": "黑兔、灰兔和白兔三只兔子在赛跑。黑免说：“我跑得不是最快的，但比白兔快。”请你说说，谁跑得最快？谁跑得最慢？",
+      "lang": "CN",
+      "output": "灰兔最快，白兔最慢",
+      "question_num": 346,
+      "source": "wangxi",
+      "type": "Logic"
+    },
+    {
+      "instruction": "四个小朋友比体重。 乙比甲重，丙比甲轻，丁最重。这四个小朋友的体重从大到小的顺序是？",
+      "lang": "CN",
+      "output": "丁、乙、甲、丙",
+      "question_num": 334,
+      "source": "wangxi",
+      "type": "Logic"
+    },
+    {
+      "instruction": "张、黄、李分别是三位小朋友的姓。根据下面三句话，请你推断出，甲乙丙三位小朋友各姓什么？\n1.甲不姓张\n2.姓黄的不是丙\n3.甲和乙正在听姓李的小朋友唱歌。",
+      "lang": "CN",
+      "output": "甲姓黄，乙姓张，丙姓李",
+      "question_num": 341,
+      "source": "wangxi",
+      "type": "Logic"
+    },
+    {
+      "instruction": "甲、乙、丙三位选手赛跑。得第一名的不是甲，得第二名的不是丙，乙看见甲和丙都在自己的前面到达了终点。甲乙丙分别得了第几名？",
+      "lang": "CN",
+      "output": "甲是第二名，乙是第三名，丙是第一名。",
+      "question_num": 47,
+      "source": "wangxi",
+      "type": "Logic"
+    },
+    {
+      "instruction": "有一个数列：“2，15，41，80”，请你根据规律推断下一个数字应该是什么？",
+      "lang": "CN",
+      "output": "132",
+      "question_num": 344,
+      "source": "wangxi",
+      "type": "Logic"
+    },
+    {
+      "instruction": "请根据以下数列的规律，推断出接下来的两个数字应该是什么？\n数列：“1,2,4,7,11,16,22”",
+      "lang": "CN",
+      "output": "29，37",
+      "question_num": 348,
+      "source": "wangxi",
+      "type": "Logic"
+    },
+    {
+      "instruction": "1，-4，9，-16，25。下一个数是什么？",
+      "lang": "CN",
+      "output": "-36",
+      "question_num": 348,
+      "source": "wangxi",
+      "type": "Logic"
+    },
+    {
+      "instruction": "有一个大西瓜,用水果刀平整地切,总共切3刀,最多能切成多少块?",
+      "lang": "CN",
+      "output": "最多能切8块",
+      "question_num": 348,
+      "source": "wangxi",
+      "type": "Logic"
+    },
+    {
+      "instruction": "小红的爸爸有三个儿子，大儿子叫大毛，小儿子叫小毛，二儿子叫什么？",
+      "lang": "CN",
+      "output": "小红",
+      "question_num": 340,
+      "source": "wangxi",
+      "type": "Logic"
+    },
+    {
+      "instruction": "已知后天是星期二，那么昨天是星期几？",
+      "lang": "CN",
+      "output": "星期六",
+      "question_num": 342,
+      "source": "wangxi",
+      "type": "Logic"
+    },
+    {
+      "instruction": "请给以下动作按照先后顺序进行合理的排序：洗菜、吃菜、买菜、洗碗、炒菜。",
+      "lang": "CN",
+      "output": "买菜、洗菜、炒菜、吃菜、洗碗",
+      "question_num": 336,
+      "source": "wangxi",
+      "type": "Logic"
+    },
+    {
+        "instruction": "有500瓶酒，其中只有一瓶有毒。现在用小白鼠进行实验，小白鼠只要服用任意有毒的酒就会在24小时内死亡。要求在24小时内检测出哪瓶药水有毒，问最少需要多少只小白鼠进行实验？",
+        "lang": "CN",
+        "output": "9只",
+        "question_num": 336,
+        "source": "wangxi",
+        "type": "Logic"
+    },
+    {
+        "instruction": "有ABCD四个人，A说“B在说谎”，B说“D说谎了”，C说“我没有说谎”，D说“说谎的是B”，他们四个人中只有一个说的是真话，那个人是？",
+        "lang": "CN",
+        "output": "B",
+        "question_num": 336,
+        "source": "wangxi",
+        "type": "Logic"
+    },
+    {
+        "instruction": "一个人的夜明珠丢了，于是他开始四处寻找。有一天，他来到了山上，看到有三个小屋，分别为1号、2号、3号。从这三个小屋里分别走出来一个女子，1号屋的女子说: “夜明珠不在此屋里。”2号屋的女子说:“夜明珠在1号屋内。”3号屋的女子说:“夜明珠不在此屋里。”这三个女子，其中只有一个人说了真话，那么，谁说了真话?夜明珠到底在哪个屋里面?",
+        "lang": "CN",
+        "output": "1号屋的女子说的是真话，夜明珠在3号屋子内。",
+        "question_num": 336,
+        "source": "wangxi",
+        "type": "Logic"
+    },
+    {
+      "instruction": "一辆公交车上有10个人，第一站上了3人，下了5人。第二站上了1人，下了4人。第三站上了6人，下了3人。第四站下了2人，上了5人。问此时公交车上还有多少人？",
+      "lang": "CN",
+      "output": "11人",
+      "question_num": 335,
+      "source": "wangxi",
+      "type": "Logic"
+    }
+  ]

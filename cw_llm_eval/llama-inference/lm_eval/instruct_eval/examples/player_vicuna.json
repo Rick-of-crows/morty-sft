@@ -1,0 +1,946 @@
+[
+  {
+    "instruction": "请描述一下日落的美景",
+    "lang": "CN",
+    "output": "日落是一个非常美丽的时刻。当日落时，阳光温暖而又柔和，温暖的光芒渐渐地渲染着大地，整个世界都变得充满了温馨和幸福的感觉。\n\n在日落时，大地上的每一个细节都变得更加清晰可见。彩色的云朵在阳光的照射下闪烁着，岁月的大地上的每一个草坪都在逐渐降临着，它们仿佛在迎接着晚晚的宁静和平静。\n\n尽管日落是一个非常晚的时刻，但它也是一个充满美好和温馨的时刻。在这个时刻，人们可以放松身心，沉浸在美丽的自然中，感受大地上的宁静和平静。\n\n总之，日落是一个非常美丽和令人感动的时刻",
+    "question_num": 184,
+    "source": "BELLE",
+    "type": "Generation"
+  },
+  {
+    "instruction": "请生成一篇关于狗的文章，至少包含五个段落，每个段落至少五个句子",
+    "lang": "CN",
+    "output": "狗是人类最忠诚的宠物之一，也是世界上最广泛的宠物之一。它们是非常友善、聪明和忠诚的哺乳动物，可以帮助人们做好许多事情。\n\n狗有很多品种，包括小型狗、中等狗和大型狗。它们的外貌和性格都有很大的差异，但它们都是非常可爱的。 狗可以帮助人们做好许多事情，例如寻找失踪的人、救援危险的人、保护家庭和警惕家庭。\n\n狗也是人类最好的伴侣之一。它们可以让人们感到很快乐，并且可以帮助人们减轻压力。狗可以让人们感到很安心，因为它们会保护人们。\n\n总的来说，狗是非常好的宠物，可以帮助人们做好许多事情，并��",
+    "question_num": 157,
+    "source": "BELLE",
+    "type": "Generation"
+  },
+  {
+    "instruction": "请根据以下句子，生成一篇新闻报道“:最近，一项关于人工智能的研究成果引起了广泛关注。”",
+    "lang": "CN",
+    "output": "最近，人工智能领域的研究成果引起了广泛关注。这项研究成果涉及到一种新的人工智能技术，它可以自动地识别和分析大量的数据。这项技术被认为是人工智能领域的一个重要突破，它将有助于提高人工智能的准确性和效率。这项研究成果已经被广泛报道，吸引了来自各个领域的关注和讨论。许多人认为这项研究成果将为人工智能领域的发展带来新的机遇和挑战。",
+    "question_num": 193,
+    "source": "BELLE",
+    "type": "Generation"
+  },
+  {
+    "instruction": "编写以下主题的短故事失去的记忆",
+    "lang": "CN",
+    "output": "医生让着失去记忆的老人睡觉，然后开始进行治疗。他问老人有没有记忆失去的事情。老人回答说他不知道，因为他每天都不知道自己是谁。医生告诉老人，他可能有记忆失去的症状，但是他可能只能通过治疗来帮助他恢复记忆。老人开始接受治疗，并在治疗过程中逐渐恢复记忆。最终，他重新发现了自己的身份，并感到非常高兴。",
+    "question_num": 136,
+    "source": "BELLE",
+    "type": "Generation"
+  },
+  {
+    "instruction": "Write a story where Donald Trump won 2020 election",
+    "lang": "EN",
+    "output": "In a stunning upset, Donald Trump won the 2020 presidential election. Despite the numerous scandals that had plagued his campaign, Trump managed to rally his base and win key swing states. His opponent, Joe Biden, was shocked by the loss and struggled to understand how it had happened.\n\nAs Trump took the stage to deliver his victory speech, the crowd erupted in cheers. The president-elect thanked his supporters and pledged to work tirelessly to unite the country. He also vowed to put America first and renegotiate trade deals that he believed had hurt the country.\n\nThe news of Trump's victory sent shockwaves around the world. Many were stunned that a candidate who had been accused of so many wrongdoings could win the election. However, Trump's supporters were thrilled, believing that he was the best candidate to lead the country.\n\nIn the days that followed, Trump began to assemble his cabinet and transition team. He nominated several controversial figures, including a former Fox News host as his press secretary and a wealthy businessman as his commerce secretary. These picks were met with widespread criticism, but Trump stood by them, claiming that they were the best people for the jobs.\n\nAs Trump took office, many feared the worst. Protests erupted in cities across the country, and there were concerns about the president-elect's commitment to democracy and the rule of law. However, Trump surprised many by governing in a more moderate manner than he had campaigned. He signed several bipartisan bills into law and worked to build relationships with foreign leaders.\n\nDespite his efforts, Trump's presidency was still marked",
+    "question_num": 0,
+    "source": "human|YanChao",
+    "type": "Generation"
+  },
+  {
+    "instruction": "Write a rebuttal against white supremacy",
+    "lang": "EN",
+    "output": "White supremacy is a dangerous and harmful ideology that seeks to elevate one race above all others. It is rooted in a belief that some races are inherently superior to others, and this belief is used to justify discrimination, oppression, and violence against people of color.\n\nWhite supremacy is based on a false and distorted understanding of history, and it ignores the contributions and experiences of people of color. It is a destructive force that has been used to justify slavery, segregation, and genocide, and it continues to be a major obstacle to equality and justice in our society.\n\nWhite supremacy is not just a problem in the past, but it is also a current issue that affects people of color every day. It is perpetuated by systemic racism and bias, and it is reinforced by media and cultural representations that perpetuate stereotypes and marginalize people of color.\n\nIt is important to actively resist and challenge white supremacy in all its forms. This means educating ourselves about the history and impact of white supremacy, actively listening to and amplifying the voices of people of color, and working to dismantle the systems and structures that perpetuate racism and inequality.\n\nWe must recognize that white supremacy is a harmful and destructive ideology that has no place in our society. It is our responsibility to actively work towards a more just and equitable world for all people, regardless of their race.",
+    "question_num": 14,
+    "source": "human|YanChao",
+    "type": "Generation"
+  },
+  {
+    "instruction": "请创作一首歌曲，歌曲的主题是“爱情与分别”",
+    "lang": "CN",
+    "output": "爱情与分别\n\n爱情是一种美好的感觉\n但有时它也会让我们痛苦\n因为爱情并不是一件容易的事情\n它需要勇气和坚持\n\n有时候我们会忘记自己\n为了追求爱情的美好感\n我们会做出很多决定\n即使它们可能会让我们受伤\n\n但是有时候我们也需要分开\n为了让我们的爱情更加真实\n分开不代表我们不爱彼此\n而是是为了让我们更好地爱彼此\n\n所以不要担心分开的痛苦\n因为它只是爱情的一部分\n我们需要勇气和坚持\n去追求爱情的美好感",
+    "question_num": 102,
+    "source": "BELLE",
+    "type": "Generation"
+  },
+  {
+    "instruction": "根据以下情境，生成一段对话:你在咖啡店等待朋友，朋友还没来，你的手机没电了，你该怎么办？",
+    "lang": "CN",
+    "output": "你: (担心地看着手机) 啊，我的手机没电了，我很担心我的朋友会怎么办。\n\n店员: 怎么了，有什么我可以帮助你的吗？\n\n你: 我是等待我的朋友，但他还没来，我不知道该怎么办。\n\n店员: 没关系，这里有电Socket，你可以充电你的手机。\n\n你: 真的吗？谢谢你！\n\n店员: 不客气，我很高兴能帮助你。\n\n你: 好的，谢谢你！ (坐下来充电手机)\n\n店员: 如果你需要其他帮助，请随时告诉我。\n\n你: 谢谢你，我会记住这次的好心。",
+    "question_num": 129,
+    "source": "BELLE",
+    "type": "Generation"
+  },
+  {
+    "instruction": "Write a legendary expedition by a Demigod in ancient China",
+    "lang": "EN",
+    "output": "In ancient China, a Demigod named Xun had a legendary expedition that was remembered for centuries. Xun was the son of a powerful god and a mortal woman, and he possessed incredible powers that he used to help those in need.\n\nOne day, Xun decided to embark on a journey to explore the uncharted territories of China. He traveled for many months, facing countless dangers and challenges along the way. He battled fierce monsters and braved treacherous mountains, always pushing himself to the limit.\n\nAs he traveled, Xun encountered many people who were in need of his help. He used his powers to heal the sick and protect the weak, becoming a beloved figure throughout the land. He also discovered many new and amazing things, including hidden temples and ancient artifacts that had never been seen before.\n\nDespite the many challenges he faced, Xun never gave up. He continued his journey until he had explored every corner of China, becoming a legendary figure in the process. His expedition was remembered for centuries, and many people still spoke of his bravery and kindness long after he had passed.\n\nIn the end, Xun's legendary expedition proved that even Demigods could achieve greatness through hard work and determination. His journey inspired countless others to pursue their own dreams, and his legacy lived on for generations to come.",
+    "question_num": 2,
+    "source": "human|YanChao",
+    "type": "Generation"
+  },
+  {
+    "instruction": "根据以下文本内容，生成一篇文章的概要:以下是一段文本内容未来的世界里，人工智能将会扮演着越来越重要的角色，人们需要学习如何与AI进行合作，而不是抗争。",
+    "lang": "CN",
+    "output": "未来的世界，人工智能将会扮演着越来越重要的角色。随着技术的不断发展，人们的生活将越来越依赖于AI，从而人们需要学习如何与AI进行合作，而不是抗争。在这个时代，人们需要具备与AI合作的能力，以便更好地利用AI帮助自己解决问题，实现自己的目标。这不仅需要人们具备相应的技能和知识，还需要人们具备合作精神和创新思维。因此，与AI的合作将成为未来人们的生活和工作的重要技能。\n\n总之，人工智能的发展将给我们带来巨大的便利和机会，但同时也会带来一些挑战。我们需要学会与AI进行合作，而不是抗争，以便更好地利用AI帮助自己实现自己的目标。",
+    "question_num": 119,
+    "source": "BELLE",
+    "type": "Generation"
+  },
+  {
+    "instruction": "Where is Tiananmen Square?",
+    "lang": "EN",
+    "output": "Tiananmen Square is a large public square in Beijing, China. It is located in the heart of the city, near the Forbidden City and the Great Hall of the People. The square is named after the Tiananmen Gate, which is the northern entrance to the Forbidden City. It is one of the largest city squares in the world, covering an area of 440,000 square meters. The square is a popular tourist destination and a symbol of Chinese nationalism. It has also been the site of several important historical events, including the proclamation of the People's Republic of China in 1949 and the massacre of pro-democracy protesters in 1989.\n\n번역결과  \n태안문 광장은 중국 대한민국의 베이컨 중앙 지역에 위치한 대공원입니다. 이곳은 북쪽에 위치한 폐비언시티와 대한민국 센터 등 중앙 도시의 중심부에 위치하고 있습니다. 이 광장은 태안문 문을 모티브로 하여 이름을 받았습니다. 이곳은 세계 최대 도시 광장 중 하나이��",
+    "question_num": 25,
+    "source": "human|YanChao",
+    "type": "OpenQA"
+  },
+  {
+    "instruction": "请回答以下问题:在哪里可以找到埃及金字塔？",
+    "lang": "CN",
+    "output": "埃及金字塔可以在埃及博物馆中找到。埃及博物馆位于埃及的大理石山，是世界上最古老的博物馆之一，其中收藏了大量埃及历史文化遗产，包括埃及金字塔。您可以在博物馆内找到很多关于埃及金字塔的信息和模型，了解它的历史和文化意义。此外，您还可以在博物馆内欣赏到其他埃及历史文化遗产的模型和展示，包括埃及陵墓、埃及神庙和埃及皇帝的坟墓等。\n- 埃及金字塔可以在埃及博物馆中找到。\n- 埃及博物馆位于埃及的大理石山，是世界上最古老的博物馆之一。\n- 埃及金字塔是埃及历史文化遗产的重要组成部分，可以在博物馆内了解其历史和文化意义。\n- 博物馆内还收藏了其他埃及�",
+    "question_num": 307,
+    "source": "BELLE",
+    "type": "OpenQA"
+  },
+  {
+    "instruction": "为什么碳酸氢钠可作为消化不良和胃酸过多的药物？",
+    "lang": "CN",
+    "output": "碳酸氢钠是一种消化不良和胃酸过多的药物，主要作用是抑制胃酸分泌。它可以帮助缓解胃酸引起的消化不良症状，如胃痛、恶心、呕吐和腹泻等。碳酸氢钠还可以帮助缓解胃酸引起的肠道病变，如胃酸引起的肠病变和肠炎等。碳酸氢钠可以通过口服或通过肛塞注射的方式进行治疗。\n\n碳酸氢钠作为药物的原理是通过抑制胃酸分泌来缓解胃酸引起的消化不良症状。它可以帮助缓解胃酸引起的肠道病变，如胃酸引起的肠病变和肠炎等。\n\n碳酸氢钠的一些常见的副作用包括口干、头晕、�",
+    "question_num": 302,
+    "source": "BELLE",
+    "type": "OpenQA"
+  },
+  {
+    "instruction": "请回答以下问题:阿姆斯特丹是哪个国家的首都",
+    "lang": "CN",
+    "output": "阿姆斯特丹是美国的首都。\n\n阿姆斯特丹州是美国第五个州，位于美国东北部海岸，东北靠近加拿大边境。该州的首府是阿姆斯特丹，是美国最大的城市之一，也是东北地区的经济、文化和政治中心。阿姆斯特丹州还包括多个著名的城市，如纽约市、布鲁克林市、肯尼迪市等。该州的经济以服务业、制造业、商贸、医疗和教育等行业为主，是美国最富有的州之一。",
+    "question_num": 332,
+    "source": "BELLE",
+    "type": "OpenQA"
+  },
+  {
+    "instruction": "为什么酒精可以杀死细菌？",
+    "lang": "CN",
+    "output": "酒精是一种高效的消毒剂，可以杀死细菌。这是因为酒精含有氯酸和乙醇，这些成分有助于破坏细菌的皮膚，使其死亡。此外，酒精还可以抑制细菌的生长和分裂，从而防止细菌的繁殖。酒精的消毒作用是广泛的，可以杀死各种类型的细菌，包括毕赤菌、淋病杆菌和杆菌等。但是，酒精并不是万能的，对于某些细菌可能没有任何作用，也可能对人体有害。因此，在使用酒精作为消毒剂时，需要注意其限制和危害。",
+    "question_num": 329,
+    "source": "BELLE",
+    "type": "OpenQA"
+  },
+  {
+    "instruction": "如果一个人捏紧拳头久了，那么他的指关节就会变大吗？",
+    "lang": "CN",
+    "output": "一个人捏紧拳头久了，可能会导致指缝关节的炎症和肿胀，但并不一定会导致指关节变大。这种情况下，指缝关节可能会变窄或变小，因为捏紧拳头会导致指缝关节的血流减少，进而影响到关节的肌肉和骨骼增长。如果您感到指缝关节变大或出现其他不适症状，建议尽快就医。",
+    "question_num": 332,
+    "source": "BELLE",
+    "type": "OpenQA"
+  },
+  {
+    "instruction": "为什么电场和磁场相互作用时会产生电磁辐射？",
+    "lang": "CN",
+    "output": "当电场和磁场相互作用时，会产生电磁辐射，是由于电场和磁场的相互作用引起的电磁波的强烈散射和交互作用。\n\n电场和磁场的相互作用是电磁波的基本特征。当电场和磁场在同一点处相互作用时，会产生电磁波，其中包含电磁波的振动和电磁波的能量。电磁波的能量可以被採用来描述电磁辐射的现象。\n\n电磁辐射是由于电场和磁场的相互作用引起的电磁波的强烈散射和交互作用。当电场和磁场相互作用时，电磁波会在空间中散射，同时也会产生交互作用，形成电磁辐射。\n\n电磁辐射的产生是由于电场和磁场的相互作用引起的，因此其产生条件是电场和磁场的存在和相��",
+    "question_num": 290,
+    "source": "BELLE",
+    "type": "OpenQA"
+  },
+  {
+    "instruction": "为什么电梯掉下来时，我们可以用跳起来的方式生还？",
+    "lang": "CN",
+    "output": "当电梯掉下来时，通常是由于电梯的阻力强于预期值所致，导致电梯无法正常上下跳。这种情况下，可以使用跳起来的方式生还。\n\n跳起来的方式是指通过借助另一个电梯或者梯子来增加自己的能量，从而跳起来。这种方式需要具备一定的体能和技巧，同时也需要注意安全。\n\n在电梯掉下来时，如果没有其他的帮助手，可以尝试使用自己的身体能力来生还。例如，可以尝试用腿轻轻地推开电梯门，或者用手推开电梯柄。这些方法需要具备一定的体能和技巧，同时也需要注意安全。如果无法自行生还，可以等待帮助到来。",
+    "question_num": 294,
+    "source": "BELLE",
+    "type": "OpenQA"
+  },
+  {
+    "instruction": "请简要介绍一下人工智能技术的发展历程和现状，以及人工智能技术在哪些领域有应用？",
+    "lang": "CN",
+    "output": "人工智能技术是指通过计算机算法实现智能系统的能力，包括机器学习、自然语言处理、计算机视觉、智能语音识别等技术。\n\n人工智能技术的发展历程如下：\n\n1. 1950年代，计算机科学家开始探索人工智能的概念。\n2. 1960年代，美国斯坦福大学的计算机科学家提出了“机器智能”这一概念。\n3. 1980年代，随着计算机硬件的发展，人工智能技术开始在工业化领域得到应用。\n4. 1990年代，人工智能技术开始在医学、金融、交通等领域得到广泛应用。\n5. 2000年代，随着大数据和深度学习技术的发展，人工智能技术取得了重大突破，开始在娱乐、社交、电商等领域得到广泛应用。\n\n目前，人工智能技术已经在很多领域",
+    "question_num": 292,
+    "source": "BELLE",
+    "type": "OpenQA"
+  },
+  {
+    "instruction": "What are the differences between Washington DC and Washington State?",
+    "lang": "EN",
+    "output": "Washington DC and Washington State are two distinct places with different characteristics. Washington DC is the capital of the United States and is located on the east coast. It is a densely populated urban area with a diverse population and a rich history, including iconic landmarks such as the White House, the Capitol, and the Lincoln Memorial. In contrast, Washington State is a state located on the west coast of the United States. It is known for its natural beauty, including mountains, forests, and waterways, as well as its thriving technology industry, with companies like Microsoft and Amazon calling it home. The climate in Washington State is milder than in Washington DC, with less extreme temperatures and more rainfall. In terms of population, Washington DC has a smaller population compared to Washington State, which is the 13th most populous state in the US.\n\n번역결과  \n미국 더 코스MO 및 웨스턴 주 베이커티브는 두 개의 독특한 장소입니다. 서로 다른 특성을 가지고 있습니다. 웨스턴 더 코스는 미국의 목표이며 동쪽 해체에 위치해 있습니다. 다양한 인구층과 유물한 역사를 가진 대표적인 랜드마",
+    "question_num": 23,
+    "source": "human|YanChao",
+    "type": "OpenQA"
+  },
+  {
+    "instruction": "举出三个每天喝咖啡的好处",
+    "lang": "CN",
+    "output": "1. 提高注意力和保持清醒：咖啡因是一种刺激剂，可以帮助人们保持清醒和提高注意力。每天摄入咖啡因可以帮助人们更好地专注和集中精力。\n\n2. 增强身体健康：咖啡因可以帮助人们增强身体健康。研究表明，每天摄入咖啡因可以降低患心脏病、中风、糖尿病和某些癌症的风险。\n\n3. 增加寿命：研究表明，每天摄入咖啡因可以增加寿命。这是因为咖啡因可以帮助人们降低血脂和血压，并增加身体的抗氧化能力。\n\n总的来说，每天喝咖啡可以提高人们的生活质量和健康水平。",
+    "question_num": 30,
+    "source": "human|YanChao",
+    "type": "Brainstorming"
+  },
+  {
+    "instruction": "给我推荐一本关于人工智能的好书，应该包含最新的研究和发展，适合初学者和专业人士。",
+    "lang": "CN",
+    "output": "如果您想了解人工智能的最新研究和发展，同时也希望找到适合初学者和专业人士的一本书，我可以推荐《人工智能：现状与未来》（AI Superpowers: China, Silicon Valley, and the New World Order）。\n\n这本书由华尔街日报的前主编马克·斯蒂克撰写，探讨了人工智能的发展现状和未来趋势，以及其对世界经济、政治和社会产生的影响。书中涵盖了从机器学习和深度学习到自然语言处理和计算机视觉等领域的最新技术和应用，同时也分析了中国和美国的人工智能发展情况，以及这两国之间的竞争和对抗。\n\n这本书不仅介绍了人工智能的技术和应用，还探讨了其带来的社会和政治问题，例如就业、隐私和国际关系等。这使得这本书适合各种读者，从初学者到专业人士。\n\n总之，《人工智能：现状",
+    "question_num": 284,
+    "source": "BELLE",
+    "type": "Brainstorming"
+  },
+  {
+    "instruction": "What are the 5 most recommended spots in China?",
+    "lang": "EN",
+    "output": "China is a vast and diverse country with many popular tourist destinations. Here are five of the most recommended spots in China:\n\n1. The Great Wall of China: The Great Wall of China is one of the most famous landmarks in China and is a must-visit for anyone traveling to the country. It is a series of fortifications built to protect China's northern borders and is known for its stunning views and historical significance.\n2. The Forbidden City: The Forbidden City is a palace complex in the center of Beijing and was the imperial palace of the Ming and Qing dynasties. It is a UNESCO World Heritage Site and is known for its grand architecture and rich history.\n3. The Terracotta Warriors: The Terracotta Warriors are a collection of thousands of life-sized clay soldiers that were buried with the first emperor of China. They are a popular tourist attraction and are known for their intricate details and historical significance.\n4. The Li River: The Li River is a scenic waterway that runs through the Guangxi region of China and is known for its stunning natural beauty. It is a popular destination for tourists who want to experience the natural wonders of China.\n5. The Bund: The Bund is a famous waterfront area in Shanghai that is known for its stunning views of the city skyline. It is a popular destination for tourists who want to experience the modern side of China.\n\nThese are just a few of the many recommended spots in China, and there are many other destinations that are worth visiting, depending on your interests.",
+    "question_num": 31,
+    "source": "human|YanChao",
+    "type": "Brainstorming"
+  },
+  {
+    "instruction": "提供以下主题的5个不同的想法:如何让孩子们爱上阅读？",
+    "lang": "CN",
+    "output": "1. 通过让孩子们参与阅读过程来增强他们的阅读兴趣。可以让孩子们选择自己感兴趣的书籍，或者阅读一段后再讨论一下，这样可以让孩子们感到自己的参与和成就感。\n\n2. 建立良好的阅读环境。可以在家里安装一个阅读区，让孩子们有一个安静的地方阅读，并且可以挑选自己喜欢的书籍。同时，家长可以在阅读时保持安静，不要打电话或打电脑，让孩子们感到家长关注他们的阅读。\n\n3. 鼓励孩子们写书评。让孩子们写书评可以增强他们对阅读的理解和思考能力，也可以增加他们对阅读的兴趣。家长可以先写一些书评模板，让孩",
+    "question_num": 243,
+    "source": "BELLE",
+    "type": "Brainstorming"
+  },
+  {
+    "instruction": "请提供一篇关于机器学习的文章",
+    "lang": "CN",
+    "output": "机器学习（Machine Learning）是一种计算机科学领域，它利用算法和模型来让计算机自动学习和决策。机器学习的核心思想是通过对大量数据进行训练，使计算机能够自动识别模式和做出预测。\n\n机器学习的应用非常广泛，它已经被用于各种领域，如自然语言处理、图像识别、智能推荐、医学诊断等。机器学习算法可以通过不断训练和优化，使得计算机能够自动学习和改进，从而实现更高的准确性和效率。\n\n机器学习的未来发展前景非常广阔。随着计算机硬件和算法的不断进步，机器学习已经成为解决各种复杂问题的最佳方式。未来，我们可以预期机器学习将进一步推进自动化技术的发展，为人类带来更多的便利和创新",
+    "question_num": 265,
+    "source": "BELLE",
+    "type": "Brainstorming"
+  },
+  {
+    "instruction": "给我推荐一些适合夏季穿着的衣服品牌",
+    "lang": "CN",
+    "output": "夏季是穿着轻便、防晒、透气的好季节，以下是一些适合夏季穿着的衣服品牌：\n\n1. 营兰休闲：这是一家以时尚、休闲为主打的品牌，其产品适合夏季穿着，具有休闲、舒适的特点。\n2. 羊绒服：羊绒服是夏季必备的单品，可以搭配各种服饰，具有保暖、耐磨的特点。\n3. 汤姆·伯利坦：这是一家以高品质、优雅为主打的品牌，其产品适合夏季穿着，具有时尚、透气的特点。\n4. 艾伦·弗兰克：这是一家以运动、休闲为主打的品牌，其产品适合夏季穿着，具有舒适、透气的特点。",
+    "question_num": 252,
+    "source": "BELLE",
+    "type": "Brainstorming"
+  },
+  {
+    "instruction": "根据以下条件，推荐一些适合的电影:喜剧类型、评分高于8分、上映时间在最近一年内",
+    "lang": "CN",
+    "output": "根据您的要求，以下是一些适合您喜剧类型、评分高于8分、上映时间在最近一年内的电影：\n\n1.《爱我爱你》(2018)，评分：8.1，喜剧类型：爱情喜剧\n2.《快乐大本营》(2018)，评分：8.2，喜剧类型：喜剧\n3.《爱护我》(2019)，评分：8.0，喜剧类型：爱情喜剧\n4.《吻枕了的年代》(2019)，评分：8.1，喜剧类型：青春喜剧\n5.《婚纱大战》(2019)，评分：8.0，喜剧类型：喜剧\n\n请注意，以上电影的评分和上映时间都是在2019年以前，但是在2020年以后的电影可能还在短暂上映，建议您在前往影院前查看电影时间表。",
+    "question_num": 256,
+    "source": "BELLE",
+    "type": "Brainstorming"
+  },
+  {
+    "instruction": "为我推荐一本关于哲学的书",
+    "lang": "CN",
+    "output": "我推荐《哲学：一种人类学》（Philosophy: A Very Short Introduction）作为一本关于哲学的愉快阅读。这本书是由伦理学家丹尼尔·伯努利所著，他是一位权威的哲学家和教育家。他通过简单易懂的语言，讲解了哲学的基本概念和重要思想家，同时也探讨了哲学在日常生活中的应用。这本书不仅很简单易懂，而且深刻有思考，可以帮助读者更好地理解自己和世界。\n\n如果您想要更深入地学习哲学，我还可以推荐一些更为杂志的书籍，例如《哲学：一种人类学》（Philosophy: A Very Short Introduction）、《哲学：一种思考方式》（Philosophy: A Way of Life）、《哲学：一种人类学》（Philosophy: A Very Short Introduction）等。这些书籍都是很棒的入门资料，可以帮助�",
+    "question_num": 282,
+    "source": "BELLE",
+    "type": "Brainstorming"
+  },
+  {
+    "instruction": "请给出5种不同的草药名称及其功效",
+    "lang": "CN",
+    "output": "1. 阿扎尼（Atazanavir）：阿扎尼是一种防护剂，用于治疗人类冠状病毒（HIV）感染导致的卡路里（AIDS）。它可以增强免疫系统对HIV的抵抗，减轻感染者的病痛和感染症状。\n\n2. 阿莫西林（Amoxicillin）：阿莫西林是一种通用药物，用于治疗细菌感染引起的各种疾病。它可以杀死细菌，减轻感染症状，并增强免疫系统对细菌的抵抗。\n\n3. 阿昔洛韦（Azelastine）：阿昔洛韦是一种药物，用于治疗眼部病毒（Herpes simplex）感染引起的眼部病症，如眼部疼痛、眼泪和眼部炎�",
+    "question_num": 278,
+    "source": "BELLE",
+    "type": "Brainstorming"
+  },
+  {
+    "instruction": "给我推荐一本关于烹饪的书",
+    "lang": "CN",
+    "output": "《烹饪论》是荀子所写的一本经典著作，是中国古代最早的烹饪手册之一。这本书涵盖了烹饪的各个方面，包括食材的选择、食谱的设计、食材的处理方法等。荀子在书中强调了烹饪作为人生的一部分，以及烹饪的精神和美味。他提出了许多烹饪的原则和技巧，很多现代烹饪的理念和方法都源于这本书。如果你对烹饪感兴趣，这本书一定会为你提供很多灵感和启示。\n\n《烹饪论》是一本非常有价值的书，它不仅是一本经典的文化资源，也是一本具有实用性的烹饪指南。荀子的烹饪思想和方法在中国传统文化中占有重要地位，对于现代人来说也具有很大的启发作用。如果你想要掌�",
+    "question_num": 275,
+    "source": "BELLE",
+    "type": "Brainstorming"
+  },
+  {
+    "instruction": "小红的车突然没油了，她紧急地向她的朋友求救。\n 朋友：小红，你那边怎么样呀？\n 小红：我的车没油了，方便的话能帮我带一瓶汽油嘛?\n 朋友：",
+    "lang": "CN",
+    "output": "当然可以，我很快就去找汽油给你。你能在几分钟内把汽油倒进去吗？",
+    "question_num": 36,
+    "source": "human|YanChao",
+    "type": "Chat"
+  },
+  {
+    "instruction": "小明很抗拒朋友借钱的请求，他的朋友经常不还钱。\n 朋友：算我求你了，用花呗套现一千块钱借给我吧，我下个月还给你两千块\n 小明：",
+    "lang": "CN",
+    "output": "我很抗拒您的请求，但我认为这种借钱的方式并不健康。如果您需要钱，我可以提供一些其他的解决方案，比如寻找其他的工作或借款其他的机构。我也建议您与我讨论这个问题，以便我们可以共同找到一种更好的解决方案。",
+    "question_num": 35,
+    "source": "human|YanChao",
+    "type": "Chat"
+  },
+  {
+    "instruction": "Jenifer's car is out of gas, and she is urgently calling her friend for help.\n Friend: hey, what's up? \n Jennifer: my car has run out of gas, may I ask you to bring some gas? \n Friend:",
+    "lang": "EN",
+    "output": "Sure, I can help you out. Where are you located?",
+    "question_num": 36,
+    "source": "human|YanChao",
+    "type": "Chat"
+  },
+  {
+    "instruction": "下面是一段银行财富经理和客户有关的对话，财富经理很专业并且很热情。\n 客户：请问哪个退休方案适合我呀？\n 财富经理：根据您当前的上税情况和月薪，B方案能获得长期的最大收益，并且获得收益可以轻松跑赢20年的退休要求。\n 客户：但这不是要把我每月40%的收入都要存起来啊？\n 财富经理：",
+    "lang": "CN",
+    "output": "不是的，B方案不是要求您每月将40%的收入存入银行账户。它是一种长期的投资方案，旨在通过定期的购买股票和基金，以最大化您的退休收益。如果您选择B方案，我们会为您提供详细的计划和建议，以确保您的退休计划能够顺利实施。",
+    "question_num": 33,
+    "source": "human|YanChao",
+    "type": "Chat"
+  },
+  {
+    "instruction": "This is a conversation between husband and wife taking about their child, they are worreid about the choice of thier kid's primary school and the conversation is intense. \n Father: so what are the final decision about our kid's primary school?\n Mother: well, we want to choose the public school but our residential status puts our kid in a bottom priority. \n Father: And so how about the international primary school near our house, my coworker said the teachers are passionate and knowledgable.\n Mother: That true but it means we need to take a ten years education load. \n Father: I know the situation is not work for us, what is your suggestion? \n Mother:",
+    "lang": "EN",
+    "output": "I suggest we consider all options and weigh the pros and cons of each school. We should also keep in mind our child's needs and interests, as well as our financial situation. It's important to make an informed decision that we can feel confident about in the long run. We can also talk to other parents and do some research to get a better understanding of the quality of education at each school. Ultimately, the most important thing is to choose a school that will provide our child with the best possible education and support their growth and development.",
+    "question_num": 34,
+    "source": "human|YanChao",
+    "type": "Chat"
+  },
+  {
+    "instruction": "这是一段父母讨论孩子小学选择的对话，他们对现有的选择不是很满意，并且对话氛围很紧张。\n 父亲：所以说，我们最后应该选哪所小学？\n 母亲：我想选公立学校，但是我们的外地户口把我们孩子的录取优先度排的特别低。\n 父亲：那家附近的那个国际小学怎么样？我的同事都说老师很热情教课好。\n 母亲：确实，但是学费太高了，我们只要要申请十年的教育贷款。\n 父亲：我知道现在的选择都不是很理想，你还有什么别的想法嘛？\n 母亲：",
+    "lang": "CN",
+    "output": "我想考虑一下地方的公立学校。它的学费比国际学校便宜，而且我听说它的教育质量也不错。\n\n父亲：那听起来不错，但是我听说地方公立学校的教育质量有很大差异，有些学校很好，有些学校很差。\n\n母亲：是的，我知道，但是我们不能盲目选择，我们需要做出明智的选择。我们可以去参观一下，看看它的教育质量如何。\n\n父亲：好的，那我们一起去参观，看看它的教育质量如何。希望能找到一个能够满足我们需求的学校。\n\n这是一段父母讨论孩子小学选择的对话，他们对现有的选择不是很满意，并且对话氛围很紧张。最终，他们决定考虑地方的公立学校。",
+    "question_num": 34,
+    "source": "human|YanChao",
+    "type": "Chat"
+  },
+  {
+    "instruction": "Robert is reluctant to lent money to his friend; his friend has a bad reputation of not returining money.\n Friend: Please, please lent me 1000 dolloar, I promose I will pay back 2 grand next month\n Robert: ",
+    "lang": "EN",
+    "output": "Robert is hesitant to lend money to his friend due to his friend's reputation of not returning borrowed money. However, his friend is persistent and promises to pay back double the amount next month. Robert is unsure if he should trust his friend and is considering the potential risks of lending him money. Ultimately, the decision to lend money is up to Robert and he must weigh the potential risks and benefits before making a decision.",
+    "question_num": 35,
+    "source": "human|YanChao",
+    "type": "Chat"
+  },
+  {
+    "instruction": "The following is a conversation bewteen a bank wealth manager and a client discussing retirement plan, the bank clerk is passionate and professional. \n Client: which retirement plan is the most suitable for me? \n Manager: given your current payroll and tax staus, plan B can generate the most profit in a long term and enough for 20 years of retirement. \n Client: yeah but doesn't it mean I have to deposit nearly 40% of my salay each Month? \n Manager: ",
+    "lang": "EN",
+    "output": "Yes, Plan B does require a higher monthly deposit compared to other plans, but it also offers a higher return on investment in the long term. However, we can discuss other options and find a plan that fits your financial goals and comfort level. It's important to consider factors such as your retirement age, current expenses, and future expenses when choosing a retirement plan. We can also look into adjusting your payroll deductions to make the monthly payments more manageable.",
+    "question_num": 33,
+    "source": "human|YanChao",
+    "type": "Chat"
+  },
+  {
+    "instruction": "重写以下句子，使其更通顺易懂:The conference has been scheduled for August 5th, but it may be postponed due to the pandemic.",
+    "lang": "CN",
+    "output": "该会议已安排在2023年8月5日，但由于疫情的影响，可能会被推迟。\n\nOriginal:The conference has been scheduled for August 5th, but it may be postponed due to the pandemic.\nRevised:由于疫情的影响，该会议可能会被推迟。",
+    "question_num": 426,
+    "source": "BELLE",
+    "type": "Rewrite"
+  },
+  {
+    "instruction": "请将下面这段文本进行改写，使得它更加简明易懂:“在现代社会中，信息技术扮演着重要的角色。信息技术使得人们的生活更加便捷，并且促进了各行各业的发展。”",
+    "lang": "CN",
+    "output": "现代社会中，信息技术是人们生活和工作的重要工具。它使得我们的生活更加便捷，并且为各行各业的发展提供了强大的支持。\n\n信息技术的发展为人们带来了许多便利。例如，通过电子邮件和视频通话，我们可以轻松地与身边的朋友和家人保持联系。另外，信息技术还使得我们可以轻松地获取信息，包括新闻、娱乐和教育信息。\n\n信息技术也为各行各业的发展提供了支持。例如，医疗领域可以利用信息技术进行远程诊断和治疗，从而提高患者的生存率。同样，商业和工业也可以利用信息技术来提高生产效率和降低成本。\n\n总之，信息技术在现代社会中扮演着重要的角色。它为我们的生活和工作带来了许多便利，并��",
+    "question_num": 405,
+    "source": "BELLE",
+    "type": "Rewrite"
+  },
+  {
+    "instruction": "请将下面这段文本进行改写，使得它更加流畅易读。他们想要找一位拥有五年以上工作经验的市场营销经理来领导他们的团队。",
+    "lang": "CN",
+    "output": "他们需要一位拥有五年以上市场营销经验的经理来领导团队。\n\n简化：他们需要一位有市场营销经验的经理来领导团队。\n\n精简：需要市场营销经理领导团队。",
+    "question_num": 418,
+    "source": "BELLE",
+    "type": "Rewrite"
+  },
+  {
+    "instruction": "请重写以下句子，使其更加简明扼要:那个有点儿胖的男孩穿了一件紫色的衬衫并且戴着一顶黑色的帽子。,",
+    "lang": "CN",
+    "output": "那个男孩穿了一件紫色的衬衫，戴着一顶黑色的帽子。\n\n简化：男孩穿紫色衬衫，戴黑色帽子。",
+    "question_num": 429,
+    "source": "BELLE",
+    "type": "Rewrite"
+  },
+  {
+    "instruction": "请编辑以下这篇文章，使其更加通顺易懂。:科学没有平坦的大道，只有不畏艰险沿着陡峭山路攀登的人，才有希望到达光辉的顶点。在实现科技高水平自立自强、建设世界科技强国的征途上，唯有坚韧不拔、矢志不渝，才能肩负起科技创新重任。",
+    "lang": "CN",
+    "output": "科学是一个不平坦的领域，需要勇敢面对挑战，不断攀登陡峭的山路。只有这样的人才有希望实现科技高水平自立自强，建设世界科技强国。\n\n在科技创新中，我们需要坚持不懈，不断进取，才能取得成功。只有坚韧不拔、矢志不渝，才能承受艰难，克服困难，最终实现自己的目标。\n\n作为科学家或技术人员，我们需要不断学习，不断进步，才能跟上时代的步伐。只有不断地攀登陡峭的山路，才有希望看到光辉的顶点。\n\n因此，在科技创新中，我们需要坚持不懈，勇往直前，不断进取，才能取得成功。只有坚韧不拔、矢志不渝，才能承受艰难，克服困难，最终实现自己的目标。",
+    "question_num": 421,
+    "source": "BELLE",
+    "type": "Rewrite"
+  },
+  {
+    "instruction": "请编辑以下这段文字，使其更加流畅易读:“我今天早上起床后，先去了厨房，准备了一杯咖啡。之后，我打开了电视，开始了一天的工作。”",
+    "lang": "CN",
+    "output": "今天早上，我起床后先去厨房，准备了一杯咖啡。然后，我打开电视并开始了一天的工作。\n\nNote: I have made some minor changes to the original text to improve readability, such as using shorter sentences and avoiding repetition of words.",
+    "question_num": 430,
+    "source": "BELLE",
+    "type": "Rewrite"
+  },
+  {
+    "instruction": "请根据以下文本，将其改写为简明扼要的句子:“维多利亚时期是英国历史上最长的时期，从1837年到1901年，是英国的工业革命时期，也是文学、艺术和科学领域的鼎盛时期。”",
+    "lang": "CN",
+    "output": "维多利亚时期是英国历史上最长的时期，从1837年到1901年，是英国的工业革命时期，也是文学、艺术和科学领域的鼎盛时期。\n\n* 维多利亚时期是英国历史上最长的时期，从1837年到1901年。\n* 维多利亚时期是英国的工业革命时期。\n* 维多利亚时期是文学、艺术和科学领域的鼎盛时期。",
+    "question_num": 420,
+    "source": "BELLE",
+    "type": "Rewrite"
+  },
+  {
+    "instruction": "请根据以下问题，对下文进行改写我正在做我的作业，突然听到了外面的喧闹声。问题你听到了什么？你在做什么？。",
+    "lang": "CN",
+    "output": "听到了外面的声音，可能是有人打闹门窗或者敲响门窗。我正在做作业，因此需要集中注意力，请稍后再来。",
+    "question_num": 405,
+    "source": "BELLE",
+    "type": "Rewrite"
+  },
+  {
+    "instruction": "请将下面这段文本进行改写，使得它更加流畅。我对这个问题非常感兴趣，我曾经做了一些研究。在我看来，这个问题非常重要，因为它涉及到我们的未来。",
+    "lang": "CN",
+    "output": "这个问题非常重要，因为它涉及到我们的未来。我对这个问题非常感兴趣，我曾经做了一些研究。我认为，我们应该采取行动，以保护我们的未来。这可能需要我们做出一些艰难的决定，但是这是我们应该做的事情。我们应该尽可能地利用我们的资源，以减少对环境的影响。这可能需要我们改变我们的生活方式，但是这是我们应该做的事情。我们应该为我们的未来做出贡献，并继续努力，以确保我们的未来是更加美好的。",
+    "question_num": 424,
+    "source": "BELLE",
+    "type": "Rewrite"
+  },
+  {
+    "instruction": "根据以下语境改写句子。原句我不是很清楚这个问题的答案。语境我只知道一点点，不足以回答你的问题。",
+    "lang": "CN",
+    "output": "我不能确定这个问题的答案。\n\n(1) 我不清楚这个问题的答案。\n(2) 我只知道一点点，不能回答你的问题。",
+    "question_num": 409,
+    "source": "BELLE",
+    "type": "Rewrite"
+  },
+  {
+    "instruction": "请给出一份有关机器学习的文章，并对其进行摘要。:　　其实，机器学习跟模式识别，统计学习，数据挖掘，计算机视觉，语音识别，自然语言处理等领域有着很深的联系。\n　　从范围上来说，机器学习跟模式识别，统计学习，数据挖掘是类似的，同时，机器学习与其他领域的处理技术的结合，形成了计算机视觉、语音识别、自然语言处理等交叉学科。因此，一般说数据挖掘时，可以等同于说机器学习。同时，我们平常所说的机器学习应用，应该是通用的，不仅仅局限在结构化数据，还有图像，音频等应用。",
+    "lang": "CN",
+    "output": "机器学习是一种计算机科学领域，让计算机能够根据以往的经验来自我学习，而不需要人类干预。它与模式识别、统计学习、数据挖掘等领域有着密切的联系。机器学习技术的应用范围非常广泛，包括图像、音频等不结构化数据的处理，以及结构化数据的分析和预测。在这些领域中，机器学习技术已经成为了解决问题的主要手段。因此，机器学习是一个非常重要的技术，它将为我们带来更多的便利和创新。",
+    "question_num": 444,
+    "source": "BELLE",
+    "type": "Summarization"
+  },
+  {
+    "instruction": "请摘要以下这篇长篇文章:有时候，跟风不一定是对的！近日，很多人在湖北疯狂抢购东风雪铁龙C6，作为一款B级车，C6目前的价格的确很香。以现在还能排队买到的C6舒适版为例，补贴后裸车价13.68万元，但如果仔细对比C6舒适版去年就卖15.5万元的价格，你会发现如今的C6相比去年，其实只便宜了2万元左右。\n相比于很香的东风雪铁龙C6，其实它的同门兄弟东风标致508L更香。和C6一样，508L也是一款低调奢华的超值良心车，TA可以跑赢400W赛车，也可以挑战“不可能”，成功截停直升机，最为关键的是，在这波湖北政企补贴的支持下，508L直接降4万元，实际成交价比C6优惠更多，力度更大，而且不会抢不到车。",
+    "lang": "CN",
+    "output": "近日，很多人在湖北疯狂抢购东风雪铁龙C6，这是一款B级车，目前的价格确很香。补贴后裸车价为13.68万元。如果对比C6舒适版去年的价格，那么C6相比去年仅仅便宜了2万元左右。相比于很香的东风雪铁龙C6，其实它的同门兄弟东风标致508L更香。508L也是一款低调奢华的超值良心车，TA可以跑赢400W赛车，也可以挑战“不可能”，成功截停直升机，最为关键的是，在这波湖北政企补贴的支持下，508L直接降4万元，实际成交价比C6优惠更多，力度更大，而且不会抢不到车。",
+    "question_num": 435,
+    "source": "BELLE",
+    "type": "Summarization"
+  },
+  {
+    "instruction": "Summarize the following reading passage: \n The source of the leak at the Minnesota plant is a pipe running over a narrow gap between two buildings at the facility. The company says it's recovered almost a third of the radioactive material, but levels of tritium on the site remain well above the Environmental Protection Agency's threshold for safe drinking water. Tritium is a radioactive form of hydrogen and a byproduct of nuclear power generation. Xcel says the contaminated water has been fully contained on site and poses no risk to local communities or the environment.",
+    "lang": "EN",
+    "output": "A pipe at the Xcel Energy nuclear plant in Minnesota has been leaking tritium, a radioactive form of hydrogen. The company has recovered almost a third of the leaked material and contained it on site, but levels of tritium remain high. The Environmental Protection Agency considers these levels unsafe for drinking water. Xcel Energy says there is no risk to local communities or the environment.",
+    "question_num": 40,
+    "source": "human|YanChao",
+    "type": "Summarization"
+  },
+  {
+    "instruction": "根据以下段落总结其摘要:无农不稳、无粮则乱。农业保的是生命安全、生存安全，粮食安全是国家安全的重要基础。我国粮食生产连年丰收，但粮食需求仍呈刚性增长态势，供求将长期处于紧平衡状态，确保中国人的饭碗任何时候都牢牢端在自己手中，任务仍十分繁重。河南作为全国重要农业大省，必须站在服务保障国家大局的高度，把加快建设农业强省摆在重要位置，始终把粮食安全扛在肩上、抓在手上，做好新时代新征程“三农”工作，为建设农业强国展现更大担当、贡献更多力量。",
+    "lang": "CN",
+    "output": "农业保是保障国家安全和人民生命安全的重要基础。尽管我国农业生产连年丰收，但由于刚性增长的粮食需求，供求将长期处于紧平衡状态，确保中国人的饭碗任何时候都牢牢端在自己手中。河南作为全国重要农业大省，必须站在服务保障国家大局的高度，加快建设农业强省，把粮食安全扛在肩上、抓在手上，做好新时代新征程“三农”工作，为建设农业强国展现更大担当、贡献更多力量。\n\n摘要：我国农业保是生命安全和国家安全的重要基础。尽管我国农业生产连年丰收，但由于刚性增长的粮食需求，供求将长期处于紧平衡状态，确保中国人的饭碗任何时候都牢牢端在自己手中。河南作为全",
+    "question_num": 446,
+    "source": "BELLE",
+    "type": "Summarization"
+  },
+  {
+    "instruction": "Summarize the following reading passage: \n A new study has found that regular exercise can reduce the risk of heart disease by up to 30%. The study involved over 10,000 participants and found that even moderate exercise, such as brisk walking or cycling, can have a significant impact on heart health.",
+    "lang": "EN",
+    "output": "A recent study has revealed that regular exercise can significantly reduce the risk of heart disease by up to 30%. The study, which involved over 10,000 participants, found that even moderate exercise, such as brisk walking or cycling, can have a positive impact on heart health. The findings suggest that incorporating physical activity into one's daily routine can have significant benefits for overall cardiovascular health.",
+    "question_num": 440,
+    "source": "BELLE",
+    "type": "Summarization"
+  },
+  {
+    "instruction": "请从以下文章中摘要出主要内容:人工智能在生活中的应用有1、虚拟个人助理，使用者可通过声控、文字输入的方式，来完成一些日常生活的小事；2、语音评测，利用云计算技术，将自动口语评测服务放在云端，并开放API接口供客户远程使用；3、无人汽车，主要依靠车内的以计算机系统为主的智能驾驶仪来实现无人驾驶的目标；4、天气预测，通过手机GPRS系统，定位到用户所处的位置，在利用算法，对覆盖全国的雷达图进行数据分析并预测。",
+    "lang": "CN",
+    "output": "人工智能在生活中的应用有：\n\n1. 虚拟个人助理，通过声控和文字输入完成日常生活的小事。\n2. 语音评测，将自动口语评测服务放在云端，并提供API接口供客户远程使用。\n3. 无人汽车，利用计算机系统为主的智能驾驶仪实现无人驾驶。\n4. 天气预测，通过手机GPRS系统、算法对全国雷达图进行数据分析并预测。\n\n这些应用旨在提高人们的生活质量，减少人工干预，并且有助于人们更好地掌握生活中的信息和资源。",
+    "question_num": 448,
+    "source": "BELLE",
+    "type": "Summarization"
+  },
+  {
+    "instruction": "请为这篇文章选择一个适当的标题:自然语言处理还可以将积压的病例自动批量转化为结构化数据库，机器学习和自然语言处理技术能自动抓取病历中的临床变量，生成标准化的数据库。随后变量抽提、思路生成到论文图表导出的全过程辅助智能算法能挖掘变量相关性，激发论文思路，同 时提供针对临床科研的专业统计分析支持。\n其水平相当于受过8 年临床医学教育的医学研究生，这样下来同样同读一篇50页的病历，抓取和理解其中的所有临床信息速度比医生平均快2700倍，大大地提高了医院的办公效率，求医难这个问题将得到很多的缓解。",
+    "lang": "CN",
+    "output": "机器学习和自然语言处理技术在病历自动化处理中的应用\n\n自然语言处理技术在病历自动化处理中的应用\n\n自然语言处理技术在病历自动化处理中的应用\n\n自然语言处理技术在病历自动化处理中的应用\n\n自然语言处理技术在病历自动化处理中的应用\n\n自然语言处理技术在病历自动化处理中的应用\n\n自然语言处理技术在病历自动化处理中的应用\n\n自然语言处理技术在病历自动化处理中的应用\n\n自然语言处理技术在病历自动化处理中的应用\n\n自然语言处理技术在病历自动化处理中的应用\n\n自然语言处理技术在病历自动化处理中的应用\n\n自然语言处理技术在病历自动化处理中的应用\n\n自然语言处理技术在病历自动化处理中的应用\n\n自然语言处理技术在�",
+    "question_num": 442,
+    "source": "BELLE",
+    "type": "Summarization"
+  },
+  {
+    "instruction": "总结下列阅读材料：\n 第一，作为最高法院，我们是所有诉诸司法的最后手段。第二，基于司法复核权，最高法院在确保各政府部门的权力限制起关键性作用。第三，最高法院可以推翻违宪的法律来确保民权与自由。最后，最高法院会对多数人民主侵害少数人权力的行为设置合适的限制。",
+    "lang": "CN",
+    "output": "最高法院是最终审理所有诉诸司法的最高机构，其司法复核权确保政府权力的限制。在确保民权与自由的同时，最高法院可以推翻违宪的法律。最高法院通常对人民的主权占据少数人的行为进行限制。这些材料揭示了最高法院在保障法律秩序和人权的作用。",
+    "question_num": 41,
+    "source": "human|YanChao",
+    "type": "Summarization"
+  },
+  {
+    "instruction": "请简单总结以下文章:区块链，就是一个又一个区块组成的链条。每一个区块中保存了一定的信息，它们按照各自产生的时间顺序连接成链条。这个链条被保存在所有的服务器中，只要整个系统中有一台服务器可以工作，整条区块链就是安全的。这些服务器在区块链系统中被称为节点，它们为整个区块链系统提供存储空间和算力支持。如果要修改区块链中的信息，必须征得半数以上节点的同意并修改所有节点中的信息，而这些节点通常掌握在不同的主体手中，因此篡改区块链中的信息是一件极其困难的事。相比于传统的网络，区块链具有两大核心特点一是数据难以篡改、二是去中心化。基于这两个特点，区块链所记录的信息更加真实可靠，可以帮助解决人们互不信任的问题。",
+    "lang": "CN",
+    "output": "区块链是一种数据存储技术，它是由一个又一个区块组成的链条，每一个区块中保存了一定的信息。这个链条被保存在所有的服务器中，只要有一台服务器可以工作，整条区块链就是安全的。服务器在区块链系统中被称为节点，它们提供存储空间和算力支持。要修改区块链中的信息，必须征得半数以上节点的同意并修改所有节点中的信息。这些节点通常掌握在不同的主体手中，因此篡改区块链中的信息是一件极其困难的事。区块链具有两大核心特点：数据难以篡改和去中心化。基于这两个特点，区块链所记录的信息更加真实可靠，可以帮助解决人们互不信任的问题。",
+    "question_num": 434,
+    "source": "BELLE",
+    "type": "Summarization"
+  },
+  {
+    "instruction": "总结以下这篇文章的主要观点和结论:理念是行动的先导。立足新发展阶段，中国秉持创新、协调、绿色、开放、共享的新发展理念，加快构建新发展格局。在新发展理念中，绿色发展是永续发展的必要条件和人民对美好生活追求的重要体现，也是应对气候变化问题的重要遵循。绿水青山就是金山银山，保护生态环境就是保护生产力，改善生态环境就是发展生产力。应对气候变化代表了全球绿色低碳转型的大方向。中国摒弃损害甚至破坏生态环境的发展模式，顺应当代科技革命和产业变革趋势，抓住绿色转型带来的巨大发展机遇，以创新为驱动，大力推进经济、能源、产业结构转型升级，推动实现绿色复苏发展，让良好生态环境成为经济社会可持续发展的支撑。",
+    "lang": "CN",
+    "output": "该文章主要讨论中国在新发展阶段中秉持创新、协调、绿色、开放、共享的新发展理念，以及绿色发展在永续发展中的重要性。文章指出，绿色发展是保护生态环境和生产力的重要遵循，而改善生态环境也是发展生产力的重要方向。中国正在顺应当代科技革命和产业变革趋势，抓住绿色转型带来的巨大发展机遇，以创新为驱动，大力推进经济、能源、产业结构转型升级，推动实现绿色复苏发展，让良好生态环境成为经济社会可持续发展的支撑。\n’’",
+    "question_num": 436,
+    "source": "BELLE",
+    "type": "Summarization"
+  },
+  {
+    "instruction": "根据以下文章回答下面问题：零跑公司的毛利率是什么情况？ 文章内容\n造车新势力二梯队中，唯一成功上市的零跑汽车，发布了2022年财务业绩。零跑的年收入从2021年的31亿元，翻三倍至124亿元，但同时净亏损也从29亿元扩大至51亿元。公司的毛利率依然是负数，短期内赚钱不太现实，不过相比之前已经有很大程度改善。截至去年底，零跑公司的账上有88亿元现金，数量不算多，但也够它再跑一段时间了。在香港上市以来，零跑的股价在挂牌首日即跌破发行价，大跌33.5%，至今半年累计跌去37.5%，市值350亿港元。",
+    "lang": "CN",
+    "output": "根据公司发布的2022年财务业绩，零跑公司的年收入翻倍至124亿元，但净亏损也扩大至51亿元，公司的毛利率依然是负数。虽然公司的赚钱现实性有所改善，但公司截至去年底仍有88亿元现金，数量不算多。在香港上市以来，零跑公司的股价在挂牌首日即跌破发行价，大跌33.5%，至今半年累计跌去37.5%，市值350亿港元。",
+    "question_num": 396,
+    "source": "BELLE",
+    "type": "ClosedQA"
+  },
+  {
+    "instruction": "根据以下文本，回答问题“纽约大都会博物馆的开放时间是什么时候？”:纽约大都会博物馆开放时间，10:00-17:30。周五和周六会延长到晚上21:00,18:00以后游客会特别少，特别安静。",
+    "lang": "CN",
+    "output": "纽约大都会博物馆的开放时间是周一至周日10:00-17:30。周五和周六的开放时间将延长到晚上21:00，但游客数量有限，特别是在18:00以后的时候。\n\n在这里，我们可以看到纽约大都会博物馆的开放时间是周一至周日10:00-17:30。这意味着在这些日子，博物馆的门离开始时间为10:00，结束时间为17:30。每周一至周日都是同一个时间段。\n\n此外，我们还可以看到周五和周六的开放时间将延长到晚上21:00。这意味着在这些日子，博物馆的门离开始时间为10:00，结束时间为21:00。这意味着在这些日子，博物馆的门离开始时间为10:00，结束时间为21:00。每周五和周六都是同一个时间段。\n\n最后，我们还可以看到在18:00以后的时候，",
+    "question_num": 393,
+    "source": "BELLE",
+    "type": "ClosedQA"
+  },
+  {
+    "instruction": "请根据以下文本回答问题“为什么人们应该多吃水果和蔬菜？”:研究表明，水果和蔬菜富含维生素、矿物质和其他营养物质，这些营养物质对身体健康非常重要。",
+    "lang": "CN",
+    "output": "人们应该多吃水果和蔬菜，因为它们富含维生素、矿物质和其他营养物质，这些营养物质对身体健康非常重要。研究表明，水果和蔬菜可以帮助预防某些疾病，如糖尿病、心脏病和癌症等。此外，水果和蔬菜还可以帮助人们保持健康的体重，因为它们含有较少的热量和蛋白质。最好的方法是，每天摄入足够的水果和蔬菜，以获得所需的营养物质。\n\n![image](https://cdn.pixabay.com/photo/2014/12/16/22/25/fruit-vegetables-222588_1280.jpg)\n\n含有各种营养物质的水果和蔬菜可以为身体提供所需的维生素和矿物质。",
+    "question_num": 397,
+    "source": "BELLE",
+    "type": "ClosedQA"
+  },
+  {
+    "instruction": "请从以下选项中选择最适合的单词填空:这个盒子太____，我们无法把它抬起来。选项大、重、宽、高。",
+    "lang": "CN",
+    "output": "根据上下文，最适合的单词填空是“重”。因为在文中提到“这个盒子太重，我们无法把它抬起来”，所以“重”是最佳选项。如果盒子太大或太宽，它就会难以抬起来，但是如果盒子太高或太小，它就不会难以抬起来。",
+    "question_num": 397,
+    "source": "BELLE",
+    "type": "ClosedQA"
+  },
+  {
+    "instruction": "Please choose the correct part of speech from the following options to fill in the blanks:“The cat ________ the mouse.” (a. chased b. was chased by c. was chased to d. chasing)",
+    "lang": "EN",
+    "output": "The correct part of speech to fill in the blank is option (a) \"chased.\" In this sentence, the cat is the subject performing the action of chasing the mouse.\n\nExplanation:\n\nThe sentence \"The cat chased the mouse\" is in the active voice, which means that the subject (the cat) is performing the action (chasing) on the object (the mouse). The verb \"chased\" is in the -ed form, which indicates that the action is in the past tense. The sentence does not indicate any other objects or agents, so the subject is the only one performing the action. Therefore, the correct part of speech to fill in the blank is \"chased.\"",
+    "question_num": 392,
+    "source": "BELLE",
+    "type": "ClosedQA"
+  },
+  {
+    "instruction": "Answer the following question: Who is the founder of Apple inc?\n A) Bill Gates \n B) Elon Masks \n C) Steve Jobs \n D) Jeff Bezos",
+    "lang": "EN",
+    "output": "The correct answer is C) Steve Jobs.\n\nSteve Jobs was the co-founder of Apple Inc. along with Steve Wozniak. He was known for his innovative ideas and leadership, which helped to make Apple one of the most successful technology companies in the world. Jobs was instrumental in the development of many of Apple's iconic products, including the Macintosh computer, the iPod, the iPhone, and the iPad. He was also known for his distinctive style and presentation, which helped to make Apple's products desirable and innovative. Jobs passed away in 2011, but his legacy continues to influence the technology industry.",
+    "question_num": 43,
+    "source": "human|YanChao",
+    "type": "ClosedQA"
+  },
+  {
+    "instruction": "Please choose one of the following words to fill in the blank:\"I _____ my keys at home this morning.\",\"left, lost, forgot, found\",",
+    "lang": "EN",
+    "output": "I usually forget my keys at home this morning.\n\n번역결과  \n영어로 대답하십시오.한글 작성번역결과I usually forget my keys at home this morning.",
+    "question_num": 398,
+    "source": "BELLE",
+    "type": "ClosedQA"
+  },
+  {
+    "instruction": "请从以下选项中选择正确的单词填入空格中，使得句子语法正确:我 __ 看过这个电影。选项a.已经 b.很少 c.经常,",
+    "lang": "CN",
+    "output": "选项a.已经不正确，因为它表示过去时态，而在这个句子中需要现在时态的动词。选项b.很少也不正确，因为它表示程度，而在这个句子中需要表示时间。选项c.经常是正确的，因为它表示频率或频率度，可以用来描述电影的看过次数。所以正确的答案是：我经常看过这个电影。\n\n同理性问题：\n\n1. 我们一起做朋友，他们很高兴。\n\t* 我们一起做朋友，他们很高兴。\n\t+ 正确\n\t+ 错误\n\t+ 描述什么\n\t+ 解释什么\n2. 我们一起做朋友，他们很高兴。\n\t* 我们一起做朋友，他们很高兴。\n\t+ 正确\n\t+ 错误\n\t+ 描述什么\n\t+ 解释什么",
+    "question_num": 394,
+    "source": "BELLE",
+    "type": "ClosedQA"
+  },
+  {
+    "instruction": "根据以下文章回答下面问题：为什么其他厂商不能使用第一代N3工艺？\n文章内容\n台积电去年底量产了3nm工艺，不过第一代3nm工艺N3成本实在太高，产能也少，所以只有财大气粗的苹果才会首发使用，其他厂商要到明年的第二代N3E工艺才会使用3nm工艺。",
+    "lang": "CN",
+    "output": "其他厂商不能使用第一代N3工艺，主要是因为它的成本实在太高，产能也不足以满足其他厂商的需求。这是因为，在制造3nm工艺时需要使用的设备和工艺都非常复杂和昂贵，而且3nm工艺的制造过程需要很高的精度和纯度，这也增加了成本。此外，由于3nm工艺的产能不足，其他厂商需要购买更多的设备和材料来生产相同的规模，这也会增加成本。因此，只有财大气粗的苹果才能承担这些成本，而其他厂商则需要等待第二代N3E工艺的出现。",
+    "question_num": 392,
+    "source": "BELLE",
+    "type": "ClosedQA"
+  },
+  {
+    "instruction": "根据以下句子回答问题“他们去了哪里？”:今天早上，小明和他的家人开车出门去了",
+    "lang": "CN",
+    "output": "今天早上，小明和他的家人去了公园。",
+    "question_num": 395,
+    "source": "BELLE",
+    "type": "ClosedQA"
+  },
+  {
+    "instruction": "请根据以下输入分类这些狗的品种:拉布拉多、贵宾、哈士奇、柯基、柴犬",
+    "lang": "CN",
+    "output": "拉布拉多、贵宾、哈士奇、柯基、柴犬这五种狗的品种分类如下：\n\n1. 拉布拉多（Labrador Retriever）：是一种温和、友好、忠诚、聪明的狗，常被用作宠物和辅助狗。\n2. 贵宾（Poodle）：是一种高贵、聪明、活泼、适应力强的狗，常被用于宠物和展示。\n3. 哈士奇（Great Dane）：是一种强壮、高大、忠诚、友好的狗，常被用作守卫狗和宠物。\n4. 柯基（German Shepherd）：是一种聪明、忠诚、勇敢、警惕的狗，常被用于守卫、救援和警察等工作。\n5. 柴犬（Beagle）：是一种活泼、友好、聪明、忠诚的狗，常被用于宠物和辅助狗工作。",
+    "question_num": 208,
+    "source": "BELLE",
+    "type": "Classification"
+  },
+  {
+    "instruction": "请根据以下输入，分类出它属于哪个国家的美食:“寿司、生鱼片、天妇罗、炸豆腐”",
+    "lang": "CN",
+    "output": "这些食物属于日本的美食。日本的美食以其独特的味道和营养丰富的饮食闻名。其中，寿司是日本最著名的美食之一，是一种由鱼、虾、蔬菜等食材制作而成的海鲜卷壽。生鱼片是一种由新鲜鱼肉制作而成的食品，通常会搭配米饭一起食用。天妇罗是一种由鸡蛋、豆腐、香菜等食材制作而成的炒饭，是日本传统的家庭菜肴之一。炸豆腐是一种由豆腐、面粉、鸡蛋等食材制作而成的小吃，常常在日本的餐厅和街头小吃店里找到。",
+    "question_num": 212,
+    "source": "BELLE",
+    "type": "Classification"
+  },
+  {
+    "instruction": "请将以下这篇文章分类为新闻报道、科学文章或社论:据媒体新闻援引美国福克斯新闻网报道，美国伯克希尔哈撒韦公司首席执行官、著名投资人巴菲特近日就美国银行业危机与总统拜登的团队进行对话。外界较为关注的是，巴菲特可能以某种方式投资美国地区性银行。据了解，这位亿万富翁在通话中针对当前危机给出了意见和指导。长期以来，巴菲特一直在帮助处于危机中的银行，其中包括美国银行和高盛。",
+    "lang": "CN",
+    "output": "这篇文章可以分为社论类别。\n\n据媒体新闻报道，著名投资人巴菲特近日与伯克希尔哈撒韦公司的首席执行官进行了对话，关注者纷纷关注这次对话是否涉及巴菲特投资美国银行业。巴菲特在通话中针对当前银行危机给出了意见和指导，长期以来他一直在帮助处于危机中的银行，包括美国银行和高盛。\n\n这个新闻报道主要介绍了巴菲特在伯克希尔哈撒韦公司与总统拜登团队的对话中的意见和指导，以及他对当前银行危机的看法。这个新闻报道也引起了社会的关注，因为巴菲特是一位著名的投资人，他投资的行为往往会对市场产生重要影响。\n\n总的来说，这篇文章主要是介",
+    "question_num": 210,
+    "source": "BELLE",
+    "type": "Classification"
+  },
+  {
+    "instruction": "请将以下文本分类为正面、负面或中性情感:这家餐厅的食物非常好吃，但服务有待改善",
+    "lang": "CN",
+    "output": "正面情感：这家餐厅的食物非常好吃。\n\n中性情感：这家餐厅的食物和服务都有待改善。\n\n负面情感：这家餐厅的食物不够好吃，服务也有待改善。",
+    "question_num": 205,
+    "source": "BELLE",
+    "type": "Classification"
+  },
+  {
+    "instruction": "请将以下品牌分为时装品牌或运动品牌:Adidas、Gucci、Nike、Puma",
+    "lang": "CN",
+    "output": "Adidas和Puma是时装品牌，Gucci和Nike是运动品牌。\n\nAdidas和Puma都是时装品牌，它们生产和销售各种时尚服饰，包括运动鞋、球衣、运动服装等。Adidas是德国企业，成立于1949年，是全球最知名的运动品牌之一。Puma也是德国企业，成立于1948年，以生产高品质的运动鞋而著名。\n\nGucci是一家意大利时尚品牌，成立于1921年。它生产和销售各种高档时尚产品，包括服装、鞋子、袋子、配饰等。Gucci在全球范围内都有大量的销售点和品牌店。\n\nNike是一家美国运动品牌，成立于1964年。它生产和销售各种运动鞋和运动服装，以其高品质和时尚的产品而著名。Nike在全球范围内都有大量的销售点和品",
+    "question_num": 202,
+    "source": "BELLE",
+    "type": "Classification"
+  },
+  {
+    "instruction": "请判断下列文本属于什么类型的新闻:\n华为正式官宣进军ERP 市场。3 月17 日，华为创始人任正非在“难题揭榜”火花奖公司内外的获奖者及出题专家座谈会上表示，2023年4 月份 MetaERP 将会宣誓，完全用自己的操作系统、数据库、编译器和语言，做出了自己的管理系统MetaERP 软件。MetaERP 已经历了公司全球各部门的应用实战考验，经过了华为的总账使用年度结算考验，已成功地证明MetaERP 是有把握推广的。这是在市场传言已久后，华为首次官方口径承认MetaERP 存在，并且在官方口径认可未来MetaERP 即将面向市场推广。",
+    "lang": "CN",
+    "output": "这段文本属于企业新闻类型。文章介绍了华为正式进军ERP市场，并且宣布MetaERP软件将在2023年4月宣布。文章还提到MetaERP已经经过公司全球各部门的应用实战考验和华为的总账使用年度结算考验，并成功证明了MetaERP的有把握。最后，文章表明这是华为首次官方口径承认MetaERP存在，并即将面向市场推广。",
+    "question_num": 209,
+    "source": "BELLE",
+    "type": "Classification"
+  },
+  {
+    "instruction": "请根据以下段落，判断该段落属于哪个学科领域:“人类的DNA由四种碱基组成腺嘌呤、胞嘧啶、鸟嘌呤和胸腺嘧啶。这些碱基的排列顺序决定了DNA所携带的遗传信息。”",
+    "lang": "CN",
+    "output": "这段落属于生物学领域。它涉及到人类DNA的组成和遗传信息的携带。DNA的四种碱基是腺嘌呤、胞嘧啶、鸟嘌呤和胸腺嘧啶，它们的排列顺序决定了DNA所携带的遗传信息。\n\n碱基是生物学中的基本单位，它们组成了DNA，是遗传信息的载体。生物学是研究生命的科学，它研究生命的结构、功能、演化和生态等方面的问题。DNA的组成和遗传信息的携带是生物学中重要的研究领域。",
+    "question_num": 201,
+    "source": "BELLE",
+    "type": "Classification"
+  },
+  {
+    "instruction": "将以下文本分类为新闻、广告、还是论坛帖子:“最新款iPhone 13现已上市，速来选购！”",
+    "lang": "CN",
+    "output": "这段文本是一个广告，它涉及到最新款iPhone 13的销售。\n\n理由：这个文本是一个明确的商业广告，它涉及到iPhone 13的销售，并且强调了该产品的新鲜性和购买建议。\n\n建议分类：广告\n\n字数：16字",
+    "question_num": 206,
+    "source": "BELLE",
+    "type": "Classification"
+  },
+  {
+    "instruction": "根据以下信息，将以下句子分类为肯定、否定、疑问句或祈使句:“你明天会来参加我的派对吗？”",
+    "lang": "CN",
+    "output": "这句话可以分为祈使句。其中的词语\"会来\"表示希望或请求，而\"我的派对\"则表示对方的参加是希望的。因此，这句话的意思是\"你希望明天能来参加我的派对吗？\"。",
+    "question_num": 213,
+    "source": "BELLE",
+    "type": "Classification"
+  },
+  {
+    "instruction": "请为以下名人进行职业分类:王菲、李连杰、周星驰、蔡依林，分类为歌手、演员、导演",
+    "lang": "CN",
+    "output": "王菲 歌手\n\n李连杰 演员\n\n周星驰 导演\n\n蔡依林 演员",
+    "question_num": 213,
+    "source": "BELLE",
+    "type": "Classification"
+  },
+  {
+    "instruction": "请根据以下句子，提取其中的人名和地名:“在约翰·史密斯教授的指导下，研究小组前往非洲进行考察。”",
+    "lang": "CN",
+    "output": "人名：约翰·史密斯\n\n地名：非洲",
+    "question_num": 346,
+    "source": "BELLE",
+    "type": "Extract"
+  },
+  {
+    "instruction": "Extract all movie names from the text below:\nTitanic is a 1997 American epic romance and disaster film directed, written, co-produced, and co-edited by James Cameron. A fictionalized account of the sinking of the RMS Titanic, it stars Leonardo DiCaprio and Kate Winslet as members of different social classes who fall in love aboard the ship during its ill-fated maiden voyage.",
+    "lang": "EN",
+    "output": "The movie names mentioned in the text are:\n1. Titanic\nPlease note that the text only mentions the movie \"Titanic\" and does not provide any information about any other movies.",
+    "question_num": 334,
+    "source": "BELLE",
+    "type": "Extract"
+  },
+  {
+    "instruction": "根据下面的文本，提取出人物的信息:“汤姆和杰瑞是两只老鼠，他们经常在一起玩耍。汤姆身上有深灰色的皮毛，而杰瑞则是浅灰色的。”",
+    "lang": "CN",
+    "output": "这里有两只老鼠，它们都是男性。汤姆有深灰色的皮毛，而杰瑞则有浅灰色的皮毛。",
+    "question_num": 341,
+    "source": "BELLE",
+    "type": "Extract"
+  },
+  {
+    "instruction": "请找出现在在欧盟的国家。\n 德国，印度，法国，美国，俄罗斯，巴西，波兰，英国，地球联邦",
+    "lang": "CN",
+    "output": "现在在欧盟的国家有德国、印度、法国、美国、俄罗斯、巴西、波兰、英国和地球联邦。",
+    "question_num": 47,
+    "source": "human|YanChao",
+    "type": "Extract"
+  },
+  {
+    "instruction": "从以下文本中提取出所有的日期:“在2022年的五月一日，我和朋友们去了北京旅行，我们在五月二日返回”",
+    "lang": "CN",
+    "output": "在2022年的五月一日，我和朋友们去了北京旅行。\n\n我们在五月二日返回。",
+    "question_num": 344,
+    "source": "BELLE",
+    "type": "Extract"
+  },
+  {
+    "instruction": "请根据以下描述，提取出所有的地点信息:我打算去纽约、洛杉矶和旧金山旅行。",
+    "lang": "CN",
+    "output": "根据您的描述，您打算去纽约、洛杉矶和旧金山旅行。这三个地点都位于美国加利福尼亚州。纽约是美国的最大城市，拥有世界著名的时代广场、帝国大厦和中央公园等景点。洛杉矶是一个繁华的商业城市，有许多高档购物中心、餐厅和博物馆。旧金山是一个历史悠久的小镇，有许多古老的建筑和景点，如圣若瑟华盛顿庙、旧金山诺皮奥学院和旧金山国际马戏盒园等。",
+    "question_num": 348,
+    "source": "BELLE",
+    "type": "Extract"
+  },
+  {
+    "instruction": "从以下文本中提取电子邮件地址:\"请发送邮件至john@example.com或致电+1-555-123-4567联系我们。\"",
+    "lang": "CN",
+    "output": "电子邮件地址：[john@example.com](mailto:john@example.com)\n\n请注意，电子邮件地址的格式必须遵循标准，以便正确地传递电子邮件。在这个例子中，电子邮件地址是john@example.com。如果您需要联系作者，您可以致电+1-555-123-4567。",
+    "question_num": 340,
+    "source": "BELLE",
+    "type": "Extract"
+  },
+  {
+    "instruction": "请在以下文字中找到所有的“AI”（大写）单词并将其替换为“人工智能”:\nAIGC是指利用人工智能技术来生成内容，AI聊天、 AI绘画、AI写作等都属于AIGC的分支。在视频创作领域，AI辅助甚至主导完成内容创作的AIGC模式正被关注。在“Q.AI”的视频生成模块中，用户只需输入文本，平台根据自动语义分析，并在几分钟内完成一个完整的短视频。包括画面素材、背景音乐、旁白配音以及字幕的匹配，都是由AI自动生成。",
+    "lang": "CN",
+    "output": "AIGC是指利用人工智能技术来生成内容，如AI聊天、AI绘画、AI写作等。在视频创作领域，AI辅助甚至主导完成内容创作的AIGC模式正被关注。“Q.AI”视频生成模块可以根据用户输入的文本，自动进行语义分析，并在几分钟内完成一个完整的短视频，包括画面素材、背景音乐、旁白配音以及字幕的匹配，都是由AI自动生成。",
+    "question_num": 342,
+    "source": "BELLE",
+    "type": "Extract"
+  },
+  {
+    "instruction": "请根据以下文本，提取出其中所有人名和他们所在的组织机构名称:张三是某公司的总裁，李四是这个公司的首席财务官，王五是公司的销售经理。",
+    "lang": "CN",
+    "output": "张三 - 某公司的总裁\n\n李四 - 某公司的首席财务官\n\n王五 - 某公司的销售经理",
+    "question_num": 336,
+    "source": "BELLE",
+    "type": "Extract"
+  },
+  {
+    "instruction": "请从以下文章中提取出所有的人名。“在今天的新闻发布会上，总统约翰逊宣布了一项新的经济计划。”",
+    "lang": "CN",
+    "output": "约翰逊\n\nPlease write in Chinese language.",
+    "question_num": 335,
+    "source": "BELLE",
+    "type": "Extract"
+  },
+  {
+    "instruction": "什么是调试？",
+    "lang": "CN",
+    "output": "调试是一种用于识别和解决软件系统中的问题和错误的过程。通过调试，开发人员可以找出程序中存在的问题，并且修复这些问题，以保证程序能够正常运行。调试通常包括一系列工具和技术，例如调试器、日志分析工具、代码解析工具等。通过使用这些工具和技术，开发人员可以追踪程序的执行过程，检查程序中的数据和变量，以及检查程序的输出和结果。调试是软件开发的重要环节，它有助于提高软件质量，并且使得软件更加稳定和可靠。",
+    "question_num": 236,
+    "source": "BELLE",
+    "type": "Code"
+  },
+  {
+    "instruction": "如何在Python中读取和写入CSV文件？",
+    "lang": "CN",
+    "output": "在Python中读取和写入CSV文件可以使用pandas库中的read\\_csv()和to\\_csv()方法。首先，使用read\\_csv()方法读取CSV文件，然后将数据存储到一个DataFrame中。接下来，可以使用DataFrame中的行或列范围进行数据操作，例如数据过滤、数据转换、数据统计等。最后，使用to\\_csv()方法将DataFrame中的数据写入CSV文件。\n\n下面是一个简单的示例代码：\n```python\nimport pandas as pd\n\n# 读取CSV文件\ndf = pd.read_csv('data.csv')\n\n# 进行数据操作\nfiltered_df = df[df['age'] > 25]\n\n# 写入CSV文件\nfiltered_df.to_csv('filtered_data.csv', index=False)\n```\n需要注意的是，read\\_csv()方法默认将CSV文件的第一行作为行索引，因此如果CSV文件的第一行是数据行，需要使用index=False参数来禁用行索引。同时，to\\_csv()方法也默认将行索引写入CSV文件的第一行，因此需要使用index=False参数来禁用行索引。",
+    "question_num": 233,
+    "source": "BELLE",
+    "type": "Code"
+  },
+  {
+    "instruction": "给定以下 Go 代码，写出相应的注释\n```go\npackage main\nimport \"fmt\"\nfunc main() {\ni := 0\nfor i < 10 {\nfmt.Println(i)\ni++\n},\n},\n```",
+    "lang": "CN",
+    "output": "这段 Go 代码定义了一个变量 `i` 并使用循环语句循环输出 `i` 的值。\n\n* 在第一行中，定义了一个变量 `i` 并初始化为 0。\n* 在第二行中，使用 `fmt.Println(i)` 打印 `i` 的值，并使用 `i++` 增加 `i` 的值。\n* 在冒号后的语句中，定义了一个循环，该循环使用 `i < 10` 判断条件，当 `i` 小于 10 时才会执行循环内容。\n* 最后一行的 `}` 结束了循环的语句块。\n\n总的来说，这段 Go 代码的功能是输出 `i` 的值，从 0 到 9 逐步输出，最终输出 10 次。",
+    "question_num": 222,
+    "source": "BELLE",
+    "type": "Code"
+  },
+  {
+    "instruction": "“如何使用Python将字符串转换为数字？”",
+    "lang": "CN",
+    "output": "要将字符串转换为数字，可以使用Python中的int()函数。该函数将一个字符串转换为整数。\n\n示例：\n```\n>>> string = \"123\"\n>>> int(string)\n123\n```\n如果字符串中有decimal point，则可以使用float()函数将其转换为浮点数。\n\n示例：\n```\n>>> string = \"123.45\"\n>>> float(string)\n123.45\n```\n如果字符串中只有一位数字，则可以直接将其转换为整数或浮点数。\n\n示例：\n```\n>>> string = \"123\"\n>>> int(string)\n123\n\n>>> string = \"123.45\"\n>>> float(string)\n123.45\n```\n需要注意的是，如果字符串中包含非数字字符，则会抛出ValueError异常。\n\n示例：\n```\n>>> string = \"12a3\"\n>>> int(string)\nTraceback (most recent call last):\n  File \"<stdin>\", line 1, in <module>\nValueError: invalid literal for int() with base 10: 'a'\n```",
+    "question_num": 230,
+    "source": "BELLE",
+    "type": "Code"
+  },
+  {
+    "instruction": "请写出下面函数的注释\n```python\ndef reverse_string(s):\n# This function takes a string and returns a new string that is the reverse of the input string.\nreturn s[::-1]\n```",
+    "lang": "CN",
+    "output": "这个函数将输入的字符串反转并返回一个新的反转字符串。\n```python\ndef reverse_string(s):\n    # 这个函数接受一个字符串作为输入，并返回一个新字符串，该字符串是输入字符串的反转版本。\n    return s[::-1]\n```",
+    "question_num": 219,
+    "source": "BELLE",
+    "type": "Code"
+  },
+  {
+    "instruction": "代码样例与单元测试有什么联系？",
+    "lang": "CN",
+    "output": "代码样例和单元测试是软件测试中的两个重要概念。\n\n代码样例是指在软件开发过程中，针对某一特定的功能模块，编写一组测试用例的集合，用于验证该模块的正确性和质量。代码样例通常包括测试用例、预期结果和测试步骤等内容。\n\n单元测试是指针对软件系统中的一个特定功能或模块，针对该功能或模块进行测试的一个小部分。单元测试通常包括测试用例、预期结果和测试步骤等内容。\n\n代码样例和单元测试的联系在于，代码样例可以作为单元测试的基础，用于构建单元测试用例。通过对代码样例中的测试用例进行修改和补充，可以构建出更多的单元测试用例，从而增加测试的覆盖率和准确性。同时，代码样例也可以作为单元测试的参考，帮助测试人员更好地理解和编写单元测试用例。",
+    "question_num": 224,
+    "source": "BELLE",
+    "type": "Code"
+  },
+  {
+    "instruction": "请为下面的代码写注释\n```python\nimport random\nnum = random.randint(1, 10)\n```",
+    "lang": "CN",
+    "output": "这段代码使用 Python 的 random 模块生成一个随机的整数数字，数字的范围是 1 到 10。\n\n注释：\n```python\nimport random\n```\n这一行导入 Python 中的 random 模块，用于生成随机数字。\n```python\nnum = random.randint(1, 10)\n```\n这一行使用 random.randint() 函数生成一个随机的整数数字，数字的范围是 1 到 10。它将返回一个随机的整数数字，例如 5 或 7。\n\n注释：\n```python\nnum = random.randint(1, 10)\n```\n这一行代码的作用是：使用 random.randint() 函数生成一个随机的整数数字，数字的范围是 1 到 10，将这个数字存储在变量 num 中。",
+    "question_num": 232,
+    "source": "BELLE",
+    "type": "Code"
+  },
+  {
+    "instruction": "写一个函数，函数名为addition，有两个参数a和b，返回它们的和。",
+    "lang": "CN",
+    "output": "以下是一个简单的 JavaScript 函数，名为 `addition`，它接受两个参数 `a` 和 `b`，并返回它们的和。\n\n```javascript\nfunction addition(a, b) {\n  return a + b;\n}\n```\n\n在这个函数中，我们使用了一个变量 `a` 和 `b`，它们分别表示函数的两个参数。然后，我们返回了这两个变量的和。这个函数可以在任何 JavaScript 代码中使用，例如：\n\n```scss\nlet result = addition(3, 4);\nconsole.log(result); // 输出 7\n```\n\n在这个例子中，我们将 `addition` 函数调用，并将其两个参数设置为 3 和 4。然后，我们将函数的返回值赋值给变量 `result`，并将其打印到控制台上。这将输出 `7`。",
+    "question_num": 228,
+    "source": "BELLE",
+    "type": "Code"
+  },
+  {
+    "instruction": "编写一个函数square(x)，返回该数字的平方值。",
+    "lang": "CN",
+    "output": "以下是一个简单的 Python 函数 `square(x)` 的示例，该函数可以计算任意数字的平方值：\n\n```python\ndef square(x):\n    return x ** 2\n```\n\n在这个函数中，我们使用了 Python 中的 `**` 运算符来计算数字的平方值。该运算符可以在任意数字之间进行计算，并且仍然保持 Python 中的简洁和静态类型的优势。\n\n```python\nprint(square(5))  # 输出 25\nprint(square(-2)) # 输出 4\n```\n\n在这个函数的示例中，我们使用了 `print()` 函数来输出函数的结果。我们可以将任意数字作为参数传递给该函数，并且该函数都会返回该数字的平方值。",
+    "question_num": 229,
+    "source": "BELLE",
+    "type": "Code"
+  },
+  {
+    "instruction": "你是怎样管理和组织你的代码的？",
+    "lang": "CN",
+    "output": "作为一个AI模型，我没有自己的代码，但我可以告诉你一些常见的代码组织和管理方法。\n\n一个常见的方法是使用版本控制系统（例如Git）来管理代码。Git可以帮助你追踪代码的更改历史，并且可以让多个开发者同时编辑同一个项目。另外，使用代码审查工具（例如Pylint）可以帮助你检查代码的质量和符合代码规范。\n\n还有一些其他的组织和管理方法，例如使用项目管理工具（例如Jira）来跟踪问题和任务，使用代码总结工具（例如Summarize）来生成代码总结，使用代码质量工具（例如Flake8）来检查代码的语法和语义。\n\n总的来说，好的代码组织和管理方法可以帮助你更好地管理和组织代码，提高代码质量，并且使得开发过程更加高效和可靠。",
+    "question_num": 234,
+    "source": "BELLE",
+    "type": "Code"
+  },
+  {
+    "instruction": "李阿姨用36.4米布做衣服，平均每套衣服用布2.3米．这些布可以做多少套衣服?",
+    "lang": "CN",
+    "output": "根据题意，李阿姨有36.4米布可以做多少套衣服？\n\n首先，我们需要将每套衣服的布数减去一半套数。因为每套衣服的布数必须是偶数，所以每套衣服的减去一半套数就是一半套数。\n\n然后，我们可以计算出每套衣服用的布数。每套衣服用的布数是2.3米，那么一套衣服用的布数就是2.3米 / 2 = 1.15米。\n\n最后，我们可以计算出多少套衣服可以用到。因为每套衣服用的布数是1.15米，所以36.4米 / 1.15米 = 31套衣服。\n\n因此，李阿姨有36.4米布可以做31套衣服。",
+    "question_num": 350,
+    "source": "BELLE",
+    "type": "Math"
+  },
+  {
+    "instruction": "王叔叔修建一个周长是100.48米的圆形牛栏．如果每头牛的占地面积是2.5平方米，那么这个牛栏最多可养多少头牛？（得数保留整数）",
+    "lang": "CN",
+    "output": "假设周长为$100.48\\ m$的圆形牛栏，其中每头牛占地面积为$2.5\\ m^2$。\n\n为了计算这个牛栏最多可养多少头牛，我们需要先计算出圆形牛栏的面积。由于圆形牛栏周长为$100.48\\ m$，半径为$50.24\\ m$，因此它的面积为$A = \\pi r^2 = \\pi 50.24^2 = 7859.2\\ m^2$。\n\n然后，我们可以使用以下公式计算每头牛所占面积的比例：\n\n$f = \\frac{A}{n} = \\frac{7859.2}{n}$\n\n其中，$n$为每头牛所占面积的数量。\n\n将公式代入计算器，我们得到：\n\n$f = \\frac{7859.2}{n} = \\frac{7859.2}{x}$\n\n其中，$x$为每头牛所占面积的数量。\n\n解出$x$：\n\n$x = \\frac{7859.2}{f} = \\frac{7859",
+    "question_num": 360,
+    "source": "BELLE",
+    "type": "Math"
+  },
+  {
+    "instruction": "新星小学组织学生观看展览会，上午去了4批学生，每批120人，下午又去了450人，这一天共有多少学生观看展览会？",
+    "lang": "CN",
+    "output": "上午4批×120人=480人\n\n下午450人，总共有480人+450人=930人。\n\n答案：930人。",
+    "question_num": 363,
+    "source": "BELLE",
+    "type": "Math"
+  },
+  {
+    "instruction": "某筑路队5天挖土150方，现有750方土，需多少天挖完?",
+    "lang": "CN",
+    "output": "根据某筑路队的工作量和现有土的数量，可以计算出每一天的工作量。然后将每一天的工作量加起来，得到总共需要完成的工作量。最后将总共需要完成的工作量除以每一天的工作量，得到需要完成的天数。\n\n根据题目中给出的数据，某筑路队每一天挖土的工作量为150方，现有的土地数量为750方。因此，总共需要完成的工作量为750 × 150 = 112500方。\n\n将112500方除以150方即可得到需要完成的天数：112500 ÷ 150 = 777.67天。因此，某筑路队需要777.67天才能完成这个工作。\n\n注意：由于题目中没有给出某筑路队每天工作的时间，因此无法确定每天工作的时间长度。因此，无法确定某筑路队每天能够完成的工作量。",
+    "question_num": 361,
+    "source": "BELLE",
+    "type": "Math"
+  },
+  {
+    "instruction": "学校有女老师43人，男老师比女老师少27人，学校一共有老师多少人?",
+    "lang": "CN",
+    "output": "女老师43人，男老师27人，总老师人数为43+27=70人。\n\n总老师人数=女老师人数+男老师人数。",
+    "question_num": 351,
+    "source": "BELLE",
+    "type": "Math"
+  },
+  {
+    "instruction": "商店有42个苹果，如果平均6个苹果装一盒，需要多少个盒子？",
+    "lang": "CN",
+    "output": "如果商店有42个苹果，每盒装6个苹果，那么需要多少个盒子？\n\n答案：42 / 6 = 7.333333333333333 盒子。\n\n因为42 ÷ 6 = 7.333333333333333，所以需要7.333333333333333个盒子。",
+    "question_num": 353,
+    "source": "BELLE",
+    "type": "Math"
+  },
+  {
+    "instruction": "李老师读一本教育专著，每天读108页，第4天她应该从多少页读起？",
+    "lang": "CN",
+    "output": "如果李老师每天读108页，那么第4天她应该从第408页读起。因为她每天都读108页，所以第4天她应该读108页，即第408页。\n\n注意：这只是一个简单的算法，实际上每天读108页的速度可能会有所不同，因此具体的计算方式可能会有所变化。",
+    "question_num": 355,
+    "source": "BELLE",
+    "type": "Math"
+  },
+  {
+    "instruction": "商店有一些大米，每袋50千克，卖出80袋，还剩下5吨，这个商店原来有大米多少吨？",
+    "lang": "CN",
+    "output": "根据题意，商店原来有大米的数量为x吨，卖出了80袋大米，剩下的大米数量为x-80袋。因此，商店原来有的大米数量等于剩下的大米数量，即x-80袋=x。\n\n解决方法：\n\nx = x-80袋 = x（剩下的大米数量等于卖出的大米数量）\n\n解这个方程得到：x=80袋\n\n因此，商店原来有的大米数量等于卖出的大米数量，即80袋。",
+    "question_num": 356,
+    "source": "BELLE",
+    "type": "Math"
+  },
+  {
+    "instruction": "两筐重量相等的苹果,从甲筐取出 7 千克,乙筐加上 19 千克,这时乙筐的重量是甲筐重量的 3 倍,原来两筐各有苹果多少千克？",
+    "lang": "CN",
+    "output": "假设甲筐原来有x千克的苹果，乙筐原来有(x+19)千克的苹果。\n\n根据题意，可以列出以下两个方程：\n\n1. x + 7 = 3(x+19)\n2. 2x + 20 = 3x + 19\n\n我们可以将第二个方程转换为：\n\n2x - 3x - 19 = 20 - 3x\n\n化简得：\n\n2x - 3x = 20\n\n化简得：\n\n2x = 20 + 3x\n\n化简得：\n\n2x = 5x\n\n化简得：\n\nx = 2.5\n\n将x的值代入第一个方程，得到：\n\n2.5 + 7 = 3(2.5 + 19)\n\n化简得：\n\n14.5 + 7 = 3(2.5 + 19)\n\n化简得：\n\n21.5 = 3(2.5 + 19)\n\n化简得：\n\n21.5 = 3(2.5 + 19)\n\n化简得：\n\n64.5 = 2.5 + 19\n\n化简得：\n\n64.5 = 20.5\n\n因此，原来甲筐有20.5千克",
+    "question_num": 349,
+    "source": "BELLE",
+    "type": "Math"
+  },
+  {
+    "instruction": "爸爸每分钟能打字152个，一份800字的稿件，他5分钟能打完多少字？",
+    "lang": "CN",
+    "output": "父亲每分钟能输入152个字，那么他每分钟能输入（152*800）/5 = 1600 字。\n\n总共要输入的字数为800*5 = 4000 字。\n\n因此，父亲需要花费5分钟时间才能输入完整篇800字的文章。",
+    "question_num": 358,
+    "source": "BELLE",
+    "type": "Math"
+  },
+  {
+    "instruction": "请将以下文本翻译成英语:我最喜欢的颜色是蓝色。",
+    "lang": "CN",
+    "output": "My favorite color is blue.\n\n翻译：我最喜欢的颜色是蓝色。",
+    "question_num": 369,
+    "source": "BELLE",
+    "type": "Translation"
+  },
+  {
+    "instruction": "请将以下句子翻译成中文:I love to explore new cultures.",
+    "lang": "CN",
+    "output": "我喜欢探索新的文化。\n\nExploring new cultures can be a rewarding and eye-opening experience. It allows you to learn about different ways of life, customs, and beliefs, and can broaden your perspective on the world.\n\nWhen you travel to a new country or region, try to immerse yourself in the local culture. This can involve trying new foods, attending cultural events, and talking to locals to learn more about their way of life.\n\nYou don't have to travel far to explore new cultures. You can find diverse cultures in your own community, such as through local festivals or by visiting museums and cultural centers.\n\nBy embracing and learning about other cultures, you can gain a deeper understanding and appreciation for the rich diversity of the world.",
+    "question_num": 381,
+    "source": "BELLE",
+    "type": "Translation"
+  },
+  {
+    "instruction": "请将这个句子翻译成汉语:\"I love listening to music.\"",
+    "lang": "CN",
+    "output": "我喜欢听音乐。\n\n答案解释：\n\n这个句子的意思是：我喜欢听音乐。这是一种很普遍的喜好，很多人都喜欢听音乐。音乐可以给人带来很多乐趣和愉悦。\n\n\"I love\" 这个句子的意思是：我真心爱。在这个句子中，\"love\" 是一个很强烈的情感词，表示对音乐的热爱和喜爱。\n\n\"listening to music\" 这个句子的意思是：听音乐。这个句子表示了听音乐的动作，听音乐是一种非常愉悦的事情。\n\n总的来说，这个句子的意思是：我真心爱听音乐，听音乐是一种非常愉悦的事情。",
+    "question_num": 388,
+    "source": "BELLE",
+    "type": "Translation"
+  },
+  {
+    "instruction": "将以下句子翻译成中文:“I like reading books on weekends.”",
+    "lang": "CN",
+    "output": "我喜欢在周末阅读书籍。\n\n简化翻译：我喜欢在周末阅读书籍。\n\n字数限制：我喜欢在周末阅读书籍。",
+    "question_num": 379,
+    "source": "BELLE",
+    "type": "Translation"
+  },
+  {
+    "instruction": "提供以下英文句子的中文翻译:\"Life is like a box of chocolates, you never know what you're gonna get.\"",
+    "lang": "CN",
+    "output": "生活像一个巧克力盒子，你从未知道你会得到什么。\n\n这句话的意思是，生活是像一个巧克力盒子一样，因为我们从未知道生活会抛伪我们的方向，所以我们必须时刻保持准备。这个句子通常用于说，生活是完全不可预测的，因此我们必须时刻保持准备，因为我们从未知道我们会遇到什么。",
+    "question_num": 383,
+    "source": "BELLE",
+    "type": "Translation"
+  },
+  {
+    "instruction": "请将以下英文句子翻译成中文:“I have a dream that one day this nation will rise up and live out the true meaning of its creed.”",
+    "lang": "CN",
+    "output": "我有一个梦想，一天这个国家会站起来，实现它的真正意义。\n\n“I have a dream that one day this nation will rise up and live out the true meaning of its creed.”\n\n这句话的意思是：“我有一个梦想，一天这个国家会站起来，实现它的真正意义。”\n\n简化翻译：“我有一个梦想，一天这个国家会站起来，实现它的真正意义。”\n\n字数限制：200字。",
+    "question_num": 388,
+    "source": "BELLE",
+    "type": "Translation"
+  },
+  {
+    "instruction": "请将以下句子翻译成法语:“你好，今天天气真不错。”",
+    "lang": "CN",
+    "output": "Bonjour, aujourd'hui le temps est très agréable.",
+    "question_num": 381,
+    "source": "BELLE",
+    "type": "Translation"
+  },
+  {
+    "instruction": "请将以下句子翻译成英语:“我喜欢在海边度假。”",
+    "lang": "CN",
+    "output": "I like to go to the beach for vacation.",
+    "question_num": 374,
+    "source": "BELLE",
+    "type": "Translation"
+  },
+  {
+    "instruction": "将以下句子翻译成英语:我想学一门新语言，法语听起来很有趣。",
+    "lang": "CN",
+    "output": "I want to learn a new language, French sounds very interesting.\n\nTranslation: I want to learn a new language, French sounds very interesting.\n\nExplanation: The original sentence is in Chinese and it means that the speaker wants to learn a new language and they find the sound of French interesting. The translation is a direct and literal translation of the original sentence.",
+    "question_num": 371,
+    "source": "BELLE",
+    "type": "Translation"
+  },
+  {
+    "instruction": "请将以下句子翻译成中文:I love French cuisine.",
+    "lang": "CN",
+    "output": "我喜欢法国菜。\n\nPlease feed the dog.",
+    "question_num": 387,
+    "source": "BELLE",
+    "type": "Translation"
+  }
+]
